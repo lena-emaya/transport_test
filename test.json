@@ -1,0 +1,67 @@
+[
+	{
+	  "featureType": "background",
+	  "stylers": {
+	  "color": "#E01B28"}
+ 	},
+	{
+		"featureType": "admin",
+		"stylers": {
+		"color": "#E01B28"}
+	 },
+	 {
+		"featureType": "building",
+		"stylers": {
+		"color": "#f5f2e9"}
+	 },
+	 {
+		"featureType": "fence",
+		"stylers": {
+		"visibility": "off"}
+	 },
+	 {
+		"featureType": "ferry",
+		"stylers": {
+		"visibility": "off"}
+	 },
+	 {
+		"featureType": "hydro",
+		"stylers": {
+		"color": "#e4f6f7"}
+	 },
+	 {
+		"featureType": "label",
+		"stylers": {
+		"visibility": "off"}
+	 },
+	 {
+		"featureType": "poi",
+		"stylers": {
+		"visibility": "off"}
+	},
+	 {
+		"featureType": "transport",
+		"stylers": {
+		"visibility": "off"}
+	},
+	{
+		"featureType": "urban-area.industrial",
+		"stylers": {
+		"color": "#f1edf3"}
+	 },
+	 {
+		"featureType": "urban-area.airport",
+		"stylers": {
+		"color": "#f1edf3"}
+	 },
+	 {
+		"featureType": "urban-area",
+		"stylers": {
+		"visibility": "off"}
+	 },
+	 {
+		"featureType": "vegetation",
+		"stylers": {
+		"color": "#e6f7e6"}
+	 }
+]
