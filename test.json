@@ -11,6 +11,13 @@
 	 },
 	 {
 		"featureType": "building",
+		"zooms": "13-15",
+		"stylers": {
+		"visibility": "off",
+		"color": "#f3f0e7"}
+	 },
+	 {
+		"featureType": "building",
 		"stylers": {
 		"visibility": "on",
 		"color": "#f3f0e7"}
@@ -229,8 +236,8 @@
 	{
 		"featureType": "road.local.pedestrian",
 		"stylers": {
-			"visibility": "off",
-			"color": "#e8e3d5"}
+			"visibility": "on",
+			"color": "#d7d5d1"}
 	},
 	{
 		"featureType": "road.local",
