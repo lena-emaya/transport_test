@@ -97,7 +97,7 @@
 		}
 		},
 	 {
-		"featureType":"label.road.toll",
+		"featureType":"label",
 		"stylers":{
 			"visibility":"off"
 		}
