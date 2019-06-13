@@ -19,9 +19,13 @@
 
 	 {
 		"featureType": "label.building",
+		"zooms": "17-18",
 		"stylers": {
 		"visibility": "on",
-		"color": "#c4bfa7"}
+		"color": "#c4bfa7",
+		"scale": 0.7
+		}
+
 	 },
 
 	 {
