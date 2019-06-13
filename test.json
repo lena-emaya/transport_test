@@ -242,58 +242,32 @@
 	{
 		"featureType": "road.local",
 		"zoomSlices": [
-		 {
-				"zooms": "9-10",
-				"stylers":  {
-					"line-width": 0.5,
-					"color": "#e3e3e0",
-				 "outline-color": "#d7d5d1",
-				 "outline-width": 1
-				}
-			},
-			{
-				"zooms": "10-11",
-				"stylers":  {
-					"line-width": 0.8,
-					"color": "#edecea",
-				 "outline-color": "#d7d5d1",
-				 "outline-width": 1
-				}
-		 },
-		 {
-				"zooms": "11-12",
-				"stylers":  {
-					"line-width": 1.3,
-					"color": "#f6f6f5",
-				 "outline-color": "#d7d5d1",
-				 "outline-width": 1.5
-				}
-		 },
+
 		 {
 				"zooms": "12-13",
 				"stylers":  {
-					"line-width": 1.8,
+					"line-width": 1,
 					"color": "#ffffff",
 				 "outline-color": "#d7d5d1",
-				 "outline-width": 2
+				 "outline-width": 1.2
 				}
 		 },
 		 {
 				"zooms": "13-14",
 				"stylers":  {
-					"line-width": 2.5,
+					"line-width": 1.5,
 					"color": "#ffffff",
 				 "outline-color": "#d7d5d1",
-				 "outline-width": 2.7
+				 "outline-width": 1.7
 				}
 		 },
 		 {
 				"zooms": "14-15",
 				"stylers":  {
-					"line-width": 2.8,
+					"line-width": 2,
 					"color": "#ffffff",
 				 "outline-color": "#d7d5d1",
-				 "outline-width": 3
+				 "outline-width": 2.3
 				}
 		 },
 		 {
@@ -302,45 +276,45 @@
 					"line-width": 3,
 					"color": "#ffffff",
 				 "outline-color": "#d7d5d1",
-				 "outline-width": 3.3
+				 "outline-width": 2.3
 				}
 		 },
 		 {
 				"zooms": "16-17",
 				"stylers":  {
-					"line-width": 4,
+					"line-width": 3,
 					"color": "#ffffff",
 				 "outline-color": "#d7d5d1",
-				 "outline-width": 4.4
+				 "outline-width": 3.4
 	 
 				}
 		 },
 		 {
 				"zooms": "17-18",
 				"stylers":  {
-					"line-width": 5,
+					"line-width": 4,
 					"color": "#ffffff",
 				 "outline-color": "#d7d5d1",
-				 "outline-width": 5.5
+				 "outline-width": 4.5
 				}
 			},
 		 {
 				"zooms": "18-19",
 				"stylers":  {
-				 "line-width": 6,
+				 "line-width": 5,
 				 "color": "#ffffff",
 				 "outline-color": "#d7d5d1",
-				 "outline-width": 6.5
+				 "outline-width": 5.5
 				 
 				}
 		 },
 		 {
 				"zooms": "19-20",
 				"stylers":  {
-					"line-width": 14,
+					"line-width": 12,
 					"color": "#ffffff",
 					"outline-color": "#d7d5d1",
-					"outline-width": 14.5
+					"outline-width": 12.5
 				}
 			}
 			] 
