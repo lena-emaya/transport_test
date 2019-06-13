@@ -6,7 +6,7 @@
 	 },
 	 
 {
-	 "featureType": "country (zoom 1-4)",
+	 "featureType": "admin (border)",
 	 "stylers": {
 	 "color": "#E01B28"}
 	},
