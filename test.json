@@ -12,8 +12,8 @@
 	 {
 		"featureType": "building",
 		"stylers": {
-		"visibility": "off",
-		"color": "#f5f2e9"}
+		"visibility": "on",
+		"color": "#f3f0e7"}
 	 },
 	 {
 		"featureType": "fence",
