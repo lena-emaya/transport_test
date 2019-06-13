@@ -5,6 +5,11 @@
 		"color": "#f9f7f2"}
 	 },
 	 {
+		"featureType": "admin.country",
+		"stylers": {
+		"color": "#f9f7f2"}
+	 },
+	 {
 		"featureType": "admin.locality",
 		"stylers": {
 		"color": "#f9f7f2"}
