@@ -4,6 +4,12 @@
 		"stylers": {
 		"color": "#f9f7f2"}
 	 },
+	 
+{
+	 "featureType": "border_country_1-4_line",
+	 "stylers": {
+	 "color": "#E01B28"}
+	},
 	 {
 		"featureType": "admin.country",
 		"stylers": {
