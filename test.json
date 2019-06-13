@@ -97,7 +97,7 @@
 		}
 		},
 	 {
-		"featureType":"label.trafficlight",
+		"featureType":"label.transport.trafficlight",
 		"stylers":{
 			"visibility":"off"
 		}
