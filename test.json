@@ -300,6 +300,7 @@
 		 {
 				"zooms": "12-13",
 				"stylers":  {
+					"visibility": "off",
 					"line-width": 1,
 					"color": "#ffffff",
 				 "outline-color": "#d7d5d1",
@@ -309,6 +310,7 @@
 		 {
 				"zooms": "13-14",
 				"stylers":  {
+					"visibility": "off",
 					"line-width": 1.5,
 					"color": "#ffffff",
 				 "outline-color": "#d7d5d1",
