@@ -62,19 +62,17 @@
 	 {
 		"featureType": "label.hydro",
 		"stylers": {
-		"visibility": "on",
-		"color": "#afc2de"}
+			"scale": 0.8,
+			"visibility": "on",
+			"color": "#afc2de"
+		}
 	 },
 	 {
 		"featureType": "hydro",
 		"stylers": {
 		"color": "#dce9f5"}
 	 },
-	 {
-		"featureType": "label",
-		"stylers": {
-		"visibility": "on"}
-	 },
+	 
 	 {
 		"featureType": "poi",
 		"stylers": {
