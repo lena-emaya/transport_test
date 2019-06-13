@@ -91,7 +91,11 @@
 				"visibility":"off"
 		}
 	},
-	
+	 {
+		"featureType": "poi",
+		"stylers": {
+		"lightness": 0.5}
+	},
 	{
 		"featureType": "transport",
 		"stylers": {
