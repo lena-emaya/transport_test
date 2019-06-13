@@ -11,14 +11,22 @@
 	 },
 	 {
 		"featureType": "building",
-		"zooms": "13-16",
+		"zooms": "13-15",
 		"stylers": {
 		"visibility": "off",
 		"color": "#f3f0e7"}
 	 },
 	 {
 		"featureType": "building",
-		"zooms": "16-22",
+		"zooms": "17-18",
+		"stylers": {
+			"opacity": 0.6,
+			"visibility": "on",
+			"color": "#f3f0e7"}
+	 },
+	 {
+		"featureType": "building",
+		"zooms": "18-22",
 		"stylers": {
 		"visibility": "on",
 		"color": "#f3f0e7"}
