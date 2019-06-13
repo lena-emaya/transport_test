@@ -97,7 +97,7 @@
 		}
 		},
 	 {
-		"featureType":"label.poi.toll",
+		"featureType":"label.road.trafficlight",
 		"stylers":{
 			"visibility":"off"
 		}
