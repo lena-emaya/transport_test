@@ -5,7 +5,7 @@
 		"color": "#f9f7f2"}
 	 },
 	 {
-		"featureType": "admin.area",
+		"featureType": "admin.locality",
 		"stylers": {
 		"color": "#f9f7f2"}
 	 },
