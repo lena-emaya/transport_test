@@ -16,6 +16,14 @@
 		"visibility": "off",
 		"color": "#f3f0e7"}
 	 },
+
+	 {
+		"featureType": "label.building",
+		"stylers": {
+		"visibility": "on",
+		"color": "#c4bfa7"}
+	 },
+
 	 {
 		"featureType": "building",
 		"stylers": {
@@ -273,10 +281,10 @@
 		 {
 				"zooms": "15-16",
 				"stylers":  {
-					"line-width": 3,
+					"line-width": 2.5,
 					"color": "#ffffff",
 				 "outline-color": "#d7d5d1",
-				 "outline-width": 2.3
+				 "outline-width": 2.8
 				}
 		 },
 		 {
