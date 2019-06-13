@@ -1,10 +1,6 @@
 [
 
-	{
-		"featureType": "admin",
-		"stylers": {
-		"color": "#f9f7f2"}
-	 },
+	
 	 {
 		"featureType": "building",
 		"zooms": "13-17",
@@ -66,7 +62,7 @@
 	 {
 		"featureType":"label.road.highway",
 		"stylers":{
-			"color": "#ccc",
+			"color": "#333",
 			"outline-color": "#fff"
 		}
 		},
@@ -85,7 +81,7 @@
 	 {
 		"featureType": "poi",
 		"stylers": {
-		"lightness": 0.5}
+		"lightness": 0.25}
 	},
 	{
 		"featureType": "transport",
