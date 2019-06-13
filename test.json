@@ -90,13 +90,13 @@
 		"stylers":{
 				"visibility":"off"
 		}
-}	,
-	 {
-		"featureType": "poi",
-		"stylers": {
-		"visibility": "off"}
 	},
-	 {
+	//  {
+	// 	"featureType": "poi",
+	// 	"stylers": {
+	// 	"visibility": "off"}
+	// },
+	{
 		"featureType": "transport",
 		"stylers": {
 		"visibility": "off"}
