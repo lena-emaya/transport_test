@@ -104,6 +104,7 @@
 		},
 	{
 		"featureType":"label.road.trafficlight",
+		"zooms": "0-22",
 		"stylers":{
 			"visibility":"off"
 		}
