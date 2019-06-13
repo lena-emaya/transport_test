@@ -307,8 +307,8 @@
 	{
 		"featureType": "road.local.pedestrian",
 		"stylers": {
-			
-			"visibility": "off"}
+			"color": "#fff"
+		}
 	},
 	{
 		"featureType": "road.local",
@@ -391,5 +391,11 @@
 				}
 			}
 			] 
-	}
+	},
+	{
+		"featureType":"road.local.bike",
+		"stylers":{
+				"visibility":"off"
+		}
+},
 ]
