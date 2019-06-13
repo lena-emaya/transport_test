@@ -3,7 +3,17 @@
 	  "featureType": "background",
 	  "stylers": {
 	  "color": "#E01B28"}
- 	},
+	 },
+	{
+		"featureType": "road.highway.direction",
+		"stylers": {
+		"visibility": "off"}
+	},
+	{
+		"featureType": "road.local.direction",
+		"stylers": {
+		"visibility": "off"}
+	},
 	{
 		"featureType": "admin",
 		"stylers": {
