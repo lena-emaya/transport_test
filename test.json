@@ -73,6 +73,13 @@
 		"color": "#dce9f5"}
 	 },
 	 {
+		"featureType":"label.road.hyghway",
+		"stylers":{
+			"color": "#ccc",
+			"outline-color": "#fff"
+		}
+		},
+	 {
 		"featureType":"label.road.toll",
 		"stylers":{
 				"visibility":"off"
