@@ -103,7 +103,7 @@
 		}
 		},
 	{
-		"featureType":"label.road.trafficlight",
+		"featureType":"label.road.traffic_light",
 		"zooms": "0-22",
 		"stylers":{
 			"visibility":"off"
