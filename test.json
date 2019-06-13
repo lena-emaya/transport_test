@@ -25,7 +25,16 @@
 	 },
 	 {
 		"featureType": "label.building",
-		"zooms": "17-22",
+		"zooms": "0-18",
+		"stylers": {
+		"visibility": "off",
+		"color": "#c4bfa7",
+		"scale": 0.7
+		}
+	 },
+	 {
+		"featureType": "label.building",
+		"zooms": "18-22",
 		"stylers": {
 		"visibility": "on",
 		"color": "#c4bfa7",
@@ -41,6 +50,12 @@
 		"featureType": "ferry",
 		"stylers": {
 		"visibility": "off"}
+	 },
+	 {
+		"featureType": "label.hydro",
+		"stylers": {
+		"visibility": "on",
+		"color": "#afc2de"}
 	 },
 	 {
 		"featureType": "hydro",
