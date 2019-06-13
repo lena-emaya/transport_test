@@ -12,16 +12,12 @@
 		"scale": 0.5}
 	},
 	 {
-		"featureType": "admin.country",
+		"featureType": "admin",
 		"stylers": {
 			"color": "#f4f2eb"
 		}
 	 },
-	 {
-		"featureType": "admin.locality",
-		"stylers": {
-		"color": "#f4f2eb"}
-	 },
+	
 	 {
 		"featureType": "building",
 		"zooms": "13-17",
