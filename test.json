@@ -2,12 +2,12 @@
 	{
 	  "featureType": "background",
 	  "stylers": {
-	  "color": "#faf9f5"}
+	  "color": "#f9f7f2"}
 	 },
 	{
 		"featureType": "admin",
 		"stylers": {
-		"color": "#faf9f5"}
+		"color": "#f9f7f2"}
 	 },
 	 {
 		"featureType": "building",
@@ -28,7 +28,7 @@
 	 {
 		"featureType": "hydro",
 		"stylers": {
-		"color": "#dff2f5"}
+		"color": "#dce9f5"}
 	 },
 	 {
 		"featureType": "label",
