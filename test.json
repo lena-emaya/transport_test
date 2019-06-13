@@ -72,7 +72,11 @@
 		"stylers": {
 		"color": "#dce9f5"}
 	 },
-	 
+	 {
+		"featureType": "label.road.trafficlight",
+		"stylers": {
+		"visibility": "off"}
+	},
 	 {
 		"featureType": "poi",
 		"stylers": {
@@ -288,8 +292,8 @@
 	{
 		"featureType": "road.local.pedestrian",
 		"stylers": {
-			"visibility": "off",
-			"color": "#d7d5d1"}
+			
+			"color": "#fff"}
 	},
 	{
 		"featureType": "road.local",
