@@ -4,8 +4,12 @@
 		"stylers": {
 		"color": "#FCFAF5"}
 	 },
-	 
-{
+	 {
+		"featureType": "urban-area.residential",
+		"stylers": {
+			"color": "#FCFAF5"}
+	 },
+	{
 	 "featureType": "admin.border.country",
 	 "stylers": {
 	 	"color": "#b2945a",
