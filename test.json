@@ -182,7 +182,7 @@
          "line-width": 4.9,
          "color": "#ffffff",
 				"outline-color": "#d7d5d1",
-				"outline-width": 5.1
+				"outline-width": 5.3
        }
 		},
 		{
@@ -191,7 +191,7 @@
          "line-width": 6,
          "color": "#ffffff",
 				"outline-color": "#d7d5d1",
-				"outline-width": 6.2
+				"outline-width": 6.4
   
        }
 		},
@@ -201,7 +201,7 @@
          "line-width": 8,
          "color": "#ffffff",
 				"outline-color": "#d7d5d1",
-				"outline-width": 8.2
+				"outline-width": 8.5
        }
      },
 		{
@@ -210,7 +210,7 @@
         "line-width": 10,
         "color": "#ffffff",
 				"outline-color": "#d7d5d1",
-				"outline-width": 10.2
+				"outline-width": 10.5
         
        }
 		},
@@ -220,7 +220,7 @@
          "line-width": 14,
          "color": "#ffffff",
 				 "outline-color": "#d7d5d1",
-				 "outline-width": 14.2
+				 "outline-width": 14.5
        }
      }
      ] 
