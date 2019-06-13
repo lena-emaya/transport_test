@@ -236,12 +236,15 @@
 	{
 		"featureType": "road.local.pedestrian",
 		"stylers": {
-			"visibility": "on",
+			"visibility": "off",
 			"color": "#d7d5d1"}
 	},
 	{
 		"featureType": "road.local",
 		"stylers": {
-			"visibility": "off"}
+			"visibility": "on",
+			"color": "#ffffff",
+			"outline-color": "#d7d5d1"
+		}
 	}
 ]
