@@ -73,10 +73,17 @@
 		"color": "#dce9f5"}
 	 },
 	 {
-		"featureType": "label.road.trafficlight",
-		"stylers": {
-		"visibility": "off"}
-	},
+		"featureType":"label.road.toll",
+		"stylers":{
+				"visibility":"off"
+		}
+		},
+	{
+		"featureType":"label.road.trafficlight",
+		"stylers":{
+				"visibility":"off"
+		}
+}	,
 	 {
 		"featureType": "poi",
 		"stylers": {
