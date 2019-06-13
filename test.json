@@ -307,7 +307,8 @@
 	{
 		"featureType": "road.local.pedestrian",
 		"stylers": {
-			"color": "#fff"
+			"color": "#fff",
+			"width": 0.5
 		}
 	},
 	{
