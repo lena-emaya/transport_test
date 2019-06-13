@@ -63,7 +63,6 @@
 		"featureType": "label.hydro",
 		"stylers": {
 			"scale": 0.8,
-			"visibility": "on",
 			"color": "#afc2de"
 		}
 	 },
@@ -82,13 +81,13 @@
 	 {
 		"featureType":"label.road.toll",
 		"stylers":{
-				"visibility":"off"
+			"visibility":"off"
 		}
 		},
 	{
 		"featureType":"label.road.trafficlight",
 		"stylers":{
-				"visibility":"off"
+			"visibility":"off"
 		}
 	},
 	 {
@@ -111,11 +110,7 @@
 		"stylers": {
 		"color": "#f1edf3"}
 	 },
-	 {
-		"featureType": "urban-area",
-		"stylers": {
-		"visibility": "off"}
-	 },
+	
 	 {
 		"featureType": "vegetation",
 		"zoomSlices": [
