@@ -1,6 +1,14 @@
 [
-
-	
+	{
+		"featureType": "background",
+		"stylers": {
+		"color": "#f9f7f2"}
+	 },
+	 {
+		"featureType": "admin.area",
+		"stylers": {
+		"color": "#f9f7f2"}
+	 },
 	 {
 		"featureType": "building",
 		"zooms": "13-17",
@@ -41,7 +49,11 @@
 		"scale": 0.7
 		}
 	 },
-
+	 {
+		"featureType": "fence",
+		"stylers": {
+		"visibility": "off"}
+	 },
 	 {
 		"featureType": "ferry",
 		"stylers": {
