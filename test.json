@@ -73,7 +73,7 @@
 	 {
 		"featureType": "label",
 		"stylers": {
-		"visibility": "off"}
+		"visibility": "on"}
 	 },
 	 {
 		"featureType": "poi",
