@@ -168,7 +168,7 @@
 		"visibility": "off"}
 	},
 	{
-   "featureType": "road_1",
+   "featureType": "road",
    "zoomSlices": [
      {
        "zooms": "3-5",
