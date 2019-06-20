@@ -102,6 +102,12 @@
 			"visibility":"off"
 		}
 		},
+		{
+			"featureType":"label.trafficlight",
+			"stylers":{
+				"visibility":"off"
+			}
+			},
 	{
 		"featureType":"label.road",
 		"zooms": "0-22",
