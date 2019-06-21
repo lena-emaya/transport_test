@@ -98,7 +98,7 @@
 		},
 	 
 		{
-			"featureType":"label.roadnet_p.urban-roadnet-traffic-light",
+			"featureType":"road_symbol.traffic-light",
 			"stylers":{
 				"visibility":"off"
 			}
