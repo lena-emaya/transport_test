@@ -129,7 +129,7 @@
 			"visibility": "off"}
 	 },
 	 {
-		"featureType": "roadnet_p.urban-roadnet-gate-car",
+		"featureType": "roadnet_p",
 		"stylers": {
 			"visibility": "off"}
 	 },
