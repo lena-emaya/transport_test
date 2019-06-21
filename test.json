@@ -90,7 +90,12 @@
 		"color": "#dce9f5"}
 	 },
 	 {
-		"featureType": "roadnet_p.urban-roadnet-traffic-lightt",
+		"featureType": "nonauto",
+		"stylers": {
+			"visibility": "off"}
+	 },
+	 {
+		"featureType": "label.road.trafficlight.",
 		"stylers": {
 			"visibility": "off"}
 	 },
