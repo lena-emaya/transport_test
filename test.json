@@ -64,7 +64,7 @@
 		}
 	 },
 	 {
-		"featureType": "label.building",
+		"featureType": "building_number",
 		"zooms": "19-22",
 		"stylers": {
 		"visibility": "on",
