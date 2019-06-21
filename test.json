@@ -58,19 +58,19 @@
 	 },
 	 {
 		"featureType": "building_number",
-		"zooms": "0-19",
+		"zooms": "0-18",
 		"stylers": {
 		"visibility": "off"
 		}
 	 },
 	 {
 		"featureType": "building_number",
-		"zooms": "19-22",
+		"zooms": "18-22",
 		"stylers": {
 		"visibility": "on",
 		"color": "#a4a094",
 		"outline-width": 0,
-		"scale": 0.6
+		"scale": 0.7
 		}
 	 },
 	 {
