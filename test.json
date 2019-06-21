@@ -91,7 +91,7 @@
 		}
 	 },
 	 {
-		"featureType": "label.hydro",
+		"featureType": "hydro_l_label",
 		"stylers": {
 			"scale": 0.8,
 			"color": "#a1b2c4"
