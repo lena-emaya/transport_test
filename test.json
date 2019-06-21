@@ -96,25 +96,14 @@
 			"outline-color": "#fff"
 		}
 		},
-	 {
-		"featureType":"label",
-		"stylers":{
-			"visibility":"off"
-		}
-		},
+	 
 		{
 			"featureType":"roadnet_p.urban-roadnet-traffic-light",
 			"stylers":{
 				"visibility":"off"
 			}
 			},
-	{
-		"featureType":"label.road",
-		"zooms": "0-22",
-		"stylers":{
-			"visibility":"on"
-		}
-	},
+	
 	{
 		"featureType": "transport",
 		"stylers": {
