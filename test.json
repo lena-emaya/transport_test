@@ -152,16 +152,6 @@
 			}
 		]
 	 },
-	 {
-		"featureType": "road.highway.direction",
-		"stylers": {
-		"visibility": "off"}
-	},
-	{
-		"featureType": "road.local.direction",
-		"stylers": {
-		"visibility": "off"}
-	},
 	{
    "featureType": "road",
    "zoomSlices": [
