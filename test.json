@@ -13,12 +13,12 @@
 	 {
 		"featureType": "urban-area.industrial",
 		"stylers": {
-		"color": "#f1edf3"}
+		"color": "#ebebed"}
 	 },
 	 {
 		"featureType": "urban-area.airport",
 		"stylers": {
-		"color": "#f1edf3"}
+		"color": "#ebebed"}
 	 },
 	{
 	 "featureType": "admin.border.country",
@@ -84,7 +84,7 @@
 		"visibility": "off"}
 	 },
 	 {
-		"featureType": "label.hydro",
+		"featureType": "label.hydro.",
 		"stylers": {
 			"scale": 0.8,
 			"color": "#a1b2c4"
