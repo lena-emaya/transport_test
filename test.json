@@ -1,13 +1,24 @@
 [
 	{
-		"featureType": "background",
+		"featureType": "admin",
 		"stylers": {
-		"color": "#f9f7f2"}
+			"color": "#f9f7f2"
+		}
 	 },
 	 {
 		"featureType": "urban-area.residential",
 		"stylers": {
-			"color": "#fcfcf8"}
+			"color": "#f9f7f2"}
+	 },
+	 {
+		"featureType": "urban-area.industrial",
+		"stylers": {
+		"color": "#f1edf3"}
+	 },
+	 {
+		"featureType": "urban-area.airport",
+		"stylers": {
+		"color": "#f1edf3"}
 	 },
 	{
 	 "featureType": "admin.border.country",
@@ -15,12 +26,7 @@
 	 	"color": "#b2945a",
 		"scale": 0.5}
 	},
-	 {
-		"featureType": "admin",
-		"stylers": {
-			"color": "#f9f7f2"
-		}
-	 },
+	 
 	
 	 {
 		"featureType": "building",
@@ -81,7 +87,7 @@
 		"featureType": "label.hydro",
 		"stylers": {
 			"scale": 0.8,
-			"color": "#bce6f0"
+			"color": "#a1b2c4"
 		}
 	 },
 	 {
@@ -105,16 +111,7 @@
 		"stylers": {
 		"visibility": "off"}
 	},
-	{
-		"featureType": "urban-area.industrial",
-		"stylers": {
-		"color": "#f1edf3"}
-	 },
-	 {
-		"featureType": "urban-area.airport",
-		"stylers": {
-		"color": "#f1edf3"}
-	 },
+	
 	
 	 {
 		"featureType": "vegetation",
@@ -122,7 +119,7 @@
 			{
 				"zooms": "3-8",
 				"stylers": {
-					"opacity": 0.3,
+					"opacity": 0.1,
 					"color": "#c7e7cb"
 			}
 			},
@@ -136,7 +133,7 @@
 			{
 				"zooms": "15-22",
 				"stylers": {
-					"opacity": 0.8,
+					"opacity": 1,
 					"color": "#c7e7cb"
 			}
 			}
