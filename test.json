@@ -148,7 +148,7 @@
 	 {
 		"featureType": "label.road",
 		"stylers": {
-			"scale": 0.6,
+			"scale": 0.8,
 			"outline-color": "rgba(0, 0, 0, 0)",
 			"outline-width": 0,
 			"color": "#92918b"
