@@ -129,6 +129,11 @@
 			"visibility": "off"}
 	 },
 	 {
+		"featureType": "roadnet_p.urban-roadnet-gate-car",
+		"stylers": {
+			"visibility": "off"}
+	 },
+	 {
 		"featureType": "label.road.marker",
 		"stylers": {
 			"visibility": "off"}
