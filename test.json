@@ -98,7 +98,7 @@
 		},
 	 
 		{
-			"featureType":"road_symbol.traffic-light",
+			"featureType":"road.traffic-light",
 			"stylers":{
 				"visibility":"off"
 			}
