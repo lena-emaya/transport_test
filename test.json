@@ -84,7 +84,7 @@
 		"visibility": "off"}
 	 },
 	 {
-		"featureType": "label.hydro.",
+		"featureType": "hydro_a_label",
 		"stylers": {
 			"scale": 0.8,
 			"color": "#a1b2c4"
