@@ -103,7 +103,7 @@
 		}
 		},
 		{
-			"featureType":"roadnett_p.urban-roadnet-traffic-light",
+			"featureType":"roadnet_p.urban-roadnet-traffic-light",
 			"stylers":{
 				"visibility":"off"
 			}
