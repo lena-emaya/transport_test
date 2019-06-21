@@ -58,7 +58,7 @@
 	 },
 	 {
 		"featureType": "label.building",
-		"zooms": "0-19",
+		
 		"stylers": {
 		"visibility": "off"
 		}
