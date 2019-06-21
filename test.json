@@ -90,7 +90,7 @@
 		"color": "#dce9f5"}
 	 },
 	 {
-		"featureType": "label.road.road_1",
+		"featureType": "roadnet_p.urban-roadnet-traffic-lightt",
 		"stylers": {
 			"visibility": "off"}
 	 },
