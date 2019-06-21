@@ -90,26 +90,11 @@
 		"color": "#dce9f5"}
 	 },
 	 {
-		"featureType":"label.road.highway",
-		"stylers":{
-			"color": "#333",
-			"outline-color": "#fff"
-		}
-		},
+		"featureType": "label.road",
+		"stylers": {
+			"visibility": "off"}
+	 },
 	 
-		{
-			"featureType":"road.traffic-light",
-			"stylers":{
-				"visibility":"off"
-			}
-			},
-			{
-				"featureType":"road.oneway",
-				"stylers":{
-					"visibility":"off"
-				}
-				},
-	
 	{
 		"featureType": "transport",
 		"stylers": {
