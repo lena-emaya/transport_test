@@ -57,8 +57,8 @@
 		"color": "#F5F2E6"}
 	 },
 	 {
-		"featureType": "label.building",
-		
+		"featureType": "building_number",
+		"zooms": "0-19",
 		"stylers": {
 		"visibility": "off"
 		}
