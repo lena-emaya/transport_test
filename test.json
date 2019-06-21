@@ -32,7 +32,7 @@
 		"color": "#c7e7cb"}
 	 },
 	 {
-		"featureType": "urban-area.airport",
+		"featureType": "urban-area.transport-airport",
 		"stylers": {
 		"color": "#ebebed"}
 	 },
