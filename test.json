@@ -90,7 +90,7 @@
 		"color": "#dce9f5"}
 	 },
 	 {
-		"featureType": "label.road_1",
+		"featureType": "label.road.road_1",
 		"stylers": {
 			"visibility": "off"}
 	 },
