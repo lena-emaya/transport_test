@@ -62,6 +62,7 @@
 		"stylers": {
 		"visibility": "off",
 		"color": "#a4a094",
+		"outline-width": 0,
 		"scale": 0.7
 		}
 	 },
