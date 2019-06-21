@@ -145,6 +145,11 @@
 		"stylers": {
 			"visibility": "off"}
 	 },	 
+	 {
+		"featureType": "label.road",
+		"stylers": {
+			"scale": 0.4}
+	 },	 
 	{
 		"featureType": "transport",
 		"stylers": {
