@@ -16,6 +16,12 @@
 		"color": "#ebebed"}
 	 },
 	 {
+		"featureType": "urban-area.urban-sportground",
+		"stylers": {
+		"color": "#c7e7cb"}
+	 },
+	 
+	 {
 		"featureType": "urban-area.airport",
 		"stylers": {
 		"color": "#ebebed"}
