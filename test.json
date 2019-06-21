@@ -103,6 +103,12 @@
 				"visibility":"off"
 			}
 			},
+			{
+				"featureType":"road.oneway",
+				"stylers":{
+					"visibility":"off"
+				}
+				},
 	
 	{
 		"featureType": "transport",
