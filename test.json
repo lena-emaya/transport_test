@@ -6,12 +6,12 @@
 		}
 	 },
 	 {
-		"featureType": "urban-area.residential",
+		"featureType": "urban-area.urban-residential",
 		"stylers": {
 			"color": "#f9f7f2"}
 	 },
 	 {
-		"featureType": "urban-area.industrial",
+		"featureType": "urban-area.iurban-ndustrial",
 		"stylers": {
 		"color": "#ebebed"}
 	 },
