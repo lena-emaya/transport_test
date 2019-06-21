@@ -60,10 +60,7 @@
 		"featureType": "label.building",
 		"zooms": "0-19",
 		"stylers": {
-		"visibility": "off",
-		"color": "#a4a094",
-		"outline-width": 0,
-		"scale": 0.7
+		"visibility": "off"
 		}
 	 },
 	 {
@@ -73,7 +70,7 @@
 		"visibility": "on",
 		"color": "#a4a094",
 		"outline-width": 0,
-		"scale": 0.7
+		"scale": 0.6
 		}
 	 },
 	 {
