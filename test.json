@@ -27,7 +27,7 @@
 		"zooms": "13-17",
 		"stylers": {
 		"visibility": "off",
-		"color": "#ece9df"}
+		"color": "#f4f0e6"}
 	 },
 	 {
 		"featureType": "building",
@@ -35,14 +35,14 @@
 		"stylers": {
 			"opacity": 0.6,
 			"visibility": "on",
-			"color": "#ece9df"}
+			"color": "#f4f0e6"}
 	 },
 	 {
 		"featureType": "building",
 		"zooms": "18-22",
 		"stylers": {
 		"visibility": "on",
-		"color": "#ece9df"}
+		"color": "#f4f0e6"}
 	 },
 	 {
 		"featureType": "label.building",
