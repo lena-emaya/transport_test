@@ -69,6 +69,13 @@
 		  "scale": 0.9}
 	 },
 	 {
+		"featureType": "place_label.microdistrict",
+		"stylers": {
+			"color": "#bfbbbb",
+			"outline-color": "rgba(0, 0, 0, 0)",
+		  "scale": 0.9}
+	 },
+	 {
 		"featureType": "country_label",
 		"zooms": "5-22",
 		"stylers": {
