@@ -1,5 +1,5 @@
 [{
-	"featureType": "vegetation",
+	"featureType": "vegetation.vegetation-natpark",
 	
 	"stylers": {
 	 "color": "#E6242D"
