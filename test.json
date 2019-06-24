@@ -10,5 +10,10 @@
 		"featureType": "label.road.trafficlight",
 		"stylers": {
 			"visibility": "off"}
+	 },
+	 {
+		"featureType": "label.road.marker.shield",
+		"stylers": {
+			"visibility": "off"}
 	 }
 ]
