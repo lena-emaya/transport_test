@@ -6,6 +6,11 @@
 		}
 	 },
 	 {
+		"featureType": "urban-area",
+		"stylers": {
+			"visibility": "off"}
+	 },
+	 {
 		"featureType": "urban-area.urban-residential",
 		"stylers": {
 			"color": "#f9f7f2"}
