@@ -1,5 +1,5 @@
 [{
-	"featureType": "urban-area.urban-residential",
+	"featureType": "label.road",
 	
 	"stylers": {
 	 "color": "#E6242D"
