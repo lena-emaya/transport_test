@@ -243,5 +243,12 @@
 		"stylers":{
 				"visibility":"off"
 		}
-}
+	},
+	{
+		"featureType":"road.path",
+		"stylers":{
+			"color":"#ddd9ca",
+			"scale":0.5		
+		}	
+	}
 ]
