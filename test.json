@@ -2,8 +2,7 @@
 	"featureType": "vegetation.park",
 	
 	"stylers": {
-	 "color": "#E6242D",
-	 "z-index" : 1000000000.0
+	 "color": "#E6242D"
 	}
  }
 ]
