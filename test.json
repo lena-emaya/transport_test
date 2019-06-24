@@ -42,7 +42,7 @@
 		"color": "#ebebed"}
 	 },
 	{
-	 "featureType": "admin.border.country",
+	 "featureType": "border",
 	 "stylers": {
 	 	"color": "#E6482E",
 		"scale": 0.2}
