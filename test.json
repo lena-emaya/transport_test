@@ -1,6 +1,14 @@
 [
 	{
-		"featureType": "hydro-lake",
+		"featureType": "hydro_a_label",
+		"selector": {
+      "attribute": "enum",
+      "operator": "anyOf",
+      "value": [
+				"hydro-sea",
+				"hydro-lake"
+			]
+    },
 		"stylers": {
 			"color": "#9EE7E8"
 		}
