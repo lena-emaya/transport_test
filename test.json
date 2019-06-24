@@ -93,14 +93,14 @@
 	
 	 {
 		"featureType": "building",
-		"zooms": "13-16",
+		"zooms": "13-15",
 		"stylers": {
 		"visibility": "off",
 		"color": "#F5F2E6"}
 	 },
 	 {
 		"featureType": "building",
-		"zooms": "16-18",
+		"zooms": "15-18",
 		"stylers": {
 			"opacity": 0.6,
 			"outline-width": 0.1,
