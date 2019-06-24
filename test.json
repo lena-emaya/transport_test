@@ -1,5 +1,5 @@
 [{
-	"featureType": "label.urban.cemetery",
+	"featureType": "urban-area.urban-cemetery",
 	
 	"stylers": {
 	 "color": "#E6242D"
