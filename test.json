@@ -13,7 +13,7 @@
 	 },
 	 {
 		"featureType": "vegetation",
-		"selector": { "attribute": "ft_type_name", "operator": "equal",  "value": "vegetation-natpark" },
+		"selector": { "attribute": "enum", "operator": "equal",  "value": "vegetation-natpark" },
 		"stylers": {
 			"color": "#9EE7E8"
 		}
