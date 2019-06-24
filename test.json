@@ -1,12 +1,12 @@
 [
 	{
-		"featureType": "hydro_a_label",
+		"featureType": "hydro",
 		"selector": {
       "attribute": "ft_type_name",
       "operator": "anyOf",
       "value": [
-				"hydro-sea",
-				"hydro-lake"
+				"hydro-river-greatest",
+				"hydro-river-small"
 			]
     },
 		"stylers": {
