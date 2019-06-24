@@ -1,5 +1,5 @@
 [{
-	"featureType": "vegetation.vegetation-natpark",
+	"featureType": "label.urban.cemetery",
 	
 	"stylers": {
 	 "color": "#E6242D"
