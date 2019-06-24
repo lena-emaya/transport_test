@@ -229,7 +229,7 @@
 		]
 	 },
 	{
-   "featureType": "road.1",
+   "featureType": "road.highway",
    "zoomSlices": [
      {
        "zooms": "3-5",
