@@ -44,7 +44,7 @@
 	{
 	 "featureType": "admin.border.country",
 	 "stylers": {
-	 	"color": "#b2945a",
+	 	"color": "#E6482E",
 		"scale": 0.2}
 	},
 	{
@@ -56,9 +56,10 @@
 	 },
 	 {
 		"featureType": "country_label",
-		"zooms": "8-22",
+		"zooms": "5-22",
 		"stylers": {
-			"visibility":"off"
+			"visibility":"off",
+			"color": "#b2945a"
 		}
 	 },
 	
