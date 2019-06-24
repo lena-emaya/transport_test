@@ -1,7 +1,14 @@
 [
 	{
 		"featureType": "vegetation",
-		
+		"selector": {
+      "attribute": "ft_type_name",
+      "operator": "anyOf",
+      "value": [
+				"vegetation-park",
+				"vegetation-natpark"
+			]
+    },
 		"stylers": {
 			"color": "#9EE7E8"
 		}
