@@ -42,11 +42,18 @@
 		"color": "#ebebed"}
 	 },
 	{
-	 "featureType": "border.1",
+	 "featureType": "border",
 	 "stylers": {
 	 	"color": "#a4a096",
-		"scale": 0.5}
+		"scale": 0.65}
 	},
+	{
+		"featureType": "label.transport.transport-railway-station",
+		"stylers": {
+		 "visibility":"off",		 
+		 "scale": 0.65
+		}
+	 },
 	{
 		"featureType": "country_label",
 		"stylers": {
@@ -243,12 +250,5 @@
 		"stylers":{
 				"visibility":"off"
 		}
-	},
-	{
-		"featureType":"road.10_pedestrian",
-		"stylers":{
-			"color":"#ddd9ca",
-			"scale":0.5		
-		}	
 	}
 ]
