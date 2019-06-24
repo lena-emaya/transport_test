@@ -243,12 +243,5 @@
 		"stylers":{
 				"visibility":"off"
 		}
-},
-	{
-		"featureType":"road.local.pedestrian",
-		"stylers":{
-			"color":"#ddd9ca",
-			"scale":0.5		
-		}	
-	}
+}
 ]
