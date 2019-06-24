@@ -176,8 +176,8 @@
 	 {
 		"featureType": "roadnet_a",
 		"stylers": {
-			"visibility": "on",
-			"opacity": 1,
+			"visibility": "off",
+			"opacity": 0,
 			"color": "#f9f7f2"}
 	 },
 	 {
@@ -192,7 +192,7 @@
 			"outline-color": "rgba(0, 0, 0, 0)",
 			"outline-width": 0,
 			"color": "#92918b",
-			"visibility": "off"
+			"visibility": "on"
 		}
 	 },	 
 	{
