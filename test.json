@@ -1,13 +1,13 @@
 [{
-	"featureType": "label.road",
+	"featureType": "vegetation",
 	
 	"stylers": {
 		"opacity": 0.3,
-	 "color": "#E6242D"
+	 "color": "#38FAF5"
 	}
  },
  {
-	"featureType": "label.road.1",
+	"featureType": "vegetation.park",
 	
 	"stylers": {
 		"opacity": 1,
