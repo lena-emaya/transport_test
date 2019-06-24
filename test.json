@@ -12,7 +12,7 @@
 			"visibility": "off"}
 	 },
 	 {
-		"featureType": "label.transport.station.metro",
+		"featureType": "label.transport.transport-metro-exit",
 		"stylers": {
 			"visibility": "off"}
 	 }
