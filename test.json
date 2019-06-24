@@ -470,7 +470,7 @@
 	{
 		"featureType":"road.local.pedestrian",
 		"stylers":{
-			"visibility":"off"
+			"color":"#ddd9ca"
 		}	
 	}
 ]
