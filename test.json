@@ -45,7 +45,7 @@
 	 "featureType": "admin.border.country",
 	 "stylers": {
 	 	"color": "#b2945a",
-		"scale": 0.5}
+		"scale": 0.2}
 	},
 	{
 		"featureType": "country_label",
