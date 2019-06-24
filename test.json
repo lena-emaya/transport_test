@@ -1,12 +1,12 @@
 [
 	{
-		"featureType": "hydro",
+		"featureType": "vegetation",
 		"selector": {
       "attribute": "ft_type_name",
       "operator": "anyOf",
       "value": [
-				"hydro-river-greatest",
-				"hydro-river-small"
+				"vegetation-park",
+				"vegetation-natpark"
 			]
     },
 		"stylers": {
