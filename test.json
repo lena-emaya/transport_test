@@ -12,7 +12,7 @@
 			"visibility": "off"}
 	 },
 	 {
-		"featureType": "label.road.marker.shield",
+		"featureType": "label.transport.station.metro",
 		"stylers": {
 			"visibility": "off"}
 	 }
