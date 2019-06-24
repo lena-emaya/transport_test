@@ -13,7 +13,7 @@
 	 },
 	 {
 		"featureType": "all",
-		"selector": { "attribute": "vegetation", "operator": "equal",  "value": "vegetation-natpark" },
+		"selector": { "attribute": "vegetation", "operator": "equal",  "value": "natpark" },
 		"stylers": {
 			"visibility": "off"}
 	 }
