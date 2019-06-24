@@ -1,6 +1,6 @@
 [
 	{
-		"featureType": "vegetation.vegetation-residential",
+		"featureType": "vegetation.vegetation-natpark",
 	
 		"stylers": {
 			"color": "#9EE7E8"
@@ -15,6 +15,7 @@
 		"featureType": "vegetation",
 		"selector": { "attribute": "ft_type_name", "operator": "equal",  "value": "vegetation-natpark" },
 		"stylers": {
-			"visibility": "off"}
+			"color": "#9EE7E8"
+		}
 	 }
 ]
