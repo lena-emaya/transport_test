@@ -12,8 +12,8 @@
 			"visibility": "off"}
 	 },
 	 {
-		"featureType": "all",
-		"selector": { "attribute": "vegetation", "operator": "equal",  "value": "natpark" },
+		"featureType": "vegetation",
+		"selector": { "attribute": "ft_type_name", "operator": "equal",  "value": "vegetation-natpark" },
 		"stylers": {
 			"visibility": "off"}
 	 }
