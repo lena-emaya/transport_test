@@ -232,6 +232,8 @@
 	 {
 		"featureType":"road",
 		"stylers":{
+			"color": "#ffffff",
+			"outline-color": "#ddd9ca",
 			"scale":0.5	
 		}
 				
