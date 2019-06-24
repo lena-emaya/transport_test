@@ -2,7 +2,7 @@
 	{
 		"featureType": "hydro_a_label",
 		"selector": {
-      "attribute": "enum",
+      "attribute": "ft_type_name",
       "operator": "anyOf",
       "value": [
 				"hydro-sea",
