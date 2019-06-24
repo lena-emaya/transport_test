@@ -1,7 +1,8 @@
 [{
-	"featureType": "label.road.2",
+	"featureType": "label.road",
 	
 	"stylers": {
+		"opacity": 0.3,
 	 "color": "#E6242D"
 	}
  }
