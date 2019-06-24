@@ -5,5 +5,13 @@
 		"opacity": 0.3,
 	 "color": "#E6242D"
 	}
+ },
+ {
+	"featureType": "label.road.1",
+	
+	"stylers": {
+		"opacity": 1,
+	 "color": "#E6242D"
+	}
  }
 ]
