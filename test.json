@@ -104,7 +104,7 @@
 		"stylers": {
 			"opacity": 0.6,
 			"outline-width": 0.1,
-			"outline-color": "#cecabb",
+			"outline-color": "#f3f0e7",
 			"visibility": "on",
 			"color": "#F5F2E6"}
 	 },
@@ -113,7 +113,7 @@
 		"zooms": "18-22",
 		"stylers": {
 		"visibility": "on",
-		"color": "#F5F2E6"}
+		"color": "#f3f0e7"}
 	 },
 	 {
 		"featureType": "building_number",
