@@ -4,11 +4,7 @@
 		"color": "#f9f7f2"
 	}
  },
- {
-	"featureType": "urban-area",
-	"stylers": {
-		"visibility": "off"}
- },
+ 
  {
 	"featureType": "urban-area.landuse_a.urban-industrial_???",
 	"stylers": {
