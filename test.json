@@ -6,7 +6,7 @@
  },
  
  {
-	"featureType": "urban-area.landuse_a.urban-industrial_???",
+	"featureType": "urban-area.landuse_a.urban-industrial",
 	"stylers": {
 		"color": "#FFC4BF"}
  },
