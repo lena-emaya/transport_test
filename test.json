@@ -168,7 +168,7 @@
 
 
  {
-	"featureType": "vegetation",
+	"featureType": "vegetation.vegetation_planned.veg_park_0",
 	"zoomSlices": [
 		{
 			"zooms": "3-8",
