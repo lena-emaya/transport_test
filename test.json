@@ -9,6 +9,11 @@
 	"stylers": {
 		"visibility": "off"}
  },
+ {
+	"featureType": "urban-area.landuse_a.urban-industrial_???",
+	"stylers": {
+		"color": "#FFC4BF"}
+ },
 {
  "featureType": "border",
  "stylers": {
