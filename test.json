@@ -123,7 +123,7 @@
  {
 	"featureType": "poi.veget_label_0",
 	"stylers": {
-	"color": "#FF2822"}
+	"color": "#a1b2c4"}
  },
 
  
@@ -194,7 +194,7 @@
 	"stylers": {
 		
 		"opacity": 0,
-		"color": "#92918b"}
+		"color": "#f9f7f2"}
  },
  {
 	"featureType": "label.road.marker",
@@ -207,7 +207,7 @@
 		"scale": 0.9,
 		
 		"outline-width": 0,
-		"color": "#ccc"
+		"color": "#92918b"
 		
 	}
  },	 
