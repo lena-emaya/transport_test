@@ -1,14 +1,14 @@
 [{
-	"featureType": "admin.background.Background_1",
+	"featureType": "admin.background",
 	"stylers": {
 		"color": "#FF2822"
 	}
  },
  
  {
-	"featureType": "urban-area.landuse_a.cemetery_???",
+	"featureType": "urban-area.landuse_a",
 	"stylers": {
-		"color": "#FFC4BF"}
+		"color": "#FF2822"}
  },
 {
  "featureType": "border",
@@ -97,7 +97,9 @@
  {
 	"featureType": "poi",
 	"stylers": {
-	"saturation": -1}
+	"saturation": -1,
+	"scale": 0.9
+	}
  },
  {
 	"featureType": "ferry",
