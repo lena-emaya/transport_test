@@ -290,7 +290,7 @@
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_0",
 	"stylers":{
-		"color": "#ddd9ca",
+		"color": "#CEA9E8",
 	
 		"scale":0.5
 	}
@@ -299,7 +299,7 @@
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_dash_0",
 	"stylers":{
-		"color": "#CEA9E8",
+		"color": "#ddd9ca",
 	
 		"scale":0.5
 	}
