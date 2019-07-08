@@ -19,8 +19,7 @@
 {
 	"featureType": "label.transport",
 	"stylers": {
-	 
-	 "scale": 0.9
+		"saturation": -1
 	}
  },
 {
