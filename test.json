@@ -141,9 +141,10 @@
 	"color": "#dce9f5"}
  },
  {
-	"featureType": "nonauto.road.railway",
+	"featureType": "nonauto.road",
 	"stylers": {
-		"visibility": "off"}
+		"color": "#ffffff"
+		}
  },
  {
 	"featureType": "label.road.trafficlight",
