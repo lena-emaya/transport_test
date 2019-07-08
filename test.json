@@ -120,7 +120,7 @@
 	}
  },
  {
-	"featureType": "hydro_l_label",
+	"featureType": "hydro.hydro_l",
 	"stylers": {
 		"scale": 0.8,
 		"color": "#a1b2c4"
@@ -164,8 +164,9 @@
 	"featureType": "label.road",
 	"stylers": {
 		"scale": 0.9,
-		"outline-color": "rgba(0, 0, 0, 0)",
-		"outline-width": 0
+		
+		"outline-width": 0,
+		"color": "#ccc"
 		
 	}
  },	 
@@ -178,7 +179,7 @@
 		{
 			"zooms": "3-8",
 			"stylers": {
-				"opacity": 0.1,
+				"opacity": 0.3,
 				"color": "#c7e7cb"
 		}
 		},
