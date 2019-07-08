@@ -104,17 +104,18 @@
 	"zoomSlices": [
 		
 		{
-			"zooms": "8-18",
+			"zooms": "8-17",
 			"stylers": {
 				"visibility": "off"
 			}
 		},
 		{
-			"zooms": "18-22",
+			"zooms": "17-22",
 			"stylers": {
 				"scale": 0.9,
-				"lightness": 0.3,
-				"saturation": -1
+				"lightness": 0.25,
+				"saturation": -1,
+				"color": "#8C8C8C"
 		}
 		}
 	]
