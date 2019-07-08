@@ -170,7 +170,7 @@
 
 
  {
-	"featureType": "vegetation.vegetation_planned.veg_park_0",
+	"featureType": "vegetation",
 	"zoomSlices": [
 		{
 			"zooms": "3-8",
@@ -201,7 +201,7 @@
 	"stylers":{
 		"color": "#ffffff",
 		"outline-color": "#ddd9ca",
-		"scale":0.5	
+		"scale":0.7
 	}
 			
 },
