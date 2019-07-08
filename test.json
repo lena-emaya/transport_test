@@ -153,10 +153,21 @@
 	"color": "#dce9f5"}
  },
  {
-	"featureType": "nonauto.road.arrows_0",
+	"featureType": "nonauto.road",
 	"stylers": {
-		"color": "#ffffff",
-		"lightness": 0.6
+		"lightness": 1
+		}
+ },
+ {
+	"featureType": "nonauto.road.tram_0",
+	"stylers": {
+		"lightness": 0.2
+		}
+ },
+ {
+	"featureType": "nonauto.road.railway_0",
+	"stylers": {
+		"lightness": 0.2
 		}
  },
  {
