@@ -182,7 +182,7 @@
  {
 	"featureType": "nonauto.road.stairs_0",
 	"stylers": {
-		"lightness": 0.2,
+		"color": "#ddd9ca",
 		"visibility": "on"
 		}
  },
