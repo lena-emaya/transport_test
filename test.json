@@ -134,14 +134,14 @@
 	}
  },
  {
-	"featureType": "hydro.hydro_l.hydro_l_0",
+	"featureType": "hydro.hydro_l.hydro_l_label_0",
 	"stylers": {
 		"scale": 0.8,
 		"color": "#a1b2c4"
 	}
  },
  {
-	"featureType": "hydro.hydro_l.hydro_l_label_0",
+	"featureType": "hydro.hydro_l.hydro_l_0",
 	"stylers": {
 		"scale": 0.8,
 		"color": "#dce9f5"
@@ -153,7 +153,7 @@
 	"color": "#dce9f5"}
  },
  {
-	"featureType": "nonauto.road",
+	"featureType": "nonauto.road.arrows_0",
 	"stylers": {
 		"color": "#ffffff",
 		"lightness": 0.6
