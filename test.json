@@ -155,19 +155,22 @@
  {
 	"featureType": "nonauto.road",
 	"stylers": {
-		"lightness": 1
+		"lightness": 1,
+		"visibility": "off"
 		}
  },
  {
 	"featureType": "nonauto.road.tram_0",
 	"stylers": {
-		"lightness": 0.2
+		"lightness": 0.2,
+		"visibility": "on"
 		}
  },
  {
 	"featureType": "nonauto.road.railway_0",
 	"stylers": {
-		"lightness": 0.2
+		"lightness": 0.2,
+		"visibility": "on"
 		}
  },
  {
