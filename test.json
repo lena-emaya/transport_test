@@ -213,13 +213,7 @@
 	"stylers": {
 		"visibility": "off"}
  },
- {
-	"featureType": "roadnet_a",
-	"stylers": {
-		
-		"opacity": 1,
-		"color": "#f9f7f2"}
- },
+
  {
 	"featureType": "label.road.marker",
 	"stylers": {
