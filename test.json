@@ -311,7 +311,7 @@
 		
 },
 {
-	"featureType":"roadnet_a.bridge_pedestrian_0",
+	"featureType":"road.local.pedestrian.road.class7_pedestrian_copy_copy_0",
 	"stylers":{
 		"color": "#f9f7f2"
 }
