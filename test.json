@@ -101,11 +101,23 @@
  },
  {
 	"featureType": "poi",
-	"stylers": {
-	"color": "#8C8C8C",
-	"saturation": -1,
-	"scale": 0.9
-	}
+	"zoomSlices": [
+		
+		{
+			"zooms": "8-17",
+			"stylers": {
+				"visibility": "off"
+			}
+		},
+		{
+			"zooms": "17-22",
+			"stylers": {
+				"lightness": 0.2,
+				"saturation": -1
+		}
+		}
+	]
+	
  },
  {
 	"featureType": "ferry",
