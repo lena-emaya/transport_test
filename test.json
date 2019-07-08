@@ -244,15 +244,7 @@
 	}
 			
 },
-{
-	"featureType":"road.local.pedestrian.road",
-	"stylers":{
-		"color": "#000",
-	
-		"scale":0.7
-	}
-			
-},
+
 {
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_0",
 	"stylers":{
