@@ -161,7 +161,7 @@
  {
 	"featureType": "nonauto.road",
 	"stylers": {
-		"lightness": 1,
+		
 		"visibility": "off"
 		}
  },
