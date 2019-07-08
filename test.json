@@ -141,7 +141,7 @@
 	"color": "#dce9f5"}
  },
  {
-	"featureType": "nonauto",
+	"featureType": "nonauto.road.railway",
 	"stylers": {
 		"visibility": "off"}
  },
@@ -172,8 +172,7 @@
 	"stylers": {
 		"scale": 0.85,
 		"outline-color": "rgba(0, 0, 0, 0)",
-		"outline-width": 0,
-		"color": "#92918b"
+		"outline-width": 0
 		
 	}
  },	 
