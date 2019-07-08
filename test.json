@@ -97,7 +97,7 @@
  {
 	"featureType": "poi",
 	"stylers": {
-	"visibility": "off"}
+	"saturation": -1}
  },
  {
 	"featureType": "ferry",
