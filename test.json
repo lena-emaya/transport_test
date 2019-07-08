@@ -255,7 +255,7 @@
 			
 },
 {
-	"featureType":"road.local.pedestrian.road.class7_pedestrian_dense_0",
+	"featureType":"road.local.pedestrian.road.class7_dense_0",
 	"stylers":{
 		"color": "#ddd9ca",
 	
@@ -264,7 +264,7 @@
 			
 },
 {
-	"featureType":"road.local.pedestrian.road.class7_pedestrian_dense_dash_0",
+	"featureType":"road.local.pedestrian.road.class7_0",
 	"stylers":{
 		"color": "#ddd9ca",
 	
