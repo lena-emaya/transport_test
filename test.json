@@ -144,7 +144,7 @@
 	"featureType": "nonauto.road",
 	"stylers": {
 		"color": "#ffffff",
-		"lightness": 1
+		"lightness": 0.5
 		}
  },
  {
