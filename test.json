@@ -183,21 +183,24 @@
 	"featureType": "nonauto.road.stairs_0",
 	"stylers": {
 		"color": "#ddd9ca",
-		"visibility": "on"
+		"visibility": "on",
+		"scale": 0.5
 		}
  },
  {
 	"featureType": "nonauto.road.piste_0",
 	"stylers": {
 		"color": "#ddd9ca",
-		"visibility": "on"
+		"visibility": "on",
+		"scale": 0.5
 		}
  },
  {
 	"featureType": "nonauto.road.crosswalk_0",
 	"stylers": {
 		"color": "#ddd9ca",
-		"visibility": "on"
+		"visibility": "on",
+		"scale": 0.5
 		}
  },
  {
