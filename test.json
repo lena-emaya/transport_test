@@ -184,7 +184,7 @@
 	"stylers": {
 		"color": "#ddd9ca",
 		"visibility": "on",
-		"scale": 0.5
+		"scale": 0.75
 		}
  },
  {
@@ -192,7 +192,7 @@
 	"stylers": {
 		"color": "#ddd9ca",
 		"visibility": "on",
-		"scale": 0.5
+		"scale": 0.75
 		}
  },
  {
@@ -200,7 +200,7 @@
 	"stylers": {
 		"color": "#ddd9ca",
 		"visibility": "on",
-		"scale": 0.5
+		"scale": 0.75
 		}
  },
  {
@@ -310,6 +310,14 @@
 }
 		
 },
+{
+	"featureType":"roadnet_a.bridge_pedestrian_0",
+	"stylers":{
+		"color": "#f9f7f2"
+}
+		
+},
+
 
 {
 	"featureType":"road.local.bike",
