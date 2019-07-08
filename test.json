@@ -1,14 +1,14 @@
 [{
 	"featureType": "admin.background",
 	"stylers": {
-		"color": "#FF2822"
+		"color": "#f9f7f2"
 	}
  },
  
  {
 	"featureType": "urban-area.landuse_a",
 	"stylers": {
-		"color": "#FF2822"}
+		"color": "#f9f7f2"}
  },
 {
  "featureType": "border",
