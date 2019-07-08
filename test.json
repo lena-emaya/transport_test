@@ -165,7 +165,7 @@
  {
 	"featureType": "roadnet_a",
 	"stylers": {
-		"visibility": "off",
+		
 		"opacity": 0,
 		"color": "#f9f7f2"}
  },
