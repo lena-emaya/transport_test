@@ -187,6 +187,20 @@
 		}
  },
  {
+	"featureType": "nonauto.road.piste_0",
+	"stylers": {
+		"color": "#ddd9ca",
+		"visibility": "on"
+		}
+ },
+ {
+	"featureType": "nonauto.road.crosswalk_0",
+	"stylers": {
+		"color": "#ddd9ca",
+		"visibility": "on"
+		}
+ },
+ {
 	"featureType": "label.road.trafficlight",
 	"stylers": {
 		"visibility": "off"}
