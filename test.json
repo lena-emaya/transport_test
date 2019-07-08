@@ -141,7 +141,7 @@
 	}
  },
  {
-	"featureType": "hydro.hydro_l",
+	"featureType": "hydro.hydro_l.hydro_l_label_0",
 	"stylers": {
 		"scale": 0.8,
 		"color": "#dce9f5"
