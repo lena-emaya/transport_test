@@ -312,13 +312,23 @@
 		
 },
 {
+	"featureType":"roadnet_a.roadnet_a_TXT_0",
+	"stylers":{
+		"visibility": "off"
+	}	
+},
+{
+	"featureType":"roadnet_a.bridge_pedestrian_0",
+	"stylers":{
+		"color": "#f9f7f2"
+	}	
+},
+{
 	"featureType":"roadnet_a.bridge_0",
 	"stylers":{
 		"color": "#f9f7f2"
-}
-		
+	}	
 },
-
 
 
 {
