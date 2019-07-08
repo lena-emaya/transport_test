@@ -134,10 +134,17 @@
 	}
  },
  {
-	"featureType": "hydro.hydro_l",
+	"featureType": "hydro.hydro_l.hydro_l_0",
 	"stylers": {
 		"scale": 0.8,
 		"color": "#a1b2c4"
+	}
+ },
+ {
+	"featureType": "hydro.hydro_l",
+	"stylers": {
+		"scale": 0.8,
+		"color": "#dce9f5"
 	}
  },
  {
