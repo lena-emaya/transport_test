@@ -217,7 +217,7 @@
 	"featureType": "roadnet_a",
 	"stylers": {
 		
-		"opacity": 0,
+		"opacity": 1,
 		"color": "#f9f7f2"}
  },
  {
