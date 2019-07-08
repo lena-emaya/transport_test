@@ -246,7 +246,25 @@
 },
 
 {
-	"featureType":"road.local.pedestrian.road",
+	"featureType":"road.local.pedestrian.road.class10_pedestrian_0",
+	"stylers":{
+		"color": "#ddd9ca",
+	
+		"scale":0.5
+	}
+			
+},
+{
+	"featureType":"road.local.pedestrian.road.class7_pedestrian_dense_0",
+	"stylers":{
+		"color": "#ddd9ca",
+	
+		"scale":0.5
+	}
+			
+},
+{
+	"featureType":"road.local.pedestrian.road.class7_pedestrian_dense_dash_0",
 	"stylers":{
 		"color": "#ddd9ca",
 	
@@ -256,7 +274,7 @@
 },
 
 {
-	"featureType":"roadnet_a.bridge_pedestrian_0",
+	"featureType":"road.local.pedestrian.road.class10_pedestrian_BG_0",
 	"stylers":{
 		"color": "#f9f7f2"
 }
