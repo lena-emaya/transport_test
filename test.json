@@ -256,6 +256,14 @@
 },
 
 {
+	"featureType":"road.local.pedestrian.road.class10_pedestrian_BG_0",
+	"stylers":{
+		"color": "#f9f7f2"
+}
+		
+},
+
+{
 	"featureType":"road.local.bike",
 	"stylers":{
 			"visibility":"off"
