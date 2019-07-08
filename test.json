@@ -25,9 +25,16 @@
 {
 	"featureType": "label.transport",
 	"stylers": {
-		"saturation": -1
+		"saturation": -0.5
 	}
  },
+ {
+	"featureType": "transport.line",
+	"stylers": {
+		"visibility": "off"
+	}
+ },
+ 
 {
 	"featureType": "country_label",
 	"stylers": {
@@ -167,11 +174,7 @@
 		
 	}
  },	 
-{
-	"featureType": "transport",
-	"stylers": {
-	"scale": 0.9}
-},
+
 
 
  {
