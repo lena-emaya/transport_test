@@ -4,6 +4,12 @@
 		"color": "#f9f7f2"
 	}
  },
+ {
+	"featureType": "admin.locality_a",
+	"stylers": {
+		"color": "#f9f7f2"
+	}
+ },
  
  {
 	"featureType": "urban-area.landuse_a",
