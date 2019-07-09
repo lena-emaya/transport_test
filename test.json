@@ -34,6 +34,8 @@
  {
 	"featureType": "transport.line",
 	"stylers": {
+		"visibility":"on",
+		"opacity": 1,
 		"scale": 0.9
 	}
  },
