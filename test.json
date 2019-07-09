@@ -117,16 +117,12 @@
 				"scale": 0.9,
 				"lightness": 0.25,
 				"saturation": -1,
-				"color": "#8C8C8C"
+				"color": "#92918b"
 		}
 		}
 	]
  },
- {
-	"featureType": "poi.veget_label_0",
-	"stylers": {
-	"color": "#a1b2c4"}
- },
+
 
  
  {
