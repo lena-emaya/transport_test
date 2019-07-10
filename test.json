@@ -245,7 +245,7 @@
 	"featureType": "nonauto.road.crosswalk_0",
 	"stylers": {
 		"color": "#ddd9ca",
-		"visibility": "on",
+		
 		"scale": 0.75
 		}
  },
