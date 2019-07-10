@@ -53,7 +53,7 @@
 		"featureType": "border.border_0",
  	 "stylers": {
  		 	"color": "#999588",
-			"scale": 0.5,
+			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)"
 		}
 	},
@@ -61,7 +61,7 @@
 		"featureType": "border.border_LK1_0",
  	 "stylers": {
  		 	"color": "#999588",
-			 "scale": 0.5
+			 "scale": 0.7
 		}
 	},
 	{
@@ -87,11 +87,23 @@
 		"scale": 0.9}
  },
  {
-	"featureType": "place_label.district_0",
-	"stylers": {
-		"color": "#FF9FE3",
-		"scale": 0.9}
- },
+		"featureType": "place_label.district_0",
+		"zoomSlices": [
+			{
+				"zooms": "8-14",
+				"stylers": {
+					"color": "#a6a0a0",
+					"scale": 0.5
+				}
+			},
+			{
+				"zooms": "14-22",
+				"stylers": {
+					"visibility": "off"
+				}
+			}
+		]
+	},
 
  {
 	"featureType": "building",
