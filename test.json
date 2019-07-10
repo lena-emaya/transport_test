@@ -349,6 +349,27 @@
 		
 			"color": "#FF9FE3"
 		}
+	},
+	{
+		"featureType": "road.class6_dense_0",
+		"stylers": {
+		
+			"color": "#FF9FE3"
+		}
+	 },
+	{
+		"featureType": "road.class6_dense_link_0",
+		"stylers": {
+		
+			"color": "#FF9FE3"
+		}
+	 },
+	 {
+		"featureType": "road.class7_0",
+		"stylers": {
+		
+			"color": "#FF9FE3"
+		}
  	},
 
  {
