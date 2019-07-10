@@ -238,14 +238,6 @@
 	]
  },
  {
-	"featureType": "nonauto.road.stairs_0",
-	"stylers": {
-		"color": "#ddd9ca",
-		"visibility": "on",
-		"scale": 0.75
-		}
- },
- {
 	"featureType": "nonauto.road.piste_0",
 	"stylers": {
 		"color": "#ddd9ca",
@@ -254,26 +246,46 @@
 		}
  },
  {
-	"featureType": "nonauto.road.crosswalk_0",
+	"featureType": "nonauto.road.stairs_0",
 	"zoomSlices": [
 		{
-			"zooms": "0-15",
+			"zooms": "0-16",
 			"stylers": {
-				"lightness": 0.6,
+				"color": "#ddd9ca",
 				"visibility": "on",
 				"opacity": 0
 				}
 		},
 		{
-			"zooms": "15-22",
+			"zooms": "16-22",
 			"stylers": {
-				"lightness": 0.6,
+				"color": "#ddd9ca",
 				"visibility": "on",
 				"scale": 0.75
 				}
 		}
-	]
-	
+	]	
+ },
+ {
+	"featureType": "nonauto.road.crosswalk_0",
+	"zoomSlices": [
+		{
+			"zooms": "0-16",
+			"stylers": {
+				"color": "#ddd9ca",
+				"visibility": "on",
+				"opacity": 0
+				}
+		},
+		{
+			"zooms": "16-22",
+			"stylers": {
+				"color": "#ddd9ca",
+				"visibility": "on",
+				"scale": 0.75
+				}
+		}
+	]	
  },
  {
 	"featureType": "label.road.trafficlight",
