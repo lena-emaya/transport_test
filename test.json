@@ -281,10 +281,10 @@
  	{
 		"featureType": "label.road",
 		"stylers": {
-			"scale": 0.8,
+			"scale": 0.9,
 			"outline-width": 0,
 			"color": "#92918b",
-			"outline-color": "#f9f7f2"
+			"outline-color": "#fff"
 		}
  	},
 	{
@@ -364,10 +364,10 @@
 		{
 			"zooms": "10-11",
 			"stylers": {
-				"line-width": 0.5,
+				"line-width": 0.3,
 				"color": "#E4E0D2",
 				"outline-color": "#ddd9ca",
-				"outline-width": 0.7
+				"outline-width": 0.6
 			}
 		},
 		{
