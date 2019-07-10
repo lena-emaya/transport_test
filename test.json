@@ -285,7 +285,7 @@
 				"line-width": 0.1,
 				"color": "#ffffff",
 				"outline-color": "#ddd9ca",
-				"outline-width": 0.5
+				"outline-width": 1
 		}
 		},
 		{
@@ -294,7 +294,7 @@
 				"line-width": 2,
 				"color": "#ffffff",
 				"outline-color": "#ddd9ca",
-				"outline-width": 0.5
+				"outline-width": 3
 		}
 		},
 		{
@@ -303,7 +303,7 @@
 				"line-width": 12,
 				"color": "#ffffff",
 				"outline-color": "#ddd9ca",
-				"outline-width": 0.5
+				"outline-width": 13
 		}
 		}
 	]			
