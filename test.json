@@ -286,7 +286,16 @@
 				"color": "#ffffff",
 				"outline-color": "#ddd9ca",
 				"outline-width": 1
-		}
+			}
+		},
+		{
+			"zooms": "5-8",
+			"stylers": {
+				"line-width": 0.1,
+				"color": "#ffffff",
+				"outline-color": "#ddd9ca",
+				"outline-width": 2
+			}
 		},
 		{
 			"zooms": "8-15",
