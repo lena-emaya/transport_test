@@ -83,7 +83,7 @@
  {
 	"featureType": "place_label",
 	"stylers": {
-		
+		"color": "#5e5845",
 		"scale": 0.9}
  },
  {
