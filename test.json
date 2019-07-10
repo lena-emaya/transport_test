@@ -293,7 +293,7 @@
 			"zooms": "3-4",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#C4BFA7",
+				"color": "#ffffff",
 				"outline-color": "#C4BFA7",
 				"outline-width": 0.2
 			}
@@ -302,7 +302,7 @@
 			"zooms": "4-5",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#C4BFA7",
+				"color": "#ffffff",
 				"outline-color": "#C4BFA7",
 				"outline-width": 0.2
 			}
@@ -311,7 +311,7 @@
 			"zooms": "5-6",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#C4BFA7",
+				"color": "#ffffff",
 				"outline-color": "#C4BFA7",
 				"outline-width": 0.3
 			}
@@ -320,7 +320,7 @@
 			"zooms": "6-7",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#C4BFA7",
+				"color": "#ffffff",
 				"outline-color": "#C4BFA7",
 				"outline-width": 0.3
 			}
@@ -347,8 +347,8 @@
 			"zooms": "9-10",
 			"stylers": {
 				"line-width": 0.3,
-				"color": "#ffffff",
-				"outline-color": "#C4BFA7",
+				"color": "#FF9FE3",
+				"outline-color": "#FF9FE3",
 				"outline-width": 0.5
 			}
 		},
