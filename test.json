@@ -293,7 +293,7 @@
 			"zooms": "3-4",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#ffffff",
+				"color": "#C4BFA7",
 				"outline-color": "#C4BFA7",
 				"outline-width": 0.2
 			}
@@ -302,7 +302,7 @@
 			"zooms": "4-5",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#ffffff",
+				"color": "#C4BFA7",
 				"outline-color": "#C4BFA7",
 				"outline-width": 0.2
 			}
@@ -311,7 +311,7 @@
 			"zooms": "5-6",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#ffffff",
+				"color": "#C4BFA7",
 				"outline-color": "#C4BFA7",
 				"outline-width": 0.3
 			}
@@ -320,7 +320,7 @@
 			"zooms": "6-7",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#ffffff",
+				"color": "#C4BFA7",
 				"outline-color": "#C4BFA7",
 				"outline-width": 0.3
 			}
@@ -329,7 +329,7 @@
 			"zooms": "7-8",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#ffffff",
+				"color": "#C4BFA7",
 				"outline-color": "#C4BFA7",
 				"outline-width": 0.5
 			}
@@ -338,7 +338,7 @@
 			"zooms": "8-9",
 			"stylers": {
 				"line-width": 0.2,
-				"color": "#ffffff",
+				"color": "#C4BFA7",
 				"outline-color": "#C4BFA7",
 				"outline-width": 0.5
 			}
@@ -356,7 +356,7 @@
 			"zooms": "10-11",
 			"stylers": {
 				"line-width": 0.4,
-				"color": "#ffffff",
+				"color": "#C4BFA7",
 				"outline-color": "#C4BFA7",
 				"outline-width": 0.5
 			}
@@ -365,7 +365,7 @@
 			"zooms": "11-12",
 			"stylers": {
 				"line-width": 0.4,
-				"color": "#ffffff",
+				"color": "#C4BFA7",
 				"outline-color": "#ddd9ca",
 				"outline-width": 0.6
 			}
@@ -373,9 +373,9 @@
 		{
 			"zooms": "12-13",
 			"stylers": {
-				"color": "#ffffff",
+				"color": "#C4BFA7",
 				"outline-color": "#ddd9ca",
-				"scale": 0.3
+				"scale": 0.1
 			}
 		},
 		{
@@ -383,7 +383,7 @@
 			"stylers": {
 				"color": "#ddd9ca",
 				"outline-color": "#ddd9ca",
-				"scale": 0.7
+				"scale": 0.5
 			}
 		},
 		{
@@ -391,7 +391,7 @@
 			"stylers": {
 				"color": "#ffffff",
 				"outline-color": "#ddd9ca",
-				"scale": 0.7
+				"scale": 0.6
 			}
 		},
 		{
