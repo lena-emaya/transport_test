@@ -70,14 +70,7 @@
 		  "scale": 0.9
 		}
 	},
- 	{
-		"featureType": "transport.line",
-		"stylers": {
-			"visibility":"on",
-			"opacity": 1,
-			"scale": 0.9
-		}
- 	},
+ 	
  
 {
 	"featureType": "country_label",
@@ -136,11 +129,6 @@
 	}
  },
  {
-	"featureType": "fence",
-	"stylers": {
-	"visibility": "off"}
- },
- {
 	"featureType": "poi",
 	"zoomSlices": [
 		
@@ -157,7 +145,7 @@
 				"lightness": 0.05,
 				"saturation": -1,
 				"color": "#92918b",
-				"outline-color": "rgba(0, 0, 0, 0)"
+				"outline-color": "#f9f7f2"
 		}
 		}
 	]
@@ -277,7 +265,7 @@
 			"scale": 0.8,
 			"outline-width": 0,
 			"color": "#92918b",
-			"outline-color": "rgba(0, 0, 0, 0)"
+			"outline-color": "#f9f7f2"
 		}
  	},
 	{
@@ -487,6 +475,19 @@
 		"stylers":{
 				"visibility":"off"
 		}
-	}
+	},
+	{
+		"featureType": "transport.line",
+		"stylers": {
+			"visibility":"off",
+			"opacity": 1,
+			"scale": 0.9
+		}
+	 },
+	 {
+		"featureType": "fence",
+		"stylers": {
+		"visibility": "off"}
+	 }
 
 ]
