@@ -215,15 +215,13 @@
 		{
 			"zooms": "0-11",
 			"stylers": {
-				"lightness": 0.2,
-				"visibility": "off"
+				"lightness": 0.6
 				}
 		},
 		{
 			"zooms": "11-22",
 			"stylers": {
-				"lightness": 0.35,
-				"visibility": "on"
+				"lightness": 0.35
 				}
 		}
 	]
