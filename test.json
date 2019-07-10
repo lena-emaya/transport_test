@@ -279,7 +279,7 @@
  
 
  {
-	"featureType":"road",
+	"featureType":"road.class1_0",
 	"stylers":{
 		"color": "#ffffff",
 		"outline-color": "#ddd9ca",
