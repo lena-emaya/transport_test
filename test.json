@@ -327,9 +327,17 @@
 	}	
 },
 
-{
-	"featureType":"road.local.bike",
-	"stylers":{
-			"visibility":"off"
+	{
+		"featureType":"road.local.bike",
+		"stylers":{
+				"visibility":"off"
+		}
+	},
+	{
+		"featureType":"entrance.entrance_0",
+		"stylers":{
+				"visibility":"off"
+		}
 	}
-}]
+
+]
