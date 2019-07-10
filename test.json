@@ -213,7 +213,7 @@
 	"featureType": "nonauto.road.railway_0",
 	"zoomSlices": [
 		{
-			"zooms": "0-11",
+			"zooms": "0-12",
 			"stylers": {
 				"lightness": 0.6,
 				"visibility": "on",
@@ -221,7 +221,7 @@
 				}
 		},
 		{
-			"zooms": "11-22",
+			"zooms": "12-22",
 			"stylers": {
 				"lightness": 0.35,
 				"visibility": "on"
@@ -366,22 +366,22 @@
 			"stylers": {
 				"line-width": 0.4,
 				"color": "#ffffff",
-				"outline-color": "#C4BFA7",
-				"outline-width": 0.5
+				"outline-color": "#ddd9ca",
+				"outline-width": 0.6
 			}
 		},
 		{
 			"zooms": "12-13",
 			"stylers": {
 				"color": "#ffffff",
-				"outline-color": "#C4BFA7",
+				"outline-color": "#ddd9ca",
 				"scale": 0.3
 			}
 		},
 		{
 			"zooms": "13-14",
 			"stylers": {
-				"color": "#ffffff",
+				"color": "#ddd9ca",
 				"outline-color": "#ddd9ca",
 				"scale": 0.7
 			}
