@@ -294,16 +294,34 @@
 				"line-width": 0.1,
 				"color": "#ffffff",
 				"outline-color": "#ddd9ca",
-				"outline-width": 0.4
+				"outline-width": 0.3
 			}
 		},
 		{
-			"zooms": "5-8",
+			"zooms": "5-6",
 			"stylers": {
 				"line-width": 0.1,
 				"color": "#ffffff",
 				"outline-color": "#ddd9ca",
-				"outline-width": 1
+				"outline-width": 0.4
+			}
+		},
+		{
+			"zooms": "6-7",
+			"stylers": {
+				"line-width": 0.2,
+				"color": "#ffffff",
+				"outline-color": "#ddd9ca",
+				"outline-width": 0.5
+			}
+		},
+		{
+			"zooms": "7-8",
+			"stylers": {
+				"line-width": 0.3,
+				"color": "#ffffff",
+				"outline-color": "#ddd9ca",
+				"outline-width": 0.6
 			}
 		},
 		{
