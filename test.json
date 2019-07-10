@@ -517,10 +517,15 @@
 	"featureType":"road.class9_0",
 	"stylers":{
 		"color": "#ddd9ca",
-	
 		"scale":0.5
-	}
-			
+	}		
+},
+{
+	"featureType":"road.class8_0",
+	"stylers":{
+		"color": "#ddd9ca",
+		"scale":0.5
+	}		
 },
 
 {
