@@ -18,17 +18,17 @@
 		}
   },
  	{
-		"featureType": "border",
+		"featureType": "border.border_inline_0",
  	 "stylers": {
- 		 	"color": "#a4a096",
-			 "scale": 0.8
+ 		 	"color": "#F07DFF",
+			 "scale": 0.5
 		}
 	},
 	{
 		"featureType": "border.border_LK1_0",
  	 "stylers": {
- 		 	"color": "#E872C7",
-			 "scale": 0.8
+ 		 	"color": "#a4a096",
+			 "scale": 0.5
 		}
 	},
 	{
