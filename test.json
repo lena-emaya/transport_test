@@ -255,11 +255,25 @@
  },
  {
 	"featureType": "nonauto.road.crosswalk_0",
-	"stylers": {
-		"color": "#ddd9ca",
-		
-		"scale": 0.75
+	"zoomSlices": [
+		{
+			"zooms": "0-15",
+			"stylers": {
+				"lightness": 0.6,
+				"visibility": "on",
+				"opacity": 0
+				}
+		},
+		{
+			"zooms": "15-22",
+			"stylers": {
+				"lightness": 0.6,
+				"visibility": "on",
+				"scale": 0.75
+				}
 		}
+	]
+	
  },
  {
 	"featureType": "label.road.trafficlight",
