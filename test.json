@@ -274,19 +274,41 @@
 		}
  	},	 
 
-
-
  
 
  {
 	"featureType":"road.class1_0",
-	"stylers":{
-		"color": "#ffffff",
-		"outline-color": "#ddd9ca",
-		"scale":0.7
-	}
-			
+	"zoomSlices": [
+		{
+			"zooms": "3-5",
+			"stylers": {
+				"line-width": 0.1,
+				"color": "#ffffff",
+				"outline-color": "#ddd9ca",
+				"outline-width": 0.5
+		}
+		},
+		{
+			"zooms": "8-15",
+			"stylers": {
+				"line-width": 2,
+				"color": "#ffffff",
+				"outline-color": "#ddd9ca",
+				"outline-width": 0.5
+		}
+		},
+		{
+			"zooms": "15-22",
+			"stylers": {
+				"line-width": 12,
+				"color": "#ffffff",
+				"outline-color": "#ddd9ca",
+				"outline-width": 0.5
+		}
+		}
+	]			
 },
+
 {
 	"featureType":"road.class9_0",
 	"stylers":{
