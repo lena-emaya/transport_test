@@ -273,107 +273,8 @@
 			"color": "#92918b"
 		}
 	},
-	{
-		"featureType": "road.class1_link_0",
-		"stylers": {
-		
-			"color": "#7EFF50"
-		}
- 	},	 
-	{
-		"featureType": "road.class2_link_0",
-		"stylers": {
-		
-			"color": "#EB1C13"
-		}
-	},
-	{
-		"featureType": "road.class2_0",
-		"stylers": {
-		
-			"color": "#EB1C13"
-		}
-	},
-  {
-		"featureType": "road.class3_link_0",
-		"stylers": {
-		
-			"color": "#724BFF"
-		}
-	},
-	{
-		"featureType": "road.class3_0",
-		"stylers": {
-		
-			"color": "#724BFF"
-		}
-	},
-	{
-		"featureType": "road.class4_link_0",
-		"stylers": {
-		
-			"color": "#4BC9EB"
-		}
-	},
-	{
-		"featureType": "road.class4_0",
-		"stylers": {
-		
-			"color": "#4BC9EB"
-		}
-	},
-	{
-		"featureType": "road.class5_link_0",
-		"stylers": {
-		
-			"color": "#00FFAB"
-		}
-	},
-	{
-		"featureType": "road.class5_0",
-		"stylers": {
-		
-			"color": "#00FFAB"
-		}
-	},
-	{
-		"featureType": "road.class6_link_0",
-		"stylers": {
-		
-			"color": "#FF9FE3"
-		}
-	},
-	{
-		"featureType": "road.class6_0",
-		"stylers": {
-		
-			"color": "#FF9FE3"
-		}
-	},
-	{
-		"featureType": "road.class6_dense_0",
-		"stylers": {
-		
-			"color": "#FF9FE3"
-		}
-	 },
-	{
-		"featureType": "road.class6_dense_link_0",
-		"stylers": {
-		
-			"color": "#FF9FE3"
-		}
-	 },
-	 {
-		"featureType": "road.class7_0",
-		"stylers": {
-		
-			"color": "#FF9FE3"
-		}
- 	},
-
  {
-	"featureType":"road.class1_0",
+	"featureType":"road",
 	"zoomSlices": [
 		{
 			"zooms": "3-4",
@@ -513,20 +414,7 @@
 	]			
 },
 
-{
-	"featureType":"road.class9_0",
-	"stylers":{
-		"color": "#ddd9ca",
-		"scale":0.5
-	}		
-},
-{
-	"featureType":"road.class8_0",
-	"stylers":{
-		"color": "#ddd9ca",
-		"scale":0.5
-	}		
-},
+
 
 {
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_0",
