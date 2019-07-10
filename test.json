@@ -280,12 +280,21 @@
 	"featureType":"road.class1_0",
 	"zoomSlices": [
 		{
-			"zooms": "3-5",
+			"zooms": "3-4",
 			"stylers": {
 				"line-width": 0.1,
 				"color": "#ffffff",
 				"outline-color": "#ddd9ca",
-				"outline-width": 1
+				"outline-width": 0.3
+			}
+		},
+		{
+			"zooms": "4-5",
+			"stylers": {
+				"line-width": 0.1,
+				"color": "#ffffff",
+				"outline-color": "#ddd9ca",
+				"outline-width": 0.4
 			}
 		},
 		{
@@ -294,7 +303,7 @@
 				"line-width": 0.1,
 				"color": "#ffffff",
 				"outline-color": "#ddd9ca",
-				"outline-width": 2
+				"outline-width": 1
 			}
 		},
 		{
