@@ -18,7 +18,7 @@
 		}
   },
  	{
-		"featureType": "border.border_inline_0",
+		"featureType": "border.border_0",
  	 "stylers": {
  		 	"color": "#F07DFF",
 			 "scale": 0.5
