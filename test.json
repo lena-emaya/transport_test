@@ -20,9 +20,35 @@
 	{
 		"featureType": "urban-area.landuse_a.sportground_0",
 		"stylers": {
-			"color": "#F07DFF"
-	 }
- },
+			"color": "#c7e7cb"
+	 	}
+	},
+	{
+		"featureType": "vegetation",
+		"zoomSlices": [
+			{
+				"zooms": "3-8",
+				"stylers": {
+					"opacity": 0.3,
+					"color": "#c7e7cb"
+			}
+			},
+			{
+				"zooms": "8-15",
+				"stylers": {
+					"opacity": 0.5,
+					"color": "#c7e7cb"
+			}
+			},
+			{
+				"zooms": "15-22",
+				"stylers": {
+					"opacity": 1,
+					"color": "#c7e7cb"
+			}
+			}
+		]
+	},
  	{
 		"featureType": "border.border_0",
  	 "stylers": {
@@ -243,32 +269,7 @@
 
 
 
- {
-	"featureType": "vegetation",
-	"zoomSlices": [
-		{
-			"zooms": "3-8",
-			"stylers": {
-				"opacity": 0.3,
-				"color": "#c7e7cb"
-		}
-		},
-		{
-			"zooms": "8-15",
-			"stylers": {
-				"opacity": 0.5,
-				"color": "#c7e7cb"
-		}
-		},
-		{
-			"zooms": "15-22",
-			"stylers": {
-				"opacity": 1,
-				"color": "#c7e7cb"
-		}
-		}
-	]
- },
+ 
 
  {
 	"featureType":"road",
