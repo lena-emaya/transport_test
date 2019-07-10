@@ -213,16 +213,16 @@
 	"featureType": "nonauto.road.railway_0",
 	"zoomSlices": [
 		{
-			"zooms": "0-9",
+			"zooms": "0-11",
 			"stylers": {
 				"lightness": 0.2,
 				"visibility": "off"
 				}
 		},
 		{
-			"zooms": "9-22",
+			"zooms": "11-22",
 			"stylers": {
-				"lightness": 0.5,
+				"lightness": 0.35,
 				"visibility": "on"
 				}
 		}
