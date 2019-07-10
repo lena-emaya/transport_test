@@ -211,10 +211,22 @@
  },
  {
 	"featureType": "nonauto.road.railway_0",
-	"stylers": {
-		"lightness": 0.2,
-		"visibility": "on"
+	"zoomSlices": [
+		{
+			"zooms": "0-9",
+			"stylers": {
+				"lightness": 0.2,
+				"visibility": "off"
+				}
+		},
+		{
+			"zooms": "9-22",
+			"stylers": {
+				"lightness": 0.5,
+				"visibility": "on"
+				}
 		}
+	]
  },
  {
 	"featureType": "nonauto.road.stairs_0",
