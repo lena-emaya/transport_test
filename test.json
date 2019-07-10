@@ -276,7 +276,8 @@
 		"stylers": {
 			"scale": 0.8,
 			"outline-width": 0,
-			"color": "#92918b"
+			"color": "#92918b",
+			"outline-color": "rgba(0, 0, 0, 0)"
 		}
  	},
 	{
