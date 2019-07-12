@@ -314,7 +314,7 @@
 			"scale": 0.9,
 			"outline-width": 0,
 			"color": "#9e9983",
-			"outline-color": "#000"
+			"outline-color": "rgba(0,0,0,0)"
 		}
  	},
 	{
@@ -323,7 +323,7 @@
 			"scale": 0.8,
 			"outline-width": 0,
 			"color": "#9e9983",
-			"outline-color": "#000"
+			"outline-color": "rgba(0,0,0,0)"
 		}
 	},
  {
