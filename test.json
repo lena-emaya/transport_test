@@ -24,6 +24,12 @@
 	 	}
 	},
 	{
+		"featureType": "hydro_overlay.swamp_0",
+		"stylers": {
+			"color": "#1b221e"
+	 	}
+	},
+	{
 		"featureType": "vegetation",
 		"zoomSlices": [
 			{
@@ -163,7 +169,7 @@
 			"zooms": "17-22",
 			"stylers": {
 				"scale": 0.85,
-				"lightness": -0.75,
+				"lightness": -0.65,
 				"saturation": -1,
 				"color": "#504a44",
 				"outline-color": "#ccc"
