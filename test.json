@@ -244,7 +244,7 @@
  {
 	"featureType": "nonauto.road.piste_0",
 	"stylers": {
-		"color": "#5c5849",
+		"color": "#423f34",
 		"visibility": "on",
 		"scale": 0.75
 		}
@@ -255,7 +255,7 @@
 		{
 			"zooms": "0-17",
 			"stylers": {
-				"color": "#5c5849",
+				"color": "#423f34",
 				"visibility": "on",
 				"opacity": 0
 				}
@@ -263,7 +263,7 @@
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"color": "#5c5849",
+				"color": "#423f34",
 				"visibility": "on",
 				"scale": 0.65
 				}
@@ -276,7 +276,7 @@
 		{
 			"zooms": "0-17",
 			"stylers": {
-				"color": "#5c5849",
+				"color": "#423f34",
 				"visibility": "on",
 				"opacity": 0
 				}
@@ -284,7 +284,7 @@
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"color": "#5c5849",
+				"color": "#423f34",
 				"visibility": "on",
 				"scale": 0.65
 				}
@@ -314,7 +314,7 @@
 			"scale": 0.9,
 			"outline-width": 0,
 			"color": "#9e9983",
-			"outline-color": "rgba(0,0,0,0)"
+			"outline-color": "#474543"
 		}
  	},
 	{
@@ -333,7 +333,7 @@
 			"zooms": "3-4",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#5c5849",
+				"color": "#423f34",
 				"outline-color": "#5c5849",
 				"outline-width": 0.15
 			}
@@ -342,7 +342,7 @@
 			"zooms": "4-5",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#5c5849",
+				"color": "#423f34",
 				"outline-color": "#5c5849",
 				"outline-width": 0.15
 			}
@@ -351,7 +351,7 @@
 			"zooms": "5-6",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#5c5849",
+				"color": "#423f34",
 				"outline-color": "#5c5849",
 				"outline-width": 0.2
 			}
@@ -360,7 +360,7 @@
 			"zooms": "6-7",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#5c5849",
+				"color": "#423f34",
 				"outline-color": "#5c5849",
 				"outline-width": 0.2
 			}
@@ -369,7 +369,7 @@
 			"zooms": "7-8",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#5c5849",
+				"color": "#423f34",
 				"outline-color": "#5c5849",
 				"outline-width": 0.3
 			}
@@ -378,7 +378,7 @@
 			"zooms": "8-9",
 			"stylers": {
 				"line-width": 0.2,
-				"color": "#5c5849",
+				"color": "#423f34",
 				"outline-color": "#5c5849",
 				"outline-width": 0.4
 			}
@@ -387,7 +387,7 @@
 			"zooms": "9-10",
 			"stylers": {
 				"line-width": 0.2,
-				"color": "#5c5849",
+				"color": "#423f34",
 				"outline-color": "#5c5849",
 				"outline-width": 0.4
 			}
@@ -396,7 +396,7 @@
 			"zooms": "10-11",
 			"stylers": {
 				"line-width": 0.3,
-				"color": "#5c5849",
+				"color": "#423f34",
 				"outline-color": "#5c5849",
 				"outline-width": 0.6
 			}
@@ -405,7 +405,7 @@
 			"zooms": "11-12",
 			"stylers": {
 				"line-width": 0.5,
-				"color": "#5c5849",
+				"color": "#423f34",
 				"outline-color": "#5c5849",
 				"outline-width": 0.7
 			}
@@ -413,7 +413,7 @@
 		{
 			"zooms": "12-13",
 			"stylers": {
-				"color": "#5c5849",
+				"color": "#423f34",
 				"outline-color": "#5c5849",
 				"scale": 0.3
 			}
@@ -421,7 +421,7 @@
 		{
 			"zooms": "13-14",
 			"stylers": {
-				"color": "#5c5849",
+				"color": "#423f34",
 				"outline-color": "#5c5849",
 				"scale": 0.4
 			}
@@ -429,7 +429,7 @@
 		{
 			"zooms": "14-15",
 			"stylers": {
-				"color": "#5c5849",
+				"color": "#423f34",
 				"outline-color": "#5c5849",
 				"scale": 0.45
 			}
@@ -437,7 +437,7 @@
 		{
 			"zooms": "15-16",
 			"stylers": {
-				"color": "#5c5849",
+				"color": "#423f34",
 				"outline-color": "#5c5849",
 				"scale": 0.58
 			}
@@ -445,7 +445,7 @@
 		{
 			"zooms": "16-17",
 			"stylers": {
-				"color": "#5c5849",
+				"color": "#423f34",
 				"outline-color": "#5c5849",
 				"scale": 0.7
 			}
@@ -453,7 +453,7 @@
 		{
 			"zooms": "17-30",
 			"stylers": {
-				"color": "#5c5849",
+				"color": "#423f34",
 				"outline-color": "#5c5849",
 				"scale": 0.75
 			}
@@ -466,7 +466,7 @@
 {
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_0",
 	"stylers":{
-		"color": "#5c5849",
+		"color": "#423f34",
 	
 		"scale":0.5
 	}
@@ -475,7 +475,7 @@
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_0",
 	"stylers":{
-		"color": "#5c5849",
+		"color": "#423f34",
 	
 		"scale":0.5
 	}
@@ -484,7 +484,7 @@
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_dash_0",
 	"stylers":{
-		"color": "#5c5849",
+		"color": "#423f34",
 	
 		"scale":0.5
 	}
@@ -494,7 +494,7 @@
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_copy_copy_0",
 	"stylers":{
-		"color": "#5c5849"
+		"color": "#423f34"
 }
 		
 },
