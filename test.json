@@ -164,7 +164,7 @@
 			"stylers": {
 				"scale": 0.85,
 				"lightness": -0.5,
-				
+				"saturation": -1,
 				"color": "#92918b",
 				"outline-color": "#000"
 		}
