@@ -2,19 +2,19 @@
 	{
 	  "featureType": "admin.background",
 	  "stylers": {
-	  	"color": "#f9f7f2"
+	  	"color": "#302e27"
 		}
  	},
  	{
 	  "featureType": "admin.locality_a",
 	  "stylers": {
-	  	"color": "#f9f7f2"
+	  	"color": "#302e27"
 		}
  	},
   {
  	  "featureType": "urban-area.landuse_a",
  	  "stylers": {
-			 "color": "#f9f7f2"
+			 "color": "#302e27"
 		}
 	},
 	{
@@ -30,21 +30,21 @@
 				"zooms": "3-8",
 				"stylers": {
 					"opacity": 0.3,
-					"color": "#c7e7cb"
+					"color": "#1a211d"
 			}
 			},
 			{
 				"zooms": "8-15",
 				"stylers": {
 					"opacity": 0.5,
-					"color": "#c7e7cb"
+					"color": "#1a211d"
 			}
 			},
 			{
 				"zooms": "15-22",
 				"stylers": {
 					"opacity": 1,
-					"color": "#c7e7cb"
+					"color": "#1a211d"
 			}
 			}
 		]
@@ -110,7 +110,7 @@
 	"zooms": "13-15",
 	"stylers": {
 	"visibility": "off",
-	"color": "#F5F2E6"}
+	"color": "#211f1b"}
  },
  {
 	"featureType": "building",
@@ -120,14 +120,14 @@
 		"outline-width": 0.1,
 		"outline-color": "#f3f0e7",
 		"visibility": "on",
-		"color": "#F5F2E6"}
+		"color": "#211f1b"}
  },
  {
 	"featureType": "building",
 	"zooms": "18-22",
 	"stylers": {
 	"visibility": "on",
-	"color": "#F5F2E6"}
+	"color": "#211f1b"}
  },
  {
 	"featureType": "building_number",
@@ -161,7 +161,7 @@
 			"zooms": "17-22",
 			"stylers": {
 				"scale": 0.85,
-				"lightness": 0.05,
+				"lightness": -0.5,
 				"saturation": -1,
 				"color": "#92918b",
 				"outline-color": "#f9f7f2"
@@ -201,7 +201,7 @@
  {
 	"featureType": "hydro",
 	"stylers": {
-	"color": "#dce9f5"}
+	"color": "#1a1b21"}
  },
  {
 	"featureType": "nonauto.road",
@@ -249,7 +249,7 @@
 	"featureType": "nonauto.road.stairs_0",
 	"zoomSlices": [
 		{
-			"zooms": "0-16",
+			"zooms": "0-17",
 			"stylers": {
 				"color": "#ddd9ca",
 				"visibility": "on",
@@ -257,11 +257,11 @@
 				}
 		},
 		{
-			"zooms": "16-22",
+			"zooms": "17-22",
 			"stylers": {
 				"color": "#ddd9ca",
 				"visibility": "on",
-				"scale": 0.75
+				"scale": 0.65
 				}
 		}
 	]	
@@ -270,7 +270,7 @@
 	"featureType": "nonauto.road.crosswalk_0",
 	"zoomSlices": [
 		{
-			"zooms": "0-16",
+			"zooms": "0-17",
 			"stylers": {
 				"color": "#ddd9ca",
 				"visibility": "on",
@@ -278,11 +278,11 @@
 				}
 		},
 		{
-			"zooms": "16-22",
+			"zooms": "17-22",
 			"stylers": {
 				"color": "#ddd9ca",
 				"visibility": "on",
-				"scale": 0.75
+				"scale": 0.65
 				}
 		}
 	]	
@@ -328,8 +328,8 @@
 			"zooms": "3-4",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#ffffff",
-				"outline-color": "#C4BFA7",
+				"color": "#5c5849",
+				"outline-color": "#5c5849",
 				"outline-width": 0.15
 			}
 		},
@@ -337,8 +337,8 @@
 			"zooms": "4-5",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#ffffff",
-				"outline-color": "#C4BFA7",
+				"color": "#5c5849",
+				"outline-color": "#5c5849",
 				"outline-width": 0.15
 			}
 		},
@@ -346,8 +346,8 @@
 			"zooms": "5-6",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#ffffff",
-				"outline-color": "#C4BFA7",
+				"color": "#5c5849",
+				"outline-color": "#5c5849",
 				"outline-width": 0.2
 			}
 		},
@@ -355,8 +355,8 @@
 			"zooms": "6-7",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#ffffff",
-				"outline-color": "#C4BFA7",
+				"color": "#5c5849",
+				"outline-color": "#5c5849",
 				"outline-width": 0.2
 			}
 		},
@@ -364,8 +364,8 @@
 			"zooms": "7-8",
 			"stylers": {
 				"line-width": 0.1,
-				"color": "#ffffff",
-				"outline-color": "#C4BFA7",
+				"color": "#5c5849",
+				"outline-color": "#5c5849",
 				"outline-width": 0.3
 			}
 		},
@@ -373,8 +373,8 @@
 			"zooms": "8-9",
 			"stylers": {
 				"line-width": 0.2,
-				"color": "#ffffff",
-				"outline-color": "#ddd9ca",
+				"color": "#5c5849",
+				"outline-color": "#5c5849",
 				"outline-width": 0.4
 			}
 		},
@@ -382,8 +382,8 @@
 			"zooms": "9-10",
 			"stylers": {
 				"line-width": 0.2,
-				"color": "#E4E0D2",
-				"outline-color": "#ddd9ca",
+				"color": "#5c5849",
+				"outline-color": "#5c5849",
 				"outline-width": 0.4
 			}
 		},
@@ -391,8 +391,8 @@
 			"zooms": "10-11",
 			"stylers": {
 				"line-width": 0.3,
-				"color": "#E4E0D2",
-				"outline-color": "#ddd9ca",
+				"color": "#5c5849",
+				"outline-color": "#5c5849",
 				"outline-width": 0.6
 			}
 		},
@@ -400,56 +400,56 @@
 			"zooms": "11-12",
 			"stylers": {
 				"line-width": 0.5,
-				"color": "#EBE7DA",
-				"outline-color": "#ddd9ca",
+				"color": "#5c5849",
+				"outline-color": "#5c5849",
 				"outline-width": 0.7
 			}
 		},
 		{
 			"zooms": "12-13",
 			"stylers": {
-				"color": "#F9F7F2",
-				"outline-color": "#ddd9ca",
+				"color": "#5c5849",
+				"outline-color": "#5c5849",
 				"scale": 0.3
 			}
 		},
 		{
 			"zooms": "13-14",
 			"stylers": {
-				"color": "#ffffff",
-				"outline-color": "#ddd9ca",
+				"color": "#5c5849",
+				"outline-color": "#5c5849",
 				"scale": 0.4
 			}
 		},
 		{
 			"zooms": "14-15",
 			"stylers": {
-				"color": "#ffffff",
-				"outline-color": "#ddd9ca",
+				"color": "#5c5849",
+				"outline-color": "#5c5849",
 				"scale": 0.45
 			}
 		},
 		{
 			"zooms": "15-16",
 			"stylers": {
-				"color": "#ffffff",
-				"outline-color": "#ddd9ca",
+				"color": "#5c5849",
+				"outline-color": "#5c5849",
 				"scale": 0.58
 			}
 		},
 		{
 			"zooms": "16-17",
 			"stylers": {
-				"color": "#ffffff",
-				"outline-color": "#ddd9ca",
+				"color": "#5c5849",
+				"outline-color": "#5c5849",
 				"scale": 0.7
 			}
 		},
 		{
 			"zooms": "17-30",
 			"stylers": {
-				"color": "#ffffff",
-				"outline-color": "#ddd9ca",
+				"color": "#5c5849",
+				"outline-color": "#5c5849",
 				"scale": 0.75
 			}
 		}
