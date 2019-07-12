@@ -83,7 +83,8 @@
  {
 	"featureType": "place_label",
 	"stylers": {
-		"color": "#5e5845",
+		"color": "#b0b09b",
+		"outline-color": "rgba(0, 0, 0, 0)",
 		"scale": 0.9}
  },
  {
@@ -92,7 +93,7 @@
 			{
 				"zooms": "8-14",
 				"stylers": {
-					"color": "#a6a0a0",
+					"color": "#7c7a6e",
 					"scale": 0.8
 				}
 			},
@@ -181,21 +182,23 @@
 	"featureType": "hydro_a_label",
 	"stylers": {
 		"scale": 0.8,
-		"color": "#a1b2c4"
+		"outline-color": "rgba(0, 0, 0, 0)",
+		"color": "#74787b"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_0",
 	"stylers": {
 		"scale": 0.8,
-		"color": "#a1b2c4"
+		"outline-color": "rgba(0, 0, 0, 0)",
+		"color": "#74787b"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_0",
 	"stylers": {
 		"scale": 0.8,
-		"color": "#dce9f5"
+		"color": "#1a1b21"
 	}
  },
  {
@@ -213,7 +216,7 @@
  {
 	"featureType": "nonauto.road.tram_0",
 	"stylers": {
-		"lightness": 0.2,
+		"lightness": -0.2,
 		"visibility": "on"
 		}
  },
@@ -223,7 +226,7 @@
 		{
 			"zooms": "0-12",
 			"stylers": {
-				"lightness": 0.6,
+				"lightness": -0.6,
 				"visibility": "on",
 				"opacity": 0
 				}
@@ -240,7 +243,7 @@
  {
 	"featureType": "nonauto.road.piste_0",
 	"stylers": {
-		"color": "#ddd9ca",
+		"color": "#5c5849",
 		"visibility": "on",
 		"scale": 0.75
 		}
@@ -251,7 +254,7 @@
 		{
 			"zooms": "0-17",
 			"stylers": {
-				"color": "#ddd9ca",
+				"color": "#5c5849",
 				"visibility": "on",
 				"opacity": 0
 				}
@@ -259,7 +262,7 @@
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"color": "#ddd9ca",
+				"color": "#5c5849",
 				"visibility": "on",
 				"scale": 0.65
 				}
@@ -272,7 +275,7 @@
 		{
 			"zooms": "0-17",
 			"stylers": {
-				"color": "#ddd9ca",
+				"color": "#5c5849",
 				"visibility": "on",
 				"opacity": 0
 				}
@@ -280,7 +283,7 @@
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"color": "#ddd9ca",
+				"color": "#5c5849",
 				"visibility": "on",
 				"scale": 0.65
 				}
@@ -309,8 +312,8 @@
 		"stylers": {
 			"scale": 0.9,
 			"outline-width": 0,
-			"color": "#92918b",
-			"outline-color": "#fff"
+			"color": "#8e887b",
+			"outline-color": "#000"
 		}
  	},
 	{
