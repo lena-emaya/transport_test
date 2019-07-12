@@ -30,21 +30,21 @@
 				"zooms": "3-8",
 				"stylers": {
 					"opacity": 0.3,
-					"color": "#1a211d"
+					"color": "#1b221e"
 			}
 			},
 			{
 				"zooms": "8-15",
 				"stylers": {
 					"opacity": 0.5,
-					"color": "#1a211d"
+					"color": "#1b221e"
 			}
 			},
 			{
 				"zooms": "15-22",
 				"stylers": {
 					"opacity": 1,
-					"color": "#1a211d"
+					"color": "#1b221e"
 			}
 			}
 		]
@@ -52,22 +52,23 @@
  	{
 		"featureType": "border.border_0",
  	 "stylers": {
- 		 	"color": "#999588",
-			"scale": 0.7,
+ 		 	"color": "#43444c",
+			"scale": 0.5,
 			"outline-color":"rgba(0, 0, 0, 0)"
 		}
 	},
 	{
 		"featureType": "border.border_LK1_0",
  	 "stylers": {
- 		 	"color": "#999588",
-			 "scale": 0.7
+				"color": "#43444c",
+				"outline-color":"rgba(0, 0, 0, 0)",
+			 "scale": 0.5
 		}
 	},
 	{
 		"featureType": "label.transport",
 		"stylers": {
-		  "saturation": -0.1,
+		  "saturation": -0.8,
 		  "scale": 0.9
 		}
 	},
@@ -183,7 +184,7 @@
 	"stylers": {
 		"scale": 0.8,
 		"outline-color": "rgba(0, 0, 0, 0)",
-		"color": "#74787b"
+		"color": "#323742"
 	}
  },
  {
@@ -191,7 +192,7 @@
 	"stylers": {
 		"scale": 0.8,
 		"outline-color": "rgba(0, 0, 0, 0)",
-		"color": "#74787b"
+		"color": "#323742"
 	}
  },
  {
@@ -312,7 +313,7 @@
 		"stylers": {
 			"scale": 0.9,
 			"outline-width": 0,
-			"color": "#8e887b",
+			"color": "#9e9983",
 			"outline-color": "#000"
 		}
  	},
@@ -321,7 +322,8 @@
 		"stylers": {
 			"scale": 0.8,
 			"outline-width": 0,
-			"color": "#92918b"
+			"color": "#9e9983",
+			"outline-color": "#000"
 		}
 	},
  {
@@ -464,7 +466,7 @@
 {
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_0",
 	"stylers":{
-		"color": "#ddd9ca",
+		"color": "#5c5849",
 	
 		"scale":0.5
 	}
@@ -473,7 +475,7 @@
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_0",
 	"stylers":{
-		"color": "#CEA9E8",
+		"color": "#5c5849",
 	
 		"scale":0.5
 	}
@@ -482,7 +484,7 @@
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_dash_0",
 	"stylers":{
-		"color": "#ddd9ca",
+		"color": "#5c5849",
 	
 		"scale":0.5
 	}
@@ -492,7 +494,7 @@
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_copy_copy_0",
 	"stylers":{
-		"color": "#f9f7f2"
+		"color": "#5c5849"
 }
 		
 },
@@ -500,7 +502,7 @@
 {
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_BG_0",
 	"stylers":{
-		"color": "#f9f7f2"
+		"color": "#302e27"
 }
 		
 },
