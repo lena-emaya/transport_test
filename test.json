@@ -139,7 +139,7 @@
 		"opacity": 1,
 		
 		"visibility": "on",
-		"color": "#F0EDE1"}
+		"color": "#F2EDDF"}
  },
  {
 	"featureType": "building",
@@ -147,7 +147,7 @@
 	"stylers": {
 	"visibility": "on",
 
-	"color": "#EDEBDD"}
+	"color": "#F2EDDF"}
  },
  {
 	"featureType": "building_number",
