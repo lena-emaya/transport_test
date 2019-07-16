@@ -532,15 +532,6 @@
 		
 },
 {
-	"featureType":"road.local.tunnel",
-	"stylers":{
-		"color": "rgba(0, 0, 0, 0)",
-		"outline-color":"rgba(0, 0, 0, 0)",
-		"scale":0.5
-	}	
-},
-
-{
 	"featureType":"roadnet_a",
 	"stylers":{
 		"color": "#F536E6",
