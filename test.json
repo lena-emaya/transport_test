@@ -110,7 +110,7 @@
 	"zooms": "13-15",
 	"stylers": {
 	"visibility": "off",
-	"color": "#F5F2E6"}
+	"color": "#F2F0E1"}
  },
  {
 	"featureType": "building",
@@ -120,14 +120,14 @@
 		"outline-width": 0.1,
 		"outline-color": "#f3f0e7",
 		"visibility": "on",
-		"color": "#F5F2E6"}
+		"color": "#F2F0E1"}
  },
  {
 	"featureType": "building",
 	"zooms": "18-22",
 	"stylers": {
 	"visibility": "on",
-	"color": "#F5F2E6"}
+	"color": "#F2F0E1"}
  },
  {
 	"featureType": "building_number",
