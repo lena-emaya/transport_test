@@ -476,7 +476,15 @@
 	]			
 },
 
-
+{
+	"featureType":"road.class10_park_0",
+	"stylers":{
+		"color": "#ddd9ca",
+	
+		"scale":0.5
+	}
+			
+},
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_dash_0",
 	"stylers":{
