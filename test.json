@@ -117,8 +117,8 @@
 	"zooms": "15-16",
 	"stylers": {
 		"opacity": 0.6,
-		"outline-width": 0.1,
-		"outline-color": "#F0EDE1",
+		
+		
 		"visibility": "on",
 		"color": "#F3F0E7"}
  },
@@ -127,8 +127,8 @@
 	"zooms": "16-17",
 	"stylers": {
 		"opacity": 0.8,
-		"outline-width": 0.1,
-		"outline-color": "#F536E6",
+		
+		
 		"visibility": "on",
 		"color": "#F3F0E7"}
  },
@@ -137,19 +137,17 @@
 	"zooms": "17-18",
 	"stylers": {
 		"opacity": 1,
-		"outline-width": 0.1,
-		"outline-color": "#F536E6",
+		
 		"visibility": "on",
-		"color": "#F3F0E7"}
+		"color": "#F0EDE1"}
  },
  {
 	"featureType": "building",
 	"zooms": "18-22",
 	"stylers": {
 	"visibility": "on",
-	"outline-width": 0.1,
-	"outline-color": "#F536E6",
-	"color": "#F3F0E7"}
+
+	"color": "#EDEBDD"}
  },
  {
 	"featureType": "building_number",
