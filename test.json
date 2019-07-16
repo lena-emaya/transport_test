@@ -489,7 +489,7 @@
 {
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_BG_0",
 	"stylers":{
-		"color": "#F9F7F2",
+		"color": "#fff",
 	
 		"scale":0.5
 	}
