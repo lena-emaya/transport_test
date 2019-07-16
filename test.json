@@ -477,7 +477,7 @@
 },
 
 {
-	"featureType":"road.local.pedestrian",
+	"featureType":"road.local.pedestrian.road",
 	"stylers":{
 		"color": "#ddd9ca",
 		"outline-color": "#F9F7F2",
