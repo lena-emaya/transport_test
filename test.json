@@ -476,15 +476,7 @@
 	]			
 },
 
-{
-	"featureType":"road.local.pedestrian.road",
-	"stylers":{
-		"color": "#ddd9ca",
-		"outline-color": "#F9F7F2",
-		"scale":0.5
-	}
-			
-},
+
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_dash_0",
 	"stylers":{
