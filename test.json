@@ -532,9 +532,9 @@
 		
 },
 {
-	"featureType":"road.local.pedestrian",
+	"featureType":"road.local.tunnel",
 	"stylers":{
-		"color": "#ddd9ca",
+		"color": "rgba(0, 0, 0, 0)",
 		"outline-color":"rgba(0, 0, 0, 0)",
 		"scale":0.5
 	}	
