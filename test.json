@@ -136,10 +136,10 @@
 	"featureType": "building",
 	"zooms": "17-18",
 	"stylers": {
-		"opacity": 1,
+		"opacity": 0.9,
 		
 		"visibility": "on",
-		"color": "#F2EDDF"}
+		"color": "#EDE8DD"}
  },
  {
 	"featureType": "building",
@@ -147,7 +147,7 @@
 	"stylers": {
 	"visibility": "on",
 
-	"color": "#F2EDDF"}
+	"color": "#EDE8DD"}
  },
  {
 	"featureType": "building_number",
