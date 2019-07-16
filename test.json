@@ -2,7 +2,7 @@
 	{
 	  "featureType": "admin.background",
 	  "stylers": {
-	  	"color": "#f9f7f2"
+	  	"color": "#F9F7F2"
 		}
  	},
  	{
@@ -118,16 +118,17 @@
 	"stylers": {
 		"opacity": 0.6,
 		"outline-width": 0.1,
-		"outline-color": "#f3f0e7",
+		"outline-color": "#F0EDE1",
 		"visibility": "on",
-		"color": "#F0EDDD"}
+		"color": "#F3F0E7"}
  },
  {
 	"featureType": "building",
 	"zooms": "18-22",
 	"stylers": {
 	"visibility": "on",
-	"color": "#F0EDDD"}
+	"outline-color": "#F0EDE1",
+	"color": "#F0EDE1"}
  },
  {
 	"featureType": "building_number",
