@@ -553,7 +553,8 @@
 {
 	"featureType":"roadnet_a",
 	"stylers":{
-		"visibility": "off"
+		"color": "F536E6",
+		"visibility": "on"
 	}	
 },
 
