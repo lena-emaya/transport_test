@@ -140,7 +140,7 @@
 		"outline-width": 0.1,
 		"outline-color": "#F0EDE1",
 		"visibility": "on",
-		"color": "#F0EDE1"}
+		"color": "#F3F0E7"}
  },
  {
 	"featureType": "building",
@@ -149,7 +149,7 @@
 	"visibility": "on",
 	"outline-width": 0.1,
 	"outline-color": "#F0EDE1",
-	"color": "#F0EDE1"}
+	"color": "#F3F0E7"}
  },
  {
 	"featureType": "building_number",
