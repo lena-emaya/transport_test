@@ -534,7 +534,7 @@
 
 
 {
-	"featureType":"roadnet_a.bridge_pedestrian_0",
+	"featureType":"roadnet_a.roadnet_a_TXT_0",
 	"stylers":{
 		"color": "#F536E6",
 		"visibility": "off"
