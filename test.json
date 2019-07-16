@@ -480,7 +480,7 @@
 	"featureType":"road.local.pedestrian",
 	"stylers":{
 		"color": "#ddd9ca",
-	
+		"outline-color": "#F9F7F2",
 		"scale":0.5
 	}
 			
