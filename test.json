@@ -120,14 +120,14 @@
 		"outline-width": 0.1,
 		"outline-color": "#f3f0e7",
 		"visibility": "on",
-		"color": "#F2F0E1"}
+		"color": "#F0EDDD"}
  },
  {
 	"featureType": "building",
 	"zooms": "18-22",
 	"stylers": {
 	"visibility": "on",
-	"color": "#F2F0E1"}
+	"color": "#F0EDDD"}
  },
  {
 	"featureType": "building_number",
