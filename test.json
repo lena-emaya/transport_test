@@ -531,7 +531,12 @@
 }
 		
 },
-
+{
+	"featureType":"road.local.pedestrian",
+	"stylers":{
+		"color": "#F9F7F2"
+	}	
+},
 
 {
 	"featureType":"roadnet_a",
