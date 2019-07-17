@@ -462,8 +462,8 @@
 			"zooms": "11-12",
 			"stylers": {
 				"line-width": 0.5,
-				"color": "#EBE7DA",
-				"outline-color": "#F9F7F2",
+				"color": "#E4E0D2",
+				"outline-color": "#D1CDBA",
 				"outline-width": 0.8
 			}
 		},
@@ -471,7 +471,7 @@
 			"zooms": "12-13",
 			"stylers": {
 				"color": "#EBE7DA",
-				"outline-color": "#ddd9ca",
+				"outline-color": "#D1CDBA",
 				"scale": 0.4
 			}
 		},
@@ -479,7 +479,7 @@
 			"zooms": "13-14",
 			"stylers": {
 				"color": "#ffffff",
-				"outline-color": "#ddd9ca",
+				"outline-color": "#D1CDBA",
 				"scale": 0.4
 			}
 		},
