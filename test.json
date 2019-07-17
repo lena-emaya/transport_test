@@ -97,10 +97,17 @@
 			}
 			},
 			{
-				"zooms": "15-22",
+				"zooms": "15-18",
 				"stylers": {
 					"saturation": -0.1,
 					"scale": 1
+			}
+			},
+			{
+				"zooms": "18-22",
+				"stylers": {
+					"saturation": -0.1,
+					"scale": 1.2
 			}
 			}
 		]
