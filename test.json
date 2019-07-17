@@ -470,8 +470,8 @@
 		{
 			"zooms": "12-13",
 			"stylers": {
-				"color": "#F9F7F2",
-				"outline-color": "#ddd9ca",
+				"color": "#ddd9ca",
+				"outline-color": "#F9F7F2",
 				"scale": 0.4
 			}
 		},
