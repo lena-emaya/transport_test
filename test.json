@@ -222,6 +222,7 @@
 			"zooms": "17-22",
 			"stylers": {
 				"scale": 0.85,
+				"hue": -1,
 				"lightness": 0.2,
 				"saturation": -1,
 				"color": "#92918b",
