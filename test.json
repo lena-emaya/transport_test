@@ -464,7 +464,7 @@
 				"line-width": 0.5,
 				"color": "#EBE7DA",
 				"outline-color": "#ddd9ca",
-				"outline-width": 0.7
+				"outline-width": 0.8
 			}
 		},
 		{
@@ -472,7 +472,7 @@
 			"stylers": {
 				"color": "#F9F7F2",
 				"outline-color": "#ddd9ca",
-				"scale": 0.3
+				"scale": 0.4
 			}
 		},
 		{
