@@ -275,7 +275,7 @@
  {
 	"featureType": "nonauto.road.tram_0",
 	"stylers": {
-		"lightness": 0.2,
+		"lightness": 0.5,
 		"visibility": "on"
 		}
  },
