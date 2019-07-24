@@ -276,8 +276,9 @@
 	"featureType": "nonauto.road.tram_0",
 	"stylers": {
 		"lightness": 0.5,
-		"visibility": "on"
-		}
+		"visibility": "on",
+		"scale": 0.95
+	}
  },
  {
 	"featureType": "nonauto.road.railway_0",
