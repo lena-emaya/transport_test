@@ -235,6 +235,7 @@
  {
 	"featureType": "poi.veget_label_0",
 	"stylers": {
+		"visibility": "on",
 		"color": "#6fa582"
 	 }
 },
