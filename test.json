@@ -23,6 +23,7 @@
 			"color": "#c7e7cb"
 	 	}
 	},
+	
 	{
 		"featureType": "vegetation",
 		"zoomSlices": [
@@ -231,9 +232,12 @@
 		}
 	]
  },
-
-
- 
+ {
+	"featureType": "poi.veget_label_0",
+	"stylers": {
+		"color": "#6fa582"
+	 }
+},
  {
 	"featureType": "ferry",
 	"stylers": {
