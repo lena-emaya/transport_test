@@ -38,6 +38,7 @@
 	{
 		"featureType": "vegetation",
 		"stylers": {
+			"color": "#e9f2ea",
 			"visibility": "off"
 	 	}
 	},
@@ -164,13 +165,13 @@
 		"featureType": "hydro.hydro_l.hydro_l_0",
 		"stylers": {
 			"scale": 0.8,
-			"color": "#e4e8ec"
+			"color": "#eef3fc"
 		}
  	},
  	{
 		"featureType": "hydro",
 		"stylers": {
-			"color": "#e4e8ec"
+			"color": "#eef3fc"
 		}
  	},
  	{
