@@ -588,7 +588,7 @@
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_0",
 	"stylers":{
 		"color": "#ddd9ca",
-	
+		"opacity": 0.6,
 		"scale":0.5
 	}
 			
@@ -613,19 +613,19 @@
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_copy_copy_0",
 	"stylers":{
-		"color": "#9C1C91"
+		"color": "#fff"
 }	
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_copy_copy_1",
 	"stylers":{
-		"color": "#9C1C91"
+		"color": "#fff"
 }	
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_copy_copy_2",
 	"stylers":{
-		"color": "#9C1C91"
+		"color": "#fff"
 }	
 },
 {
@@ -701,6 +701,11 @@
 	 },
 	 {
 		"featureType": "fence",
+		"stylers": {
+		"visibility": "off"}
+	 },
+	 {
+		"featureType": "nonauto.road.arrows",
 		"stylers": {
 		"visibility": "off"}
 	 },
