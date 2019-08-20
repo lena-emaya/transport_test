@@ -10,6 +10,42 @@
 	  "stylers": {
 	  	"color": "#f9f7f2"
 		}
+	 },
+	 {
+	  "featureType": "admin.locality_a.locality_0",
+	  "stylers": {
+	  	"color": "#f9f7f2"
+		}
+	 },
+	 {
+	  "featureType": "admin.locality_a.locality_1",
+	  "stylers": {
+	  	"color": "#f9f7f2"
+		}
+	 },
+	 {
+	  "featureType": "admin.locality_a.locality_2",
+	  "stylers": {
+	  	"color": "#f9f7f2"
+		}
+	 },
+	 {
+	  "featureType": "admin.locality_a.locality_3",
+	  "stylers": {
+	  	"color": "#f9f7f2"
+		}
+	 },
+	 {
+	  "featureType": "admin.locality_a.locality_4",
+	  "stylers": {
+	  	"color": "#f9f7f2"
+		}
+	 },
+	 {
+	  "featureType": "admin.locality_a.locality_5",
+	  "stylers": {
+	  	"color": "#f9f7f2"
+		}
  	},
   {
  	  "featureType": "urban-area.landuse_a",
@@ -193,20 +229,20 @@
  },
  {
 	"featureType": "building_number",
-	"zooms": "0-17",
+	"zooms": "0-16",
 	"stylers": {
 	"visibility": "off"
 	}
  },
  {
-	"featureType": "building_number",
-	"zooms": "17-22",
+	"featureType": "building_number.adress_0",
+	"zooms": "16-22",
 	"stylers": {
 	"visibility": "on",
-	"color": "#E0DCCE",
+	"color": "#DBD3C5",
 	"outline-color": "rgba(249, 247, 242, 1)",
 	"outline-width": 0,
-	"scale": 0.8
+	"scale": 0.85
 	}
  },
  {
