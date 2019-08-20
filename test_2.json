@@ -1251,6 +1251,83 @@
 		"visibility": "on"
 	}	
 },
+{
+	"featureType":"roadnet_a.bridge_pedestrian_0",
+	"stylers":{
+		"color": "#F9F7F2",
+		"visibility": "on"
+	}	
+},
+{
+	"featureType":"roadnet_a.bridge_pedestrian_1",
+	"stylers":{
+		"color": "#F9F7F2",
+		"visibility": "on"
+	}	
+},
+{
+	"featureType":"roadnet_a.bridge_pedestrian_2",
+	"stylers":{
+		"color": "#F9F7F2",
+		"visibility": "on"
+	}	
+},
+{
+	"featureType":"roadnet_a.bridge_pedestrian_3",
+	"stylers":{
+		"color": "#F9F7F2",
+		"visibility": "on"
+	}	
+},
+{
+	"featureType":"roadnet_a.bridge_pedestrian_4",
+	"stylers":{
+		"color": "#F9F7F2",
+		"visibility": "on"
+	}	
+},
+{
+	"featureType":"roadnet_a.bridge_pedestrian_5",
+	"stylers":{
+		"color": "#F9F7F2",
+		"visibility": "on"
+	}	
+},
+{
+	"featureType":"roadnet_a.bridge_pedestrian_6",
+	"stylers":{
+		"color": "#F9F7F2",
+		"visibility": "on"
+	}	
+},
+{
+	"featureType":"roadnet_a.bridge_pedestrian_7",
+	"stylers":{
+		"color": "#F9F7F2",
+		"visibility": "on"
+	}	
+},
+{
+	"featureType":"roadnet_a.bridge_pedestrian_8",
+	"stylers":{
+		"color": "#F9F7F2",
+		"visibility": "on"
+	}	
+},
+{
+	"featureType":"roadnet_a.bridge_pedestrian_9",
+	"stylers":{
+		"color": "#F9F7F2",
+		"visibility": "on"
+	}	
+},
+{
+	"featureType":"roadnet_a.bridge_pedestrian_10",
+	"stylers":{
+		"color": "#F9F7F2",
+		"visibility": "on"
+	}	
+},
 
 	{
 		"featureType":"road.local.bike",
