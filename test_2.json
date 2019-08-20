@@ -339,6 +339,41 @@
 	}
  },
  {
+	"featureType": "hydro.hydro_l.hydro_l_label_1",
+	"stylers": {
+		"scale": 0.8,
+		"color": "#a1b2c4"
+	}
+ },
+ {
+	"featureType": "hydro.hydro_l.hydro_l_label_2",
+	"stylers": {
+		"scale": 0.8,
+		"color": "#a1b2c4"
+	}
+ },
+ {
+	"featureType": "hydro.hydro_l.hydro_l_label_3",
+	"stylers": {
+		"scale": 0.8,
+		"color": "#a1b2c4"
+	}
+ },
+ {
+	"featureType": "hydro.hydro_l.hydro_l_label_4",
+	"stylers": {
+		"scale": 0.8,
+		"color": "#a1b2c4"
+	}
+ },
+ {
+	"featureType": "hydro.hydro_l.hydro_l_label_5",
+	"stylers": {
+		"scale": 0.8,
+		"color": "#a1b2c4"
+	}
+ },
+ {
 	"featureType": "hydro.hydro_l.hydro_l_0",
 	"stylers": {
 		"scale": 0.8,
