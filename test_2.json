@@ -193,14 +193,14 @@
  },
  {
 	"featureType": "building_number",
-	"zooms": "0-16",
+	"zooms": "0-17",
 	"stylers": {
 	"visibility": "off"
 	}
  },
  {
 	"featureType": "building_number",
-	"zooms": "16-22",
+	"zooms": "17-22",
 	"stylers": {
 	"visibility": "on",
 	"color": "#948E82",
@@ -380,12 +380,17 @@
  {
 	"featureType": "roadnet_p",
 	"stylers": {
+		"visibility": "off"
+    }
+ },
+ {
+	"featureType": "roadnet_p.gate_car_0",
+	"stylers": {
 		"scale": 0.9,
 		"hue": 0,
 		"lightness": 0.45,
 		"saturation": -1,
-		"color": "#333",
-        "outline-color": "rgba(255,255,255,0.4)"
+        "visibility": "on" 
     }
  },
 
