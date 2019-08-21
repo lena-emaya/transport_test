@@ -1169,7 +1169,7 @@
 	}
 },
 {
-	"featureType":"roadnet_a",
+	"featureType":"roadnet_a.roadnet_a_TXT_0",
 	"stylers":{
 		"visibility": "off"
 	}	
@@ -1402,18 +1402,16 @@
 	{
 		"featureType":"road.local.bike",
 		"stylers":{
-				"visibility":"off"
+			"visibility":"off"
 		}
-    },
-    
-	
+  },
 	{
 		"featureType":"entrance.entrance_0",
 		"stylers":{
 			"scale": 0.85,
-				"hue": 0,
-				"lightness": 0.45,
-				"saturation": -1
+			"hue": 0,
+			"lightness": 0.45,
+			"saturation": -1
 		}
 	},
 	{
