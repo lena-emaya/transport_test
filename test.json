@@ -1152,19 +1152,19 @@
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_copy_copy_0",
 	"stylers":{
-		"color": "#E8024E"
+		"color": "#fff"
 	}	
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_copy_copy_1",
 	"stylers":{
-		"color": "#E8024E"
+		"color": "#fff"
 	}	
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_copy_copy_2",
 	"stylers":{
-		"color": "#E8024E"
+		"color": "#fff"
 	}	
 },
 {
