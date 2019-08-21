@@ -1169,6 +1169,41 @@
 	}
 },
 {
+	"featureType":"road.class10_park_7",
+	"stylers":{
+		"color":"#fff",
+		"scale":0.5
+	}
+},
+{
+	"featureType":"road.class10_park_8",
+	"stylers":{
+		"color":"#fff",
+		"scale":0.5
+	}
+},
+{
+	"featureType":"road.class10_park_9",
+	"stylers":{
+		"color":"#fff",
+		"scale":0.5
+	}
+},
+{
+	"featureType":"road.class10_park_10",
+	"stylers":{
+		"color":"#fff",
+		"scale":0.5
+	}
+},
+{
+	"featureType":"road.class10_park_11",
+	"stylers":{
+		"color":"#fff",
+		"scale":0.5
+	}
+},
+{
 	"featureType":"roadnet_a.roadnet_a_TXT_0",
 	"stylers":{
 		"visibility": "off"
