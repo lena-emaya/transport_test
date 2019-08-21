@@ -414,7 +414,7 @@
  {
 	"featureType": "nonauto.road.piste_0",
 	"stylers": {
-		"color": "#ddd9ca",
+		"color": "#E8024E",
 		"visibility": "on",
 		"scale": 0.75
 		}
@@ -422,7 +422,7 @@
  {
 	"featureType": "nonauto.road.piste_1",
 	"stylers": {
-		"color": "#ddd9ca",
+		"color": "#E8024E",
 		"visibility": "on",
 		"scale": 0.75
 		}
@@ -430,7 +430,7 @@
  {
 	"featureType": "nonauto.road.piste_2",
 	"stylers": {
-		"color": "#ddd9ca",
+		"color": "#E8024E",
 		"visibility": "on",
 		"scale": 0.75
 		}
