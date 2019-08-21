@@ -270,11 +270,9 @@
  {
 	"featureType": "poi.veget_label_0",
 	"zoomSlices": [
-		
 		{
 			"zooms": "8-17",
 			"stylers": {
-				"visibility": "on",
 				"scale": 0.85,
 				"hue": 0,
 				"lightness": 0.45,
