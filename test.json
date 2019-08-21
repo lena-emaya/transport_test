@@ -1410,7 +1410,10 @@
 	{
 		"featureType":"entrance.entrance_0",
 		"stylers":{
-				"visibility":"off"
+			"scale": 0.85,
+				"hue": 0,
+				"lightness": 0.45,
+				"saturation": -1
 		}
 	},
 	{
