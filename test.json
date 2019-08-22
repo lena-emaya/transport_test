@@ -231,7 +231,7 @@
 	"visibility": "on",
 	"outline-color":"#CECABB",
 	"outline-width": 0.1,
-	"color": "#F2EDE6"}
+	"color": "#F3F0E7"}
  },
  {
 	"featureType": "building_number",
@@ -264,7 +264,7 @@
 			"stylers": {
 				"scale": 1,
 				"hue": 0,
-				"lightness": 0.35,
+				"lightness": 0.4,
 				"saturation": -1,
 				"color": "#333",
 				"outline-color": "rgba(255,255,255,0.4)"
@@ -281,7 +281,7 @@
 				"visibility": "on",
 				"scale": 1,
 				"hue": 0,
-				"lightness": 0.35,
+				"lightness": 0.4,
 				"saturation": -0.7,
 				"color": "#333",
 				"outline-color": "rgba(255,255,255,0.4)"
