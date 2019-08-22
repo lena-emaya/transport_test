@@ -94,14 +94,14 @@
 			{
 				"zooms": "13-15",
 				"stylers": {
-					"opacity": 0.85,
+					"opacity": 0.3,
 					"color": "#c7e7cb"
 				}
 			},
 			{
 				"zooms": "15-22",
 				"stylers": {
-					"opacity": 1,
+					"opacity": 0.3,
 					"color": "#c7e7cb"
 			}
 			}
