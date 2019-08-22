@@ -278,7 +278,7 @@
 		{
 			"zooms": "8-17",
 			"stylers": {
-				"visibility": "on",
+				
 				"scale": 1,
 				"hue": 0,
 				"lightness": 0.4,
@@ -290,7 +290,7 @@
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"visibility": "on",
+				
 				"scale": 1,
 				"hue": 0,
 				"lightness": 0.4,
