@@ -256,9 +256,9 @@
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"scale": 0.85,
+				"scale": 1,
 				"hue": 0,
-				"lightness": 0.45,
+				"lightness": 0.35,
 				"saturation": -1,
 				"color": "#333",
 				"outline-color": "rgba(255,255,255,0.4)"
