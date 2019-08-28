@@ -143,21 +143,21 @@
 				"zooms": "12-13",
 				"stylers": {
 					"opacity": 1,
-					"color": "#DAEDDA"
+					"color": "#E6F2E6"
 				}
 			},
 			{
 				"zooms": "13-15",
 				"stylers": {
 					"opacity": 1,
-					"color": "#DAEDDA"
+					"color": "#E6F2E6"
 				}
 			},
 			{
 				"zooms": "15-22",
 				"stylers": {
 					"opacity":1,
-					"color": "#DAEDDA"
+					"color": "#E6F2E6"
 			}
 			}
 		]
