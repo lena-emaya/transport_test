@@ -184,21 +184,21 @@
 			{
 				"zooms": "8-15",
 				"stylers": {
-					"saturation": -0.1,
+					"saturation": -0.3,
 					"scale": 0.9
 			}
 			},
 			{
 				"zooms": "15-18",
 				"stylers": {
-					"saturation": -0.1,
+					"saturation": -0.3,
 					"scale": 1
 			}
 			},
 			{
 				"zooms": "18-22",
 				"stylers": {
-					"saturation": -0.1,
+					"saturation": -0.3,
 					"scale": 1.05
 			}
 			}
@@ -321,7 +321,7 @@
 				"hue": 0,
 				"lightness": 0.4,
 				"saturation": -1,
-				"color": "#9ba0a6",
+				"color": "#a9aeb7",
 				"outline-color": "rgba(255,255,255,0.4)"
 		}
 		}
@@ -338,7 +338,7 @@
 				"hue": 0,
 				"lightness": 0.4,
 				"saturation": -0.7,
-				"color": "#9ba0a6",
+				"color": "#a9aeb7",
 				"outline-color": "rgba(255,255,255,0.4)"
 			}
 		},
@@ -350,7 +350,7 @@
 				"hue": 0,
 				"lightness": 0.4,
 				"saturation": -0.7,
-				"color": "#9ba0a6",
+				"color": "#a9aeb7",
 				"outline-color": "rgba(255,255,255,0.4)"
 		}
 		}
