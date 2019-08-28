@@ -284,9 +284,9 @@
 	"zooms": "18-22",
 	"stylers": {
 	"visibility": "on",
-	"outline-color":"#E8EBED",
+	"outline-color":"#EDF0F0",
 	"outline-width": 0.1,
-	"color": "#E8EBED"}
+	"color": "#EDF0F0"}
  },
  {
 	"featureType": "building_number",
