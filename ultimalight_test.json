@@ -794,8 +794,8 @@
 		"stylers": {
 			"scale": 0.9,
 			"outline-width": 0,
-			"color": "#a9aeb7",
-			"outline-color": "#fff"
+			"color": "#8b8e92",
+			"outline-color": "rgba(0,0,0,0)"
 		}
  	},
 	{
@@ -803,7 +803,7 @@
 		"stylers": {
 			"scale": 0.8,
 			"outline-width": 0,
-			"color": "#a9aeb7"
+			"color": "#8b8e92"
 		}
 	},
  {
