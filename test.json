@@ -150,28 +150,28 @@
 				"zooms": "13-14",
 				"stylers": {
 					"opacity": 0.9,
-					"color": "#D5EBD8"
+					"color": "#E1F2E4"
 				}
 			},
 			{
 				"zooms": "14-15",
 				"stylers": {
-					"opacity": 0.8,
-					"color": "#D5EBD8"
+					"opacity": 1,
+					"color": "#E1F2E4"
 				}
 			},
 			{
 				"zooms": "15-16",
 				"stylers": {
 					"opacity":1,
-					"color": "#E6F2E6"
+					"color": "#E1F2E4"
 				}
 			},
 			{
 				"zooms": "16-30",
 				"stylers": {
 					"opacity":1,
-					"color": "#E6F2E6"
+					"color": "#E1F2E4"
 				}
 			}
 		]
