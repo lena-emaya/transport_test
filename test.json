@@ -142,22 +142,22 @@
 			{
 				"zooms": "12-13",
 				"stylers": {
-					"opacity": 1,
-					"color": "#E6F2E6"
+					"opacity": 0.5,
+					"color": "#c7e7cb"
 				}
 			},
 			{
 				"zooms": "13-15",
 				"stylers": {
 					"opacity": 1,
-					"color": "#E6F2E6"
+					"color": "#E6F2E4"
 				}
 			},
 			{
 				"zooms": "15-22",
 				"stylers": {
 					"opacity":1,
-					"color": "#E6F2E6"
+					"color": "#E6F2E4"
 			}
 			}
 		]
