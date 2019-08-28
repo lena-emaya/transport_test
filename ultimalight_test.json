@@ -467,7 +467,7 @@
 			"stylers": {
 				"lightness": 0.6,
 				"visibility": "on",
-				"saturation": -1,
+				"saturation": -0.1,
 				"opacity": 0
 				}
 		},
@@ -475,7 +475,7 @@
 			"zooms": "12-22",
 			"stylers": {
 				"lightness": 0.35,
-				"saturation": -1,
+				"saturation": -0.1,
 				"visibility": "on"
 				}
 		}
