@@ -150,28 +150,14 @@
 				"zooms": "13-14",
 				"stylers": {
 					"opacity": 0.9,
-					"color": "#E4F0E4"
+					"color": "#E4F0E1"
 				}
 			},
 			{
-				"zooms": "14-15",
+				"zooms": "14-30",
 				"stylers": {
 					"opacity": 1,
-					"color": "#E4F0E4"
-				}
-			},
-			{
-				"zooms": "15-16",
-				"stylers": {
-					"opacity":1,
-					"color": "#E4F0E4"
-				}
-			},
-			{
-				"zooms": "16-30",
-				"stylers": {
-					"opacity":1,
-					"color": "#E4F0E4"
+					"color": "#E4F0E1"
 				}
 			}
 		]
@@ -924,7 +910,7 @@
 			"zooms": "14-15",
 			"stylers": {
 				"color": "#ffffff",
-				"outline-color": "#D1CDBA",
+				"outline-color": "#C2BCA5",
 				"scale": 0.48
 			}
 		},
