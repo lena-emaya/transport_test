@@ -318,7 +318,7 @@
 			"stylers": {
 				"scale": 1,
 				"hue": 0.5,
-				"lightness": 0.4,
+				"lightness": 0.1,
 				"saturation": -1,
 				"color": "#a9aeb7",
 				"outline-color": "rgba(255,255,255,0.4)"
@@ -441,19 +441,19 @@
 	"featureType": "hydro.hydro_l.hydro_l_0",
 	"stylers": {
 		"scale": 0.8,
-		"color": "#dfe7f1"
+		"color": "#e0e8f0"
 	}
  },
  {
 	"featureType": "hydro",
 	"stylers": {
-	"color": "#dfe7f1"}
+	"color": "#e0e8f0"}
  },
  {
 	"featureType": "nonauto.road.tram_0",
 	"stylers": {
-        "lightness": 0.5,
-        "saturation": -1,
+    "lightness": 0.5,
+    "saturation": -1,
 		"visibility": "on",
 		"scale": 0.95
 	}
@@ -465,6 +465,7 @@
 			"zooms": "0-12",
 			"stylers": {
 				"lightness": 0.6,
+				"saturation": -1,
 				"visibility": "on",
 				"opacity": 0
 				}
@@ -473,6 +474,7 @@
 			"zooms": "12-22",
 			"stylers": {
 				"lightness": 0.35,
+				"saturation": -1,
 				"visibility": "on"
 				}
 		}
