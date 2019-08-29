@@ -250,7 +250,7 @@
 	"zooms": "13-15",
 	"stylers": {
 	"visibility": "off",
-	"color": "##EDF0F1"
+	"color": "#EDF0F1"
 }
  },
  {
@@ -258,7 +258,8 @@
 	"zooms": "15-16",
 	"stylers": {
 		"opacity": 0.6,
-		"color": "#EDF0F1"}
+		"color": "#EDF0F1"
+	}
  },
  {
 	"featureType": "building",
@@ -282,8 +283,8 @@
 	"featureType": "building",
 	"zooms": "18-22",
 	"stylers": {
-	"visibility": "on",
-	"color": "#EDF0F1"
+		"visibility": "on",
+		"color": "#EDF0F1"
 }
  },
  {
