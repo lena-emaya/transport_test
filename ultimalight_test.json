@@ -163,18 +163,11 @@
 		]
 	},
  	{
-		"featureType": "border.border_0",
+		"featureType": "border",
  	 "stylers": {
- 		 	"color": "#577B6B",
+ 		 	"color": "#afb1c5",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)"
-		}
-	},
-	{
-		"featureType": "border.border_LK1_0",
- 	 "stylers": {
- 		 	"color": "#577B6B",
-			 "scale": 0.7
 		}
 	},
 	{
@@ -398,49 +391,49 @@
 	"featureType": "hydro_a_label",
 	"stylers": {
 		"scale": 0.8,
-		"color": "#b3c0d1"
+		"color": "#a1b2c4"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_0",
 	"stylers": {
 		"scale": 0.8,
-		"color": "#b3c0d1"
+		"color": "#a1b2c4"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_1",
 	"stylers": {
 		"scale": 0.8,
-		"color": "#b3c0d1"
+		"color": "#a1b2c4"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_2",
 	"stylers": {
 		"scale": 0.8,
-		"color": "#b3c0d1"
+		"color": "#a1b2c4"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_3",
 	"stylers": {
 		"scale": 0.8,
-		"color": "#b3c0d1"
+		"color": "#a1b2c4"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_4",
 	"stylers": {
 		"scale": 0.8,
-		"color": "#b3c0d1"
+		"color": "#a1b2c4"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_5",
 	"stylers": {
 		"scale": 0.8,
-		"color": "#b3c0d1"
+		"color": "#a1b2c4"
 	}
  },
  {
@@ -459,7 +452,7 @@
 	"featureType": "nonauto.road.tram_0",
 	"stylers": {
     "lightness": 0.5,
-    "saturation": -1,
+    "saturation": -0.8,
 		"visibility": "on",
 		"scale": 0.95
 	}
