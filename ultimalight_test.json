@@ -317,9 +317,9 @@
 			"zooms": "17-22",
 			"stylers": {
 				"scale": 1,
-				"lightness": 0.1,
+				"lightness": 0.3,
 				"saturation": -1,
-				"color": "#a9aeb7",
+				"color": "#373e48",
 				"outline-color": "rgba(255,255,255,0.4)"
 		}
 		}
