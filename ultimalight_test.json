@@ -216,14 +216,21 @@
 {
 	"featureType": "country_label",
 	"stylers": {
-		"color": "#caced3",
+		"color": "#637083",
+		"outline-color": "rgba(0, 0, 0, 0)",
+		"scale": 0.85}
+ },
+ {
+	"featureType": "region_label",
+	"stylers": {
+		"color": "#a5aeb1",
 		"outline-color": "rgba(0, 0, 0, 0)",
 		"scale": 0.85}
  },
  {
 	"featureType": "place_label",
 	"stylers": {
-		"color": "#7b879d",
+		"color": "#60646c",
 		"scale": 0.9}
  },
  {
@@ -232,7 +239,7 @@
 			{
 				"zooms": "8-14",
 				"stylers": {
-					"color": "#b1b9c3",
+					"color": "#818d98",
 					"scale": 0.9
 				}
 			},
