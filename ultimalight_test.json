@@ -305,8 +305,7 @@
 				"zooms": "15-18",
 				"stylers": {
 					"saturation": -0.35,
-					"lightness": 0,
-					"visibility":"off"
+					"lightness": 0
 			}
 			},
 			{
