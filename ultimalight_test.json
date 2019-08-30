@@ -358,7 +358,8 @@
 				"lightness": 0.5,
 				"saturation": -1,
 				"color": "#373e48",
-				"outline-color": "rgba(255,255,255,0.4)"
+				"outline-color": "rgba(255,255,255,0.4)",
+				"visibility": "off"
 		}
 		}
 	]
@@ -375,13 +376,14 @@
 				"lightness": 0.4,
 				"saturation": -0.7,
 				"color": "#a9aeb7",
-				"outline-color": "rgba(255,255,255,0.4)"
+				"outline-color": "rgba(255,255,255,0.4)",
+				"visibility": "off"
 			}
 		},
 		{
 			"zooms": "17-22",
 			"stylers": {
-				
+				"visibility": "off",
 				"scale": 1,
 				"hue": 0,
 				"lightness": 0.4,
