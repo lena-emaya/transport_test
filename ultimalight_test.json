@@ -247,7 +247,7 @@
 {
 	"featureType": "country_label",
 	"stylers": {
-		"color": "#637083",
+		"color": "#939aa5",
 		"outline-color": "rgba(0, 0, 0, 0)",
 		"scale": 0.85}
  },
@@ -270,7 +270,7 @@
 			{
 				"zooms": "8-14",
 				"stylers": {
-					"color": "#818d98",
+					"color": "#9aa4ac",
 					"scale": 0.9
 				}
 			},
@@ -835,7 +835,7 @@
 		"stylers": {
 			"scale": 0.9,
 			"outline-width": 0,
-			"color": "#8b8e92",
+			"color": "#61656b",
 			"outline-color": "rgba(0,0,0,0)"
 		}
  	},
