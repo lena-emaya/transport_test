@@ -237,7 +237,7 @@
 	{
 		"featureType": "border.border_LK1_0",
  	 "stylers": {
- 		 	"color": "#828A99",
+ 		 	"color": "#9BA4B3",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)"
 		}
@@ -353,7 +353,7 @@
 			{
 				"zooms": "8-14",
 				"stylers": {
-					"color": "#9aa4ac",
+					"color": "#ACB5BD",
 					"scale": 0.9
 				}
 			},
