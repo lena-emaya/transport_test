@@ -299,7 +299,7 @@
 				"stylers": {
 					"saturation": -1,
 					"lightness": 0.4,
-					"scale": 0.9,
+					"scale": 0.9
 					
 			}
 			},
@@ -315,7 +315,7 @@
 				"zooms": "18-22",
 				"stylers": {
 					"saturation": -1,
-					"lightness": 0.2,
+					"lightness": 0.2
 					
 			}
 			}
