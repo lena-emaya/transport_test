@@ -504,6 +504,7 @@
 				"lightness": 0.6,
 				"saturation": -1,
 				"visibility": "on",
+				"scale": 0.5,
 				"opacity": 0
 				}
 		},
@@ -512,6 +513,7 @@
 			"stylers": {
 				"lightness": 0.35,
 				"saturation": -0.2,
+				"scale": 0.5,
 				"visibility": "on"
 				}
 		}
