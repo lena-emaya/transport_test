@@ -205,6 +205,22 @@
 		}
 	},
 	{
+		"featureType": "border.border_inline_4",
+ 	 "stylers": {
+ 		 	"color": "rgba(0, 0, 0, 0)",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)"
+		}
+	},
+	{
+		"featureType": "border.border_inline_5",
+ 	 "stylers": {
+ 		 	"color": "rgba(0, 0, 0, 0)",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)"
+		}
+	},
+	{
 		"featureType": "label.transport",
 		"zoomSlices": [
 
