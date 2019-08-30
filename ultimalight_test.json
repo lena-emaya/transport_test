@@ -219,21 +219,24 @@
 				"stylers": {
 					"saturation": -1,
 					"lightness": 0.4,
-					"scale": 0.9
+					"scale": 0.9,
+					"visibility":"off"
 			}
 			},
 			{
 				"zooms": "15-18",
 				"stylers": {
 					"saturation": -1,
-					"lightness": 0.3
+					"lightness": 0.3,
+					"visibility":"off"
 			}
 			},
 			{
 				"zooms": "18-22",
 				"stylers": {
 					"saturation": -1,
-					"lightness": 0.2
+					"lightness": 0.2,
+					"visibility":"off"
 			}
 			}
 		]
