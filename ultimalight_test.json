@@ -297,16 +297,14 @@
 			{
 				"zooms": "8-15",
 				"stylers": {
-					"saturation": -0.25,
-					"lightness": 0,
-					"scale": 0.9
-					
+					"saturation": -0.35,
+					"lightness": 0
 			}
 			},
 			{
 				"zooms": "15-18",
 				"stylers": {
-					"saturation": -0.25,
+					"saturation": -0.35,
 					"lightness": 0,
 					"visibility":"off"
 			}
@@ -314,7 +312,7 @@
 			{
 				"zooms": "18-22",
 				"stylers": {
-					"saturation": -0.25,
+					"saturation": -0.35,
 					"lightness": 0
 					
 			}
