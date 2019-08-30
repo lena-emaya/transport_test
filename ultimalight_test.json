@@ -165,7 +165,7 @@
  	{
 		"featureType": "border",
  	 "stylers": {
- 		 	"color": "#afb1c5",
+ 		 	"color": "#b7bbc2",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)"
 		}
@@ -173,7 +173,7 @@
 	{
 		"featureType": "border",
  	 "stylers": {
- 		 	"color": "#afb1c5",
+ 		 	"color": "#b7bbc2",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)"
 		}
