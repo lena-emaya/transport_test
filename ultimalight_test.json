@@ -165,11 +165,13 @@
  	{
 		"featureType": "border",
  	 "stylers": {
- 		 	"color": "#F53A3A",
+ 		 	"color": "#561DFA",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
-			"fill": 1,
-			"gap": 13
+			"dash": {
+				"fill": 1,
+				"gap": 13
+			}
 		}
 	},
 	{
