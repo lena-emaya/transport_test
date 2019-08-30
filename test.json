@@ -235,10 +235,118 @@
 		}
 	},
 	{
+		"featureType": "border.border_6",
+ 	 "stylers": {
+ 		 	"color": "#999588",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)",
+			"dash": {
+				"fill": 2,
+				"gap": 2
+			}
+		}
+	},
+	{
+		"featureType": "border.border_7",
+ 	 "stylers": {
+ 		 	"color": "#999588",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)",
+			"dash": {
+				"fill": 2,
+				"gap": 2
+			}
+		}
+	},
+	{
+		"featureType": "border.border_8",
+ 	 "stylers": {
+ 		 	"color": "#999588",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)",
+			"dash": {
+				"fill": 2,
+				"gap": 2
+			}
+		}
+	},
+	{
+		"featureType": "border.border_9",
+ 	 "stylers": {
+ 		 	"color": "#999588",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)",
+			"dash": {
+				"fill": 2,
+				"gap": 2
+			}
+		}
+	},
+	{
+		"featureType": "border.border_10",
+ 	 "stylers": {
+ 		 	"color": "#999588",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)",
+			"dash": {
+				"fill": 2,
+				"gap": 2
+			}
+		}
+	},
+	{
 		"featureType": "border.border_LK1_0",
  	 "stylers": {
  		 	"color": "#999588",
 			 "scale": 0.7
+		}
+	},
+	{
+		"featureType": "border.border_inline_0",
+ 	 "stylers": {
+ 		 	"color": "rgba(0, 0, 0, 0)",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)"
+		}
+	},
+	{
+		"featureType": "border.border_inline_1",
+ 	 "stylers": {
+ 		 	"color": "rgba(0, 0, 0, 0)",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)"
+		}
+	},
+	{
+		"featureType": "border.border_inline_2",
+ 	 "stylers": {
+ 		 	"color": "rgba(0, 0, 0, 0)",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)"
+		}
+	},
+	{
+		"featureType": "border.border_inline_3",
+ 	 "stylers": {
+ 		 	"color": "rgba(0, 0, 0, 0)",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)"
+		}
+	},
+	{
+		"featureType": "border.border_inline_4",
+ 	 "stylers": {
+ 		 	"color": "rgba(0, 0, 0, 0)",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)"
+		}
+	},
+	{
+		"featureType": "border.border_inline_5",
+ 	 "stylers": {
+ 		 	"color": "rgba(0, 0, 0, 0)",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)"
 		}
 	},
 	{
