@@ -165,7 +165,7 @@
  	{
 		"featureType": "border",
  	 "stylers": {
- 		 	"color": "#b7bbc2",
+ 		 	"color": "#F53A3A",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"fill": 1,
