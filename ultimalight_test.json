@@ -478,13 +478,13 @@
 	"featureType": "hydro.hydro_l.hydro_l_0",
 	"stylers": {
 		"scale": 0.8,
-		"color": "#e0e8f0"
+		"color": "#e0ebf5"
 	}
  },
  {
 	"featureType": "hydro",
 	"stylers": {
-	"color": "#e0e8f0"}
+	"color": "#e0ebf5"}
  },
  {
 	"featureType": "nonauto.road.tram_0",
