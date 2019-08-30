@@ -175,6 +175,18 @@
 		}
 	},
 	{
+		"featureType": "border.border_LK1_0",
+ 	 "stylers": {
+ 		 	"color": "#F53A3A",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)",
+			"dash": {
+				"fill": 5,
+				"gap": 3
+			}
+		}
+	},
+	{
 		"featureType": "border.border_inline_0",
  	 "stylers": {
  		 	"color": "rgba(0, 0, 0, 0)",
