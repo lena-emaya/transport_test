@@ -100,7 +100,6 @@
 			}
 		]
 	},
-	
 	{
 		"featureType": "vegetation",
 		"zoomSlices": [
@@ -297,8 +296,8 @@
 			{
 				"zooms": "8-15",
 				"stylers": {
-					"saturation": -0.35,
-					"lightness": 0.1
+					"saturation": -0.6,
+					"lightness": 0.3
 			}
 			},
 			{
