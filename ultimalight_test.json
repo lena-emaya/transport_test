@@ -304,14 +304,14 @@
 				"zooms": "15-18",
 				"stylers": {
 					"saturation": -1,
-					"lightness": 0.6
+					"lightness": 0.3
 			}
 			},
 			{
 				"zooms": "18-22",
 				"stylers": {
 					"saturation": -1,
-					"lightness": 0.6
+					"lightness": 0.3
 					
 			}
 			}
