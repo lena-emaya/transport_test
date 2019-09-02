@@ -436,8 +436,8 @@
 			"stylers": {
 				"scale": 1,
 				"hue": -0.6,
-				"saturation": -0.99,
 				"lightness": 0.2,
+				"saturation": -0.99,
 				"color": "#373e48",
 				"outline-color": "rgba(255,255,255,0.4)"
 		}
