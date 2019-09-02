@@ -296,21 +296,21 @@
 			{
 				"zooms": "8-15",
 				"stylers": {
-					"saturation": -0.8,
+					"saturation": -1,
 					"lightness": 0
 			}
 			},
 			{
 				"zooms": "15-18",
 				"stylers": {
-					"saturation": -0.8,
+					"saturation": -1,
 					"lightness": 0.1
 			}
 			},
 			{
 				"zooms": "18-22",
 				"stylers": {
-					"saturation": -0.8,
+					"saturation": -1,
 					"lightness": 0.1
 					
 			}
