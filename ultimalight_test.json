@@ -297,21 +297,21 @@
 				"zooms": "8-15",
 				"stylers": {
 					"saturation": -1,
-					"lightness": 0
+					"lightness": 0.2
 			}
 			},
 			{
 				"zooms": "15-18",
 				"stylers": {
 					"saturation": -1,
-					"lightness": 0.1
+					"lightness": 0.6
 			}
 			},
 			{
 				"zooms": "18-22",
 				"stylers": {
 					"saturation": -1,
-					"lightness": 0.1
+					"lightness": 0.6
 					
 			}
 			}
