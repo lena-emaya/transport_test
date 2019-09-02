@@ -416,7 +416,7 @@
 	"featureType": "building_number",
 	"zooms": "16-22",
 	"stylers": {
-		"color": "#B1B5BA",
+		"color": "#C4C6CC",
 		"outline-color": "rgba(249, 247, 242, 0)",
 		"outline-width": 0,
 		"scale": 0.9
