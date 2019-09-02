@@ -922,16 +922,15 @@
 		"featureType": "label.road",
 		"stylers": {
 			"scale": 0.9,
-			"outline-width": 0,
 			"color": "#90959E",
-			"outline-color": "rgba(0,0,0,0)"
+			"outline-color": "rgba(255,255,255,1)"
 		}
  	},
 	{
 		"featureType": "label.road.road_label.hw_label_0",
 		"stylers": {
 			"scale": 0.9,
-			"outline-width": 0,
+			"outline-color": "rgba(255,255,255,1)",
 			"color": "#90959E"
 		}
 	},
