@@ -381,7 +381,7 @@
 	"zooms": "15-16",
 	"stylers": {
 		"opacity": 0.6,
-		"color": "#EDF0F1"
+		"color": "#F0F5F5"
 	}
  },
  {
@@ -390,7 +390,7 @@
 	"stylers": {
 		"opacity": 0.8,
 		"visibility": "on",
-		"color": "#EDF0F1"
+		"color": "#F0F5F5"
 	}
  },
  {
@@ -399,7 +399,7 @@
 	"stylers": {
 		"opacity": 0.9,
 		"visibility": "on",
-		"color": "#EDF0F1"
+		"color": "#F0F5F5"
 	}
  },
  {
@@ -407,7 +407,7 @@
 	"zooms": "18-22",
 	"stylers": {
 		"visibility": "on",
-		"color": "#EDF0F1"
+		"color": "#F0F5F5"
 }
  },
  {
