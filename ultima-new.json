@@ -1374,14 +1374,22 @@
 {
 	"featureType":"road.class10_park_0",
 	"stylers":{
-		"color":"#fff",
+        "color":"#C63336",
+        "dash": {
+            "fill": 2,
+            "gap": 2
+        },
 		"scale":0.5
 	}
 },
 {
 	"featureType":"road.class10_park_1",
 	"stylers":{
-		"color":"#fff",
+		"color":"#C63336",
+        "dash": {
+            "fill": 2,
+            "gap": 2
+        },
 		"scale":0.5
 	}
 },
