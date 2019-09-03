@@ -1374,55 +1374,35 @@
 {
 	"featureType":"road.class10_park_0",
 	"stylers":{
-        "color":"#C63336",
-        "dash": {
-            "fill": 2,
-            "gap": 2
-        },
+        "color":"#fff",
 		"scale":0.5
 	}
 },
 {
 	"featureType":"road.class10_park_1",
 	"stylers":{
-		"color":"#C63336",
-        "dash": {
-            "fill": 2,
-            "gap": 2
-        },
+		"color":"#fff",
 		"scale":0.5
 	}
 },
 {
 	"featureType":"road.class10_park_2",
 	"stylers":{
-		"color":"#C63336",
-        "dash": {
-            "fill": 2,
-            "gap": 2
-        },
+		"color":"#fff",
 		"scale":0.5
 	}
 },
 {
 	"featureType":"road.class10_park_3",
 	"stylers":{
-		"color":"#C63336",
-        "dash": {
-            "fill": 2,
-            "gap": 2
-        },
+        "color":"#fff",
 		"scale":0.5
 	}
 },
 {
 	"featureType":"road.class10_park_4",
 	"stylers":{
-		"color":"#C63336",
-        "dash": {
-            "fill": 2,
-            "gap": 2
-        },
+		"color":"#fff",
 		"scale":0.5
 	}
 },
@@ -1489,7 +1469,7 @@
         "dash": {
             "fill": 2,
             "gap": 2
-        },
+        }
 		}
   },
 	{
