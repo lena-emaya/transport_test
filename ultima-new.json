@@ -1467,8 +1467,8 @@
 		"stylers":{
 			"color":"#C63336",
       "dash": {
-        "fill": 2,
-        "gap": 2
+        "fill": 1,
+        "gap": 1
       }
 		}
   },
