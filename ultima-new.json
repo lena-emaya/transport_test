@@ -1075,6 +1075,7 @@
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_dash_0",
 	"stylers":{
 		"color": "#cccfd1",
+		
 		"scale":0.5
 	}		
 },
@@ -1224,126 +1225,180 @@
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_0",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_1",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_2",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}
 },
 {
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_3",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_4",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_5",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_6",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}	
 },
 {
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_7",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_8",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}			
 },
 {
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_10",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_0",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_1",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}			
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_2",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_3",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_4",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_dash_0",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_dash_1",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_dash_2",
 	"stylers":{
 		"color": "#cccfd1",
-		"scale":0.5
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
