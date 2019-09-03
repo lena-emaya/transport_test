@@ -1465,8 +1465,11 @@
 	{
 		"featureType":"road.local.bike",
 		"stylers":{
-			"color":"#C63336"
-     
+			"color":"#C63336",
+      "dash": {
+        "fill": 2,
+        "gap": 2
+      }
 		}
   },
 	{
