@@ -373,7 +373,7 @@
 	"zooms": "13-15",
 	"stylers": {
 	"visibility": "off",
-	"color": "#EDF0F1"
+	"color": "#F0F2F2"
 }
  },
  {
@@ -381,7 +381,7 @@
 	"zooms": "15-16",
 	"stylers": {
 		"opacity": 0.6,
-		"color": "#F0F5F5"
+		"color": "#F0F2F2"
 	}
  },
  {
@@ -390,7 +390,7 @@
 	"stylers": {
 		"opacity": 0.8,
 		"visibility": "on",
-		"color": "#F0F5F5"
+		"color": "#F0F2F2"
 	}
  },
  {
@@ -399,7 +399,7 @@
 	"stylers": {
 		"opacity": 0.9,
 		"visibility": "on",
-		"color": "#F0F5F5"
+		"color": "#F0F2F2"
 	}
  },
  {
@@ -407,7 +407,7 @@
 	"zooms": "18-22",
 	"stylers": {
 		"visibility": "on",
-		"color": "#F0F5F5"
+		"color": "#F0F2F2"
 }
  },
  {
