@@ -1079,78 +1079,121 @@
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_dash_0",
 	"stylers":{
 		"color": "#DCDEE0",
-		
-		"scale":0.5
+		"scale":0.5,
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_dash_1",
 	"stylers":{
 		"color": "#DCDEE0",
-		"scale":0.5
+		"scale":0.5,
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}	
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_dash_2",
 	"stylers":{
 		"color": "#DCDEE0",
-		"scale":0.5
+		"scale":0.5,
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_dash_3",
 	"stylers":{
 		"color": "#DCDEE0",
-		"scale":0.5
+		"scale":0.5,
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}	
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_dash_4",
 	"stylers":{
 		"color": "#DCDEE0",
-		"scale":0.5
+		"scale":0.5,
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_dash_5",
 	"stylers":{
 		"color": "#DCDEE0",
-		"scale":0.5
+		"scale":0.5,
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_dash_6",
 	"stylers":{
 		"color": "#DCDEE0",
-		"scale":0.5
+		"scale":0.5,
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_dash_7",
 	"stylers":{
 		"color": "#DCDEE0",
-		"scale":0.5
+		"scale":0.5,
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}	
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_dash_8",
 	"stylers":{
 		"color": "#DCDEE0",
-		"scale":0.5
+		"scale":0.5,
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_dash_9",
 	"stylers":{
 		"color": "#DCDEE0",
-		"scale":0.5
+		"scale":0.5,
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}	
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_pedestrian_dash_10",
 	"stylers":{
 		"color": "#DCDEE0",
-		"scale":0.5
+		"scale":0.5,
+		"dash": {
+			"fill": 2,
+			"gap": 2
+		}
 	}		
 },
 {
