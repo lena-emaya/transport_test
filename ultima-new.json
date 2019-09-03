@@ -107,56 +107,56 @@
 				"zooms": "3-8",
 				"stylers": {
 					"opacity": 0.3,
-					"color": "#dbebe1"
+					"color": "#ECF3EF"
 			}
 			},
 			{
 				"zooms": "8-9",
 				"stylers": {
 					"opacity": 0.5,
-					"color": "#dbebe1"
+					"color": "#ECF3EF"
 				}
 			},
 			{
 				"zooms": "9-10",
 				"stylers": {
 					"opacity": 0.7,
-					"color": "#dbebe1"
+					"color": "#ECF3EF"
 				}
 			},
 			{
 				"zooms": "10-11",
 				"stylers": {
 					"opacity": 0.8,
-					"color": "#dbebe1"
+					"color": "#ECF3EF"
 				}
 			},
 			{
 				"zooms": "11-12",
 				"stylers": {
 					"opacity": 0.9,
-					"color": "#dbebe1"
+					"color": "#ECF3EF"
 				}
 			},
 			{
 				"zooms": "12-13",
 				"stylers": {
 					"opacity": 1,
-					"color": "#dbebe1"
+					"color": "#ECF3EF"
 				}
 			},
 			{
 				"zooms": "13-14",
 				"stylers": {
 					"opacity": 1,
-					"color": "#dbebe1"
+					"color": "#ECF3EF"
 				}
 			},
 			{
 				"zooms": "14-30",
 				"stylers": {
 					"opacity": 1,
-					"color": "#dbebe1"
+					"color": "#ECF3EF"
 				}
 			}
 		]
