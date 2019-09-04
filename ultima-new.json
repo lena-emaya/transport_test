@@ -591,8 +591,8 @@
 		{
 			"zooms": "0-12",
 			"stylers": {
-				"lightness": 0.6,
-				"saturation": -1,
+				"lightness": 0.7,
+				"saturation": 0,
 				"visibility": "on",
 				"scale": 0.5,
 				"opacity": 0
