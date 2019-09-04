@@ -918,7 +918,8 @@
 		"stylers": {
 			"scale": 0.9,
 			"color": "#90959E",
-			"outline-color": "rgba(255,255,255,1)"
+			"outline-color": "rgba(255,255,255,1)",
+			"visibility": "off"
 		}
  	},
 	{
