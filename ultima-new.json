@@ -164,7 +164,7 @@
  	{
 		"featureType": "border.border_0",
  	 "stylers": {
- 		 	"color": "#404959",
+ 		 	"color": "#343F4D",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"dash": {
@@ -176,7 +176,7 @@
 	{
 		"featureType": "border.border_1",
  	 "stylers": {
- 		 	"color": "#404959",
+ 		 	"color": "#343F4D",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"dash": {
@@ -188,7 +188,7 @@
 	{
 		"featureType": "border.border_2",
  	 "stylers": {
- 		 	"color": "#404959",
+ 		 	"color": "#343F4D",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"dash": {
@@ -200,7 +200,7 @@
 	{
 		"featureType": "border.border_3",
  	 "stylers": {
- 		 	"color": "#404959",
+ 		 	"color": "#343F4D",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"dash": {
@@ -212,7 +212,7 @@
 	{
 		"featureType": "border.border_4",
  	 "stylers": {
- 		 	"color": "#404959",
+ 		 	"color": "#343F4D",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"dash": {
@@ -224,7 +224,7 @@
 	{
 		"featureType": "border.border_5",
  	 "stylers": {
- 		 	"color": "#404959",
+ 		 	"color": "#343F4D",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"dash": {
@@ -378,7 +378,7 @@
 	"zooms": "15-16",
 	"stylers": {
 		"opacity": 0.6,
-		"color": "#FCDA30"
+		"color": "#5E5845"
 	}
  },
  {
