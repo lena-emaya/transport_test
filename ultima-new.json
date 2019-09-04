@@ -378,7 +378,7 @@
 	"zooms": "15-16",
 	"stylers": {
 		"opacity": 0.6,
-		"color": "#F755FA"
+		"color": "#5055FA"
 	}
  },
  {
@@ -387,7 +387,7 @@
 	"stylers": {
 		"opacity": 0.8,
 		"visibility": "on",
-		"color": "#EBEDF0"
+		"color": "#EBEDED"
 	}
  },
  {
@@ -396,7 +396,7 @@
 	"stylers": {
 		"opacity": 0.9,
 		"visibility": "on",
-		"color": "#EBEDF0"
+		"color": "#EBEDED"
 	}
  },
  {
@@ -404,7 +404,7 @@
 	"zooms": "18-22",
 	"stylers": {
 		"visibility": "on",
-		"color": "#EBEDF0"
+		"color": "#EBEDED"
 }
  },
  {
