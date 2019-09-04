@@ -578,10 +578,10 @@
  {
 	"featureType": "nonauto.road.tram_0",
 	"stylers": {
-    "lightness": 0.5,
-    "saturation": -0.8,
+    "lightness": 0.7,
+    "saturation": -0.1,
 		"visibility": "on",
-		"scale": 0.85
+		"scale": 0.65
 	}
  },
  {
@@ -593,7 +593,7 @@
 				"lightness": 0.7,
 				"saturation": 0,
 				"visibility": "on",
-				"scale": 0.5,
+				"scale": 0.65,
 				"opacity": 0
 				}
 		},
@@ -602,7 +602,7 @@
 			"stylers": {
 				"lightness": 0.35,
 				"saturation": -0.2,
-				"scale": 0.85,
+				"scale": 0.65,
 				"visibility": "on"
 				}
 		}
