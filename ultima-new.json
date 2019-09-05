@@ -589,8 +589,8 @@
  {
 	"featureType": "nonauto.road.tram_0",
 	"stylers": {
-    "lightness": 0.7,
-    "saturation": -0.1,
+    "lightness": 0.6,
+    "saturation": -0.8,
 		"visibility": "on",
 		"scale": 0.65
 	}
@@ -612,7 +612,7 @@
 			"zooms": "13-22",
 			"stylers": {
 				"lightness": 0.6,
-				"saturation": -0.2,
+				"saturation": 0,
 				"scale": 0.65,
 				"visibility": "on"
 				}
