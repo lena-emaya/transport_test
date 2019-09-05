@@ -1,0 +1,10 @@
+[
+	{
+  	"featureType": "label.transport.station.bus.transport_p",
+  	"zooms": "16-22",
+  	"stylers": {
+  	  "image-url": "https://tc.mobile.yandex.net/static/images/40230/caacbf4e3bfc4e4dbf58222329e6e655",
+  	  "scale": 1
+  	}
+	}
+]
