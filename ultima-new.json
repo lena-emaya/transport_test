@@ -973,7 +973,7 @@
 			"stylers": {
 				"line-width": 0.1,
 				"color": "#ffffff",
-				"outline-color": "#52CEF0",
+				"outline-color": "#DADFE3",
 				"outline-width": 0.3
 			}
 		},
@@ -982,7 +982,7 @@
 			"stylers": {
 				"line-width": 0.2,
 				"color": "#ffffff",
-				"outline-color": "#DADFE3",
+				"outline-color": "#CAD0D7",
 				"outline-width": 0.4
 			}
 		},
@@ -991,7 +991,7 @@
 			"stylers": {
 				"line-width": 0.2,
 				"color": "#EDF0F1",
-				"outline-color": "#DADFE3",
+				"outline-color": "#CAD0D7",
 				"outline-width": 0.4
 			}
 		},
@@ -1000,7 +1000,7 @@
 			"stylers": {
 				"line-width": 0.3,
 				"color": "#EDF0F1",
-				"outline-color": "#3630B3",
+				"outline-color": "#CAD0D7",
 				"outline-width": 0.6
 			}
 		},
