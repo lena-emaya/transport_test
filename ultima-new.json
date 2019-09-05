@@ -986,7 +986,7 @@
 			"stylers": {
 				"line-width": 0.1,
 				"color": "#ffffff",
-				"outline-color": "#E1E4E8",
+				"outline-color": "#AFB7C1",
 				"outline-width": 0.3
 			}
 		},
@@ -1021,7 +1021,7 @@
 			"zooms": "11-12",
 			"stylers": {
 				"line-width": 0.5,
-				"color": "#EDF0F1",
+				"color": "#F5F7F7",
 				"outline-color": "#CBCDD1",
 				"outline-width": 0.8
 			}
