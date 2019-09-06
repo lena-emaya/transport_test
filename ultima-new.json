@@ -399,7 +399,7 @@
 	"featureType": "building_number",
 	"zooms": "16-22",
 	"stylers": {
-		"color": "#C4C4CC",
+		"color": "#BEC2C8",
 		"outline-color": "rgba(255, 255, 255, 0)",
 		"outline-width": 0,
 		"scale": 0.9
@@ -1589,10 +1589,7 @@
 	{
 		"featureType":"road.local.bike",
 		"stylers":{
-			"dash": {
-				"fill": 2,
-				"gap": 2
-			}
+		"visibility": "off"
 		}
   },
 	{
@@ -1691,3 +1688,5 @@
 		"visibility": "off"}
 	 }
 ]
+
+
