@@ -636,26 +636,7 @@
 		"visibility": "off"
 	}
  },
- {
-	"featureType": "nonauto.road.railway_siding_dash_0",
-	"zoomSlices": [
-		{
-			"zooms": "0-12",
-			"stylers": {
-				"lightness": 0.6,
-				"visibility": "on",
-				"opacity": 0
-				}
-		},
-		{
-			"zooms": "12-22",
-			"stylers": {
-				"lightness": 0.35,
-				"visibility": "on"
-				}
-		}
-	]
- },
+ 
  {
 	"featureType": "nonauto.road.piste_0",
 	"stylers": {
