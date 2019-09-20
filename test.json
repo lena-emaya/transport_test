@@ -643,7 +643,7 @@
 			"zooms": "0-12",
 			"stylers": {
 				"lightness": 0.6,
-				"visibility": "on",
+				"visibility": "off",
 				"opacity": 0
 				}
 		},
