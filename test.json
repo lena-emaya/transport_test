@@ -637,7 +637,7 @@
 	}
  },
  {
-	"featureType": "nonauto.road",
+	"featureType": "nonauto.road.railway_siding_dash_0",
 	"zoomSlices": [
 		{
 			"zooms": "0-12",
