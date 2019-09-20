@@ -651,7 +651,8 @@
 			"zooms": "12-22",
 			"stylers": {
 				"lightness": 0.35,
-				"visibility": "on"
+				"visibility": "on",
+				"scale": 0.8
 				}
 		}
 	]
