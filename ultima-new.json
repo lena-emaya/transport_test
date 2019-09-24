@@ -563,27 +563,24 @@
     "lightness": 0.6,
     "saturation": -0.8,
 		"visibility": "on",
-		"scale": 0.65
+		"scale": 0.7
 	}
  },
  {
-	"featureType": "nonauto.road.railway_0",
+	"featureType": "nonauto.road",
 	"zoomSlices": [
 		{
 			"zooms": "0-12",
 			"stylers": {
-				"lightness": 0.8,
-        "visibility": "on",
-				"scale": 0.8,
 				"opacity": 0
-				}
+			}
 		},
 		{
 			"zooms": "12-22",
 			"stylers": {
-				"lightness": 0.6,
-				"scale": 0.8,
-				"visibility": "on"
+				"lightness": 0.4,
+				"saturation": -0.8,
+				"scale": 0.7
 				}
 		}
 	]
@@ -1688,5 +1685,4 @@
 		"visibility": "off"}
 	 }
 ]
-
 
