@@ -962,7 +962,12 @@
 		"visibility": "off"}
  },
  {
-	"featureType": "label.road.marker",
+	"featureType": "label.road.marker.road_symbol.shield_0",
+	"stylers": {
+		"visibility": "off"}
+ },	
+ {
+	"featureType": "label.road.marker.road_symbol.toll_0",
 	"stylers": {
 		"visibility": "off"}
  },	
