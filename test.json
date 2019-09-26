@@ -971,7 +971,12 @@
 	"stylers": {
 		"visibility": "off"}
  },	
-  
+ {
+	"featureType": "label.road.marker.road_symbol",
+	"stylers": {
+		"scale": 0.85
+	}
+ },
  	{
 		"featureType": "label.road",
 		"stylers": {
