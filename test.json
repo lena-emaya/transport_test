@@ -967,7 +967,7 @@
 		"visibility": "off"}
  },	
  {
-	"featureType": "label.road.marker.road_symbol.toll_0",
+	"featureType": "label.road.marker.road_symbol.named_exit_0",
 	"stylers": {
 		"visibility": "off"}
  },	
