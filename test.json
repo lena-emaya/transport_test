@@ -999,7 +999,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#000",
+			"scale": 2
 		}
 	},
 	{
