@@ -974,7 +974,7 @@
  {
 	"featureType": "label.road.marker.road_symbol",
 	"stylers": {
-		"scale": 0.85
+		"scale": 0.82
 	}
  },
  	{
@@ -992,6 +992,15 @@
 			"scale": 0.8,
 			"outline-width": 0,
 			"color": "#92918b"
+		}
+	},
+	{
+		"featureType": "road.class7_0",
+		"zooms": "12-16",
+		"stylers": {
+			"scale": 0.8,
+			"outline-width": 0,
+			"color": "#95A1C9"
 		}
 	},
  {
