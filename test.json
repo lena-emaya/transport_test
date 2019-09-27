@@ -1008,7 +1008,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1016,7 +1017,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1024,7 +1026,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1032,7 +1035,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1040,7 +1044,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1048,7 +1053,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1056,7 +1062,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1064,7 +1071,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1072,7 +1080,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1080,7 +1089,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1088,7 +1098,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1096,7 +1107,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1104,7 +1116,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1112,7 +1125,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1120,7 +1134,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1128,7 +1143,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1136,7 +1152,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1144,7 +1161,8 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
 	{
@@ -1152,7 +1170,80 @@
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#BAB597"
+			"color": "#BAB597",
+			"scale": 1.5
+		}
+	},
+	{
+		"featureType": "road.class7_dense_1",
+		"zooms": "12-14",
+		"stylers": {
+			"outline-width": 0,
+			"color": "#BAB597",
+			"scale": 1.5
+		}
+	},
+	{
+		"featureType": "road.class7_dense_2",
+		"zooms": "12-14",
+		"stylers": {
+			"outline-width": 0,
+			"color": "#BAB597",
+			"scale": 1.5
+		}
+	},
+	{
+		"featureType": "road.class7_dense_3",
+		"zooms": "12-14",
+		"stylers": {
+			"outline-width": 0,
+			"color": "#BAB597",
+			"scale": 1.5
+		}
+	},
+	{
+		"featureType": "road.class7_dense_4",
+		"zooms": "12-14",
+		"stylers": {
+			"outline-width": 0,
+			"color": "#BAB597",
+			"scale": 1.5
+		}
+	},
+	{
+		"featureType": "road.class7_dense_5",
+		"zooms": "12-14",
+		"stylers": {
+			"outline-width": 0,
+			"color": "#BAB597",
+			"scale": 1.5
+		}
+	},
+	{
+		"featureType": "road.class7_dense_6",
+		"zooms": "12-14",
+		"stylers": {
+			"outline-width": 0,
+			"color": "#BAB597",
+			"scale": 1.5
+		}
+	},
+	{
+		"featureType": "road.class7_dense_7",
+		"zooms": "12-14",
+		"stylers": {
+			"outline-width": 0,
+			"color": "#BAB597",
+			"scale": 1.5
+		}
+	},
+	{
+		"featureType": "road.class7_dense_8",
+		"zooms": "12-14",
+		"stylers": {
+			"outline-width": 0,
+			"color": "#BAB597",
+			"scale": 1.5
 		}
 	},
  {
