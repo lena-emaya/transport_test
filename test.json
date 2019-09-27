@@ -1003,6 +1003,87 @@
 			"color": "#D1CDBA"
 		}
 	},
+	{
+		"featureType": "road.class7_1",
+		"zooms": "12-14",
+		"stylers": {
+			"scale": 0.8,
+			"outline-width": 0,
+			"color": "#D1CDBA"
+		}
+	},
+	{
+		"featureType": "road.class7_2",
+		"zooms": "12-14",
+		"stylers": {
+			"scale": 0.8,
+			"outline-width": 0,
+			"color": "#D1CDBA"
+		}
+	},
+	{
+		"featureType": "road.class7_3",
+		"zooms": "12-14",
+		"stylers": {
+			"scale": 0.8,
+			"outline-width": 0,
+			"color": "#D1CDBA"
+		}
+	},
+	{
+		"featureType": "road.class7_4",
+		"zooms": "12-14",
+		"stylers": {
+			"scale": 0.8,
+			"outline-width": 0,
+			"color": "#D1CDBA"
+		}
+	},
+	{
+		"featureType": "road.class7_5",
+		"zooms": "12-14",
+		"stylers": {
+			"scale": 0.8,
+			"outline-width": 0,
+			"color": "#D1CDBA"
+		}
+	},
+	{
+		"featureType": "road.class7_6",
+		"zooms": "12-14",
+		"stylers": {
+			"scale": 0.8,
+			"outline-width": 0,
+			"color": "#D1CDBA"
+		}
+	},
+	{
+		"featureType": "road.class7_8",
+		"zooms": "12-14",
+		"stylers": {
+			"scale": 0.8,
+			"outline-width": 0,
+			"color": "#D1CDBA"
+		}
+	},
+	{
+		"featureType": "road.class7_9",
+		"zooms": "12-14",
+		"stylers": {
+			"scale": 0.8,
+			"outline-width": 0,
+			"color": "#D1CDBA"
+		}
+	},
+	{
+		"featureType": "road.class7_10",
+		"zooms": "12-14",
+		"stylers": {
+			"scale": 0.8,
+			"outline-width": 0,
+			"color": "#D1CDBA"
+		}
+	},
  {
 	"featureType":"road",
 	"zoomSlices": [
