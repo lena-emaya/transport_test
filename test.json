@@ -455,10 +455,8 @@
 	"featureType": "building",
 	"zooms": "18-22",
 	"stylers": {
-	"visibility": "on",
-	"outline-color":"#f00",
-	"outline-width":1,
-	"color": "#F7F2E6"}
+	"color": "#F5F2E3"
+}
  },
  {
 	"featureType": "building_number",
