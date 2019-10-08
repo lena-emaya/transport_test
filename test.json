@@ -1653,15 +1653,15 @@
 {
 	"featureType": "road.local.pedestrian.road",
 	"stylers": {
-		"color": "#B5AE88",
-		"outline-color": "#f9f7f2",
+		"color": "#fff",
+		"outline-color": "#B5AE88",
 		"visibility": "on"
 	}
  },
  {
 	"featureType": "road.local.pedestrian.road.class10_pedestrian_0",
 	"stylers": {
-		"color": "#E029D5",
+		"color": "#B5AE88",
 		"outline-color": "#f9f7f2",
 		"visibility": "on"
 	}
