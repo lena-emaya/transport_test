@@ -1658,6 +1658,15 @@
 		"visibility": "on"
 	}
  },
+ {
+	"featureType": "road.local.pedestrian.road.class10_pedestrian_BG_0",
+	"stylers": {
+		"color": "#E029D5",
+		"outline-color": "#f9f7f2",
+		"visibility": "on"
+	}
+ },
+
 {
 	"featureType": "road.class6_dense_0",
 	"zoomSlices": [
