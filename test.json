@@ -1653,9 +1653,7 @@
 {
 	"featureType": "road.local.pedestrian.road",
 	"stylers": {
-		"hue": -0.75,
-		"saturation": 1,
-		"lightness": 0.2,
+		"color": "#f00",
 		"outline-color": "#f9f7f2",
 		"visibility": "on"
 	}
