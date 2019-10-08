@@ -1643,7 +1643,7 @@
 		{
 			"zooms": "17-30",
 			"stylers": {
-				"color": "#ffffff",
+				"lightness": 1,
 				"outline-color": "#B5AE88",
 				"scale": 0.75
 			}
