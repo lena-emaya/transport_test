@@ -350,29 +350,57 @@
 		}
 	},
 	{
+		"featureType": "label.transport.station.bus",
+		"zoomSlices": [
+			{
+				"stylers": {
+					"hue": -0.05,
+					"lightness": 0,
+					"saturation": 0.7,
+					"scale": 1.05
+				},
+				"zooms": "8-16"
+			},
+			{
+				"stylers": {
+					"hue": -0.05,
+					"lightness": 0,
+					"saturation": 0.7,
+					"scale": 1.1
+				},
+				"zooms": "16-21"
+			}
+		]
+	},
+	{
 		"featureType": "label.transport",
 		"zoomSlices": [
-
 			{
-				"zooms": "8-15",
 				"stylers": {
-					"saturation": -0.1,
+					"hue": -0.05,
+					"lightness": 0,
+					"saturation": 0.3,
 					"scale": 0.9
-			}
+				},
+				"zooms": "8-15"
 			},
 			{
-				"zooms": "15-18",
 				"stylers": {
-					"saturation": -0.1,
+					"hue": -0.05,
+					"lightness": 0,
+					"saturation": 0.5,
 					"scale": 1
-			}
+				},
+				"zooms": "15-18"
 			},
 			{
-				"zooms": "18-22",
 				"stylers": {
-					"saturation": -0.1,
+					"hue": -0.05,
+					"lightness": 0,
+					"saturation": 0.7,
 					"scale": 1.05
-			}
+				},
+				"zooms": "18-22"
 			}
 		]
 	},
