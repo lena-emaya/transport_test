@@ -14,17 +14,7 @@
 	 {
 	  "featureType": "road.local.pedestrian",
 	  "stylers": {
-			"color": "#f9f7f2",
-			"opacity": 0.9
-		}
-	 },
-	 {
-	  "featureType": "road.local.pedestrian.road",
-	  "stylers": {
-			"hue": -0.75,
-			"saturation": 1,
-			"lightness": 0.2,
-	  	"outline-color": "#f9f7f2"
+			"visibility": "off"
 		}
 	 },
 	 {
@@ -1660,6 +1650,16 @@
 		}
 	]			
 },
+{
+	"featureType": "road.local.pedestrian.road",
+	"stylers": {
+		"hue": -0.75,
+		"saturation": 1,
+		"lightness": 0.2,
+		"outline-color": "#f9f7f2",
+		"visibility": "on"
+	}
+ },
 {
 	"featureType": "road.class6_dense_0",
 	"zoomSlices": [
