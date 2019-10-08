@@ -2073,12 +2073,7 @@
 		"scale":0.5
 	}
 },
-{
-	"featureType":"roadnet_a",
-	"stylers":{
-		"visibility": "off"
-	}	
-},
+
 
 	{
 		"featureType":"road.local.bike",
