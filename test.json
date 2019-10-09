@@ -1658,7 +1658,7 @@
 {
 	"featureType": "road.local.pedestrian.road",
 	"stylers": {
-    "visibility": "on",
+    "visibility": "on"
 	}
  },
 
