@@ -8,55 +8,56 @@
  	{
 	  "featureType": "admin.locality_a",
 	  "stylers": {
-	  	"color": "#f9f7f2"
+	  	"color": "#F9F7F2"
 		}
 	 },
 	 {
 	  "featureType": "road.local.pedestrian",
 	  "stylers": {
-			"visibility": "off"
+      "color": "#fff",
+      "visibility": "off"
 		}
 	 },
 	 {
 	  "featureType": "admin.locality_a.locality_0",
 	  "stylers": {
-	  	"color": "#f9f7f2"
+	  	"color": "#F9F7F2"
 		}
 	 },
 	 {
 	  "featureType": "admin.locality_a.locality_1",
 	  "stylers": {
-	  	"color": "#f9f7f2"
+	  	"color": "#F9F7F2"
 		}
 	 },
 	 {
 	  "featureType": "admin.locality_a.locality_2",
 	  "stylers": {
-	  	"color": "#f9f7f2"
+	  	"color": "#F9F7F2"
 		}
 	 },
 	 {
 	  "featureType": "admin.locality_a.locality_3",
 	  "stylers": {
-	  	"color": "#f9f7f2"
+	  	"color": "#F9F7F2"
 		}
 	 },
 	 {
 	  "featureType": "admin.locality_a.locality_4",
 	  "stylers": {
-	  	"color": "#f9f7f2"
+	  	"color": "#F9F7F2"
 		}
 	 },
 	 {
 	  "featureType": "admin.locality_a.locality_5",
 	  "stylers": {
-	  	"color": "#f9f7f2"
+	  	"color": "#F9F7F2"
 		}
  	},
   {
  	  "featureType": "urban-area.landuse_a",
  	  "stylers": {
-			 "color": "#f9f7f2"
+			 "color": "#F9F7F2"
 		}
 	},
 	{
@@ -156,14 +157,14 @@
 				"zooms": "13-14",
 				"stylers": {
 					"opacity": 0.9,
-					"color": "#E4F0E1"
+					"color": "#E6F2E3"
 				}
 			},
 			{
 				"zooms": "14-30",
 				"stylers": {
 					"opacity": 1,
-					"color": "#E4F0E1"
+					"color": "#E6F2E3"
 				}
 			}
 		]
@@ -370,8 +371,8 @@
 			{
 				"stylers": {
 					"hue": -0.05,
-					"lightness": -0.4,
-					"saturation": 0.7,
+					"lightness": 0.1,
+					"saturation": 0.4,
 					"scale": 1.1
 				},
 				"zooms": "16-21"
@@ -459,45 +460,44 @@
 	"featureType": "building",
 	"zooms": "15-16",
 	"stylers": {
-		"opacity": 0.6,
-		"color": "#F3F0E7"}
+		"opacity": 0.3,
+		"color": "#F4F1E7"}
  },
  {
 	"featureType": "building",
 	"zooms": "16-17",
 	"stylers": {
 		"opacity": 0.8,
-		"color": "#F3F0E7"}
+		"color": "#F4F1E7"}
  },
  {
 	"featureType": "building",
 	"zooms": "17-18",
 	"stylers": {
 		"opacity": 0.9,
-		"color": "#F3F0E7"}
+		"color": "#F4F1E7"}
  },
  {
 	"featureType": "building",
 	"zooms": "18-22",
 	"stylers": {
-	"color": "#F2F0E6"
+	"color": "#F4F1E7"
 }
  },
  {
 	"featureType": "building_number",
-	"zooms": "0-16",
+	"zooms": "0-15",
 	"stylers": {
 	"visibility": "off"
 	}
  },
  {
 	"featureType": "building_number",
-	"zooms": "16-22",
+	"zooms": "15-22",
 	"stylers": {
-	"color": "#BFBDB2",
+	"color": "#CECABB",
 	"outline-color": "rgba(249, 247, 242, 0)",
-	"outline-width": 0,
-	"scale": 0.9
+	"outline-width": 0
 	}
  },
  {
@@ -512,16 +512,22 @@
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"scale": 1,
-				"hue": 0,
 				"lightness": 0.4,
 				"saturation": -1,
-				"color": "#333",
+				"color": "#4D4D4D",
 				"outline-color": "rgba(255,255,255,0.4)"
 		}
 		}
 	]
  },
+{
+  "featureType": "place_label.block_0",
+	"zooms": "0-22",
+	"stylers": {
+	"visibility": "off"
+	}
+  
+},
  {
 	"featureType": "poi.veget_label_0",
 	"zoomSlices": [
@@ -587,49 +593,49 @@
  {
 	"featureType": "hydro_a_label",
 	"stylers": {
-		"scale": 0.8,
+		"scale": 0.9,
 		"color": "#a1b2c4"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_0",
 	"stylers": {
-		"scale": 0.8,
+		"scale": 0.9,
 		"color": "#a1b2c4"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_1",
 	"stylers": {
-		"scale": 0.8,
+		"scale": 0.9,
 		"color": "#a1b2c4"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_2",
 	"stylers": {
-		"scale": 0.8,
+		"scale": 0.9,
 		"color": "#a1b2c4"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_3",
 	"stylers": {
-		"scale": 0.8,
+		"scale": 0.9,
 		"color": "#a1b2c4"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_4",
 	"stylers": {
-		"scale": 0.8,
+		"scale": 0.9,
 		"color": "#a1b2c4"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_5",
 	"stylers": {
-		"scale": 0.8,
+		"scale": 0.9,
 		"color": "#a1b2c4"
 	}
  },
@@ -857,16 +863,16 @@
 	"featureType": "nonauto.road.crosswalk_0",
 	"zoomSlices": [
 		{
-			"zooms": "0-16",
+			"zooms": "0-17",
 			"stylers": {
-				"visibility": "on",
+				"visibility": "off",
 				"opacity": 0
 				}
 		},
 		{
-			"zooms": "16-22",
+			"zooms": "17-22",
 			"stylers": {
-				"color": "#B5AE88",
+				"color": "#C4BFA7",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -877,16 +883,16 @@
 	"featureType": "nonauto.road.crosswalk_1",
 	"zoomSlices": [
 		{
-			"zooms": "0-16",
+			"zooms": "0-17",
 			"stylers": {
-				"visibility": "on",
+				"visibility": "off",
 				"opacity": 0
 				}
 		},
 		{
-			"zooms": "16-22",
+			"zooms": "17-22",
 			"stylers": {
-				"color": "#B5AE88",
+				"color": "#C4BFA7",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -897,16 +903,16 @@
 	"featureType": "nonauto.road.crosswalk_2",
 	"zoomSlices": [
 		{
-			"zooms": "0-16",
+			"zooms": "0-17",
 			"stylers": {
-				"visibility": "on",
+				"visibility": "off",
 				"opacity": 0
 				}
 		},
 		{
-			"zooms": "16-22",
+			"zooms": "17-22",
 			"stylers": {
-				"color": "#B5AE88",
+				"color": "#C4BFA7",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -917,16 +923,16 @@
 	"featureType": "nonauto.road.crosswalk_3",
 	"zoomSlices": [
 		{
-			"zooms": "0-16",
+			"zooms": "0-17",
 			"stylers": {
-				"visibility": "on",
+				"visibility": "off",
 				"opacity": 0
 				}
 		},
 		{
-			"zooms": "16-22",
+			"zooms": "17-22",
 			"stylers": {
-				"color": "#B5AE88",
+				"color": "#C4BFA7",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -937,16 +943,16 @@
 	"featureType": "nonauto.road.crosswalk_4",
 	"zoomSlices": [
 		{
-			"zooms": "0-16",
+			"zooms": "0-17",
 			"stylers": {
-				"visibility": "on",
+				"visibility": "off",
 				"opacity": 0
 				}
 		},
 		{
-			"zooms": "16-22",
+			"zooms": "17-22",
 			"stylers": {
-				"color": "#B5AE88",
+				"color": "#C4BFA7",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -957,21 +963,26 @@
 	"featureType": "nonauto.road.crosswalk_5",
 	"zoomSlices": [
 		{
-			"zooms": "0-16",
+			"zooms": "0-17",
 			"stylers": {
-				"visibility": "on",
+				"visibility": "off",
 				"opacity": 0
 				}
 		},
 		{
-			"zooms": "16-22",
+			"zooms": "17-22",
 			"stylers": {
-				"color": "#B5AE88",
+				"color": "#C4BFA7",
 				"visibility": "on",
 				"scale": 0.75
 				}
 		}
 	]	
+ },
+ {
+	"featureType": "relief_p",
+	"stylers": {
+		"visibility": "off"}
  },
  {
 	"featureType": "label.road.trafficlight",
@@ -997,9 +1008,9 @@
  	{
 		"featureType": "label.road",
 		"stylers": {
-			"scale": 0.9,
+			"scale": 0.88,
 			"outline-width": 0,
-			"color": "#92918b",
+			"color": "#8A8470",
 			"outline-color": "#fff"
 		}
  	},
@@ -1614,7 +1625,7 @@
 			"zooms": "14-15",
 			"stylers": {
 				"color": "#ffffff",
-				"outline-color": "#C7C1A5",
+				"outline-color": "#F3F0E7",
 				"scale": 0.48
 			}
 		},
@@ -1622,7 +1633,7 @@
 			"zooms": "15-16",
 			"stylers": {
 				"color": "#ffffff",
-				"outline-color": "#C7C1A5",
+				"outline-color": "#F3F0E7",
 				"scale": 0.58
 			}
 		},
@@ -1630,7 +1641,7 @@
 			"zooms": "16-17",
 			"stylers": {
 				"color": "#ffffff",
-				"outline-color": "#C7C1A5",
+				"outline-color": "#F3F0E7",
 				"scale": 0.7
 			}
 		},
@@ -1638,7 +1649,7 @@
 			"zooms": "17-30",
 			"stylers": {
 				"color": "#fff",
-				"outline-color": "#B5AE88",
+				"outline-color": "#F3F0E7",
 				"scale": 0.75
 			}
 		}
@@ -1647,73 +1658,7 @@
 {
 	"featureType": "road.local.pedestrian.road",
 	"stylers": {
-		"color": "#fff",
-		"outline-color": "#B5AE88",
-		"visibility": "on"
-	}
- },
- {
-	"featureType": "road.local.pedestrian.road.class10_pedestrian_0",
-	"stylers": {
-		"color": "#B5AE88",
-		"scale": 0.5,
-		"visibility": "on"
-	}
- },
- {
-	"featureType": "road.local.pedestrian.road.class10_pedestrian_1",
-	"stylers": {
-		"color": "#B5AE88",
-		"scale": 0.5,
-		"visibility": "on"
-	}
- },
- {
-	"featureType": "road.local.pedestrian.road.class10_pedestrian_2",
-	"stylers": {
-		"color": "#B5AE88",
-		"scale": 0.5,
-		"visibility": "on"
-	}
- },
- {
-	"featureType": "road.local.pedestrian.road.class10_pedestrian_3",
-	"stylers": {
-		"color": "#B5AE88",
-		"scale": 0.5,
-		"visibility": "on"
-	}
- },
- {
-	"featureType": "road.local.pedestrian.road.class10_pedestrian_4",
-	"stylers": {
-		"color": "#B5AE88",
-		"scale": 0.5,
-		"visibility": "on"
-	}
- },
- {
-	"featureType": "road.local.pedestrian.road.class10_pedestrian_5",
-	"stylers": {
-		"color": "#B5AE88",
-		"scale": 0.5,
-		"visibility": "on"
-	}
- },
- {
-	"featureType": "road.local.pedestrian.road.class10_pedestrian_6",
-	"stylers": {
-		"color": "#B5AE88",
-		"scale": 0.5,
-		"visibility": "on"
-	}
- },
- {
-	"featureType": "road.local.pedestrian.road.class10_pedestrian_7",
-	"stylers": {
-		"color": "#B5AE88",
-		"scale": 0.5,
-		"visibility": "on"
+    "visibility": "on",
 	}
  },
 
@@ -1762,97 +1707,6 @@
 		}
 	]
 },
-{
-	"featureType":"road.class10_park",
-	"stylers":{
-		"color":"#fff",
-		"scale":0.5
-	}
-},
-{
-	"featureType":"road.class10_park_0",
-	"stylers":{
-		"color":"#fff",
-		"scale":0.5
-	}
-},
-{
-	"featureType":"road.class10_park_1",
-	"stylers":{
-		"color":"#fff",
-		"scale":0.5
-	}
-},
-{
-	"featureType":"road.class10_park_2",
-	"stylers":{
-		"color":"#fff",
-		"scale":0.5
-	}
-},
-{
-	"featureType":"road.class10_park_3",
-	"stylers":{
-		"color":"#fff",
-		"scale":0.5
-	}
-},
-{
-	"featureType":"road.class10_park_4",
-	"stylers":{
-		"color":"#fff",
-		"scale":0.5
-	}
-},
-{
-	"featureType":"road.class10_park_5",
-	"stylers":{
-		"color":"#fff",
-		"scale":0.5
-	}
-},
-{
-	"featureType":"road.class10_park_6",
-	"stylers":{
-		"color":"#fff",
-		"scale":0.5
-	}
-},
-{
-	"featureType":"road.class10_park_7",
-	"stylers":{
-		"color":"#fff",
-		"scale":0.5
-	}
-},
-{
-	"featureType":"road.class10_park_8",
-	"stylers":{
-		"color":"#fff",
-		"scale":0.5
-	}
-},
-{
-	"featureType":"road.class10_park_9",
-	"stylers":{
-		"color":"#fff",
-		"scale":0.5
-	}
-},
-{
-	"featureType":"road.class10_park_10",
-	"stylers":{
-		"color":"#fff",
-		"scale":0.5
-	}
-},
-{
-	"featureType":"road.class10_park_11",
-	"stylers":{
-		"color":"#fff",
-		"scale":0.5
-	}
-},
 
 	{
 		"featureType":"road.local.bike",
@@ -1872,13 +1726,16 @@
 	{
 		"featureType": "transport.line",
 		"stylers": {
-			"visibility":"off",
-			"opacity": 1,
-			"scale": 0.9
+			"visibility":"off"
 		}
 	 },
 	 {
 		"featureType": "fence",
+		"stylers": {
+		"visibility": "off"}
+   },
+   {
+		"featureType": "roadnet_a",
 		"stylers": {
 		"visibility": "off"}
 	 },
@@ -1958,3 +1815,7 @@
 		"visibility": "off"}
 	 }
 ]
+
+
+
+
