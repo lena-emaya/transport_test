@@ -92,28 +92,28 @@
 				"zooms": "3-10",
 				"stylers": {
 					"opacity": 0.4,
-					"color": "#E4F5E9"
+					"color": "#E6F5E9"
 			}
 			},
 			{
 				"zooms": "10-13",
 				"stylers": {
 					"opacity": 0.5,
-					"color": "#E4F5E9"
+					"color": "#E6F5E9"
 				}
 			},
 			{
 				"zooms": "13-14",
 				"stylers": {
 					"opacity": 0.9,
-					"color": "#E4F5E9"
+					"color": "#E6F5E9"
 				}
 			},
 			{
 				"zooms": "14-30",
 				"stylers": {
 					"opacity": 1,
-					"color": "#E4F5E9"
+					"color": "#E6F5E9"
 				}
 			}
 		]
