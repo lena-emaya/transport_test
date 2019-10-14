@@ -96,23 +96,9 @@
 			}
 			},
 			{
-				"zooms": "10-11",
+				"zooms": "10-13",
 				"stylers": {
 					"opacity": 0.5,
-					"color": "#E4F5E9"
-				}
-			},
-			{
-				"zooms": "11-12",
-				"stylers": {
-					"opacity": 0.4,
-					"color": "#E4F5E9"
-				}
-			},
-			{
-				"zooms": "12-13",
-				"stylers": {
-					"opacity": 0.35,
 					"color": "#E4F5E9"
 				}
 			},
@@ -1170,7 +1156,7 @@
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#CDD0D2",
+					"color": "#DCDEE0",
 					"scale": 1
 				}
 			},
@@ -1199,7 +1185,7 @@
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#CDD0D2",
+					"color": "#DCDEE0",
 					"scale": 1
 				}
 			},
@@ -1228,7 +1214,7 @@
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#CDD0D2",
+					"color": "#DCDEE0",
 					"scale": 1
 				}
 			},
@@ -1257,7 +1243,7 @@
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#CDD0D2",
+					"color": "#DCDEE0",
 					"scale": 1
 				}
 			},
@@ -1286,7 +1272,7 @@
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#CDD0D2",
+					"color": "#DCDEE0",
 					"scale": 1
 				}
 			},
@@ -1315,7 +1301,7 @@
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#CDD0D2",
+					"color": "#DCDEE0",
 					"scale": 1
 				}
 			},
@@ -1344,7 +1330,7 @@
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#CDD0D2",
+					"color": "#DCDEE0",
 					"scale": 1
 				}
 			},
@@ -1373,7 +1359,7 @@
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#CDD0D2",
+					"color": "#DCDEE0",
 					"scale": 1
 				}
 			},
@@ -1402,7 +1388,7 @@
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#CDD0D2",
+					"color": "#DCDEE0",
 					"scale": 1
 				}
 			},
@@ -1431,7 +1417,7 @@
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#CDD0D2",
+					"color": "#DCDEE0",
 					"scale": 1
 				}
 			},
@@ -1460,7 +1446,7 @@
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#CDD0D2",
+					"color": "#DCDEE0",
 					"scale": 1
 				}
 			},
