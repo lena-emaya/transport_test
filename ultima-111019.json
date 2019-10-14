@@ -1,4 +1,4 @@
-export const dayStyle =[
+[
 	{
 	  "featureType": "admin.background",
 	  "stylers": {
@@ -31,56 +31,56 @@ export const dayStyle =[
 				"zooms": "3-8",
 				"stylers": {
 					"opacity": 0.3,
-					"color": "#DFF2E6"
+					"color": "#E6F5EB"
 			}
 			},
 			{
 				"zooms": "8-9",
 				"stylers": {
 					"opacity": 0.35,
-					"color": "#DFF2E6"
+					"color": "#E6F5EB"
 				}
 			},
 			{
 				"zooms": "9-10",
 				"stylers": {
 					"opacity": 0.4,
-					"color": "#DFF2E6"
+					"color": "#E6F5EB"
 				}
 			},
 			{
 				"zooms": "10-11",
 				"stylers": {
 					"opacity": 0.5,
-					"color": "#DFF2E6"
+					"color": "#E6F5EB"
 				}
 			},
 			{
 				"zooms": "11-12",
 				"stylers": {
 					"opacity": 0.4,
-					"color": "#DFF2E6"
+					"color": "#E6F5EB"
 				}
 			},
 			{
 				"zooms": "12-13",
 				"stylers": {
 					"opacity": 0.35,
-					"color": "#DFF2E6"
+					"color": "#E6F5EB"
 				}
 			},
 			{
 				"zooms": "13-14",
 				"stylers": {
 					"opacity": 0.9,
-					"color": "#DFF2E6"
+					"color": "#E6F5EB"
 				}
 			},
 			{
 				"zooms": "14-30",
 				"stylers": {
 					"opacity": 1,
-					"color": "#DFF2E6"
+					"color": "#E6F5EB"
 				}
 			}
 		]
@@ -89,59 +89,45 @@ export const dayStyle =[
 		"featureType": "vegetation",
 		"zoomSlices": [
 			{
-				"zooms": "3-8",
-				"stylers": {
-					"opacity": 0.3,
-					"color": "#DFF2E6"
-			}
-			},
-			{
-				"zooms": "8-9",
-				"stylers": {
-					"opacity": 0.35,
-					"color": "#DFF2E6"
-				}
-			},
-			{
-				"zooms": "9-10",
+				"zooms": "3-10",
 				"stylers": {
 					"opacity": 0.4,
-					"color": "#DFF2E6"
-				}
+					"color": "#E4F5E9"
+			}
 			},
 			{
 				"zooms": "10-11",
 				"stylers": {
 					"opacity": 0.5,
-					"color": "#DFF2E6"
+					"color": "#E4F5E9"
 				}
 			},
 			{
 				"zooms": "11-12",
 				"stylers": {
 					"opacity": 0.4,
-					"color": "#DFF2E6"
+					"color": "#E4F5E9"
 				}
 			},
 			{
 				"zooms": "12-13",
 				"stylers": {
 					"opacity": 0.35,
-					"color": "#DFF2E6"
+					"color": "#E4F5E9"
 				}
 			},
 			{
 				"zooms": "13-14",
 				"stylers": {
 					"opacity": 0.9,
-					"color": "#DFF2E6"
+					"color": "#E4F5E9"
 				}
 			},
 			{
 				"zooms": "14-30",
 				"stylers": {
 					"opacity": 1,
-					"color": "#DFF2E6"
+					"color": "#E4F5E9"
 				}
 			}
 		]
@@ -149,7 +135,7 @@ export const dayStyle =[
 	{
 		"featureType": "border.border_0",
  	 "stylers": {
- 		 	"color": "#999588",
+ 		 	"color": "#818799",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"dash": {
@@ -161,7 +147,7 @@ export const dayStyle =[
 	{
 		"featureType": "border.border_1",
  	 "stylers": {
- 		 	"color": "#999588",
+ 		 	"color": "#818799",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"dash": {
@@ -173,7 +159,7 @@ export const dayStyle =[
 	{
 		"featureType": "border.border_2",
  	 "stylers": {
- 		 	"color": "#999588",
+ 		 	"color": "#818799",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"dash": {
@@ -185,7 +171,7 @@ export const dayStyle =[
 	{
 		"featureType": "border.border_3",
  	 "stylers": {
- 		 	"color": "#999588",
+ 		 	"color": "#818799",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"dash": {
@@ -197,7 +183,7 @@ export const dayStyle =[
 	{
 		"featureType": "border.border_4",
  	 "stylers": {
- 		 	"color": "#999588",
+ 		 	"color": "#818799",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"dash": {
@@ -209,7 +195,7 @@ export const dayStyle =[
 	{
 		"featureType": "border.border_5",
  	 "stylers": {
- 		 	"color": "#999588",
+ 		 	"color": "#818799",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"dash": {
@@ -221,7 +207,7 @@ export const dayStyle =[
 	{
 		"featureType": "border.border_6",
  	 "stylers": {
- 		 	"color": "#999588",
+ 		 	"color": "#818799",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"dash": {
@@ -233,7 +219,7 @@ export const dayStyle =[
 	{
 		"featureType": "border.border_7",
  	 "stylers": {
- 		 	"color": "#999588",
+ 		 	"color": "#818799",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"dash": {
@@ -245,7 +231,7 @@ export const dayStyle =[
 	{
 		"featureType": "border.border_8",
  	 "stylers": {
- 		 	"color": "#999588",
+ 		 	"color": "#818799",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"dash": {
@@ -257,7 +243,7 @@ export const dayStyle =[
 	{
 		"featureType": "border.border_9",
  	 "stylers": {
- 		 	"color": "#999588",
+ 		 	"color": "#818799",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"dash": {
@@ -269,7 +255,7 @@ export const dayStyle =[
 	{
 		"featureType": "border.border_10",
  	 "stylers": {
- 		 	"color": "#999588",
+ 		 	"color": "#818799",
 			"scale": 0.7,
 			"outline-color":"rgba(0, 0, 0, 0)",
 			"dash": {
@@ -281,7 +267,8 @@ export const dayStyle =[
 	{
 		"featureType": "border.border_LK1_0",
  	 "stylers": {
- 		 	"color": "#999588",
+				"color": "#9BA4B3",
+				"outline-color": "rgba(0, 0, 0, 0)",
 			 "scale": 0.7
 		}
 	},
@@ -338,21 +325,19 @@ export const dayStyle =[
 		"zoomSlices": [
 			{
 				"stylers": {
-					"hue": -0.05,
-					"lightness": -0.2,
-					"saturation": 0.7,
+					"lightness": 0.3,
+					"saturation": -1,
 					"scale": 1.05
 				},
 				"zooms": "8-16"
 			},
 			{
 				"stylers": {
-					"hue": -0.05,
-					"lightness": 0.1,
-					"saturation": 0.4,
+					"lightness": 0.2,
+					"saturation": -0.95,
 					"scale": 1.1
 				},
-				"zooms": "16-21"
+				"zooms": "16-22"
 			}
 		]
 	},
@@ -361,27 +346,24 @@ export const dayStyle =[
 		"zoomSlices": [
 			{
 				"stylers": {
-					"hue": -0.05,
-					"lightness": 0,
-					"saturation": 0.3,
+					"lightness": 0.3,
+					"saturation": -1,
 					"scale": 0.9
 				},
 				"zooms": "8-15"
 			},
 			{
 				"stylers": {
-					"hue": -0.05,
-					"lightness": 0.1,
-					"saturation": 0.4,
+					"lightness": 0.3,
+					"saturation": -1,
 					"scale": 1
 				},
 				"zooms": "15-18"
 			},
 			{
 				"stylers": {
-					"hue": -0.05,
-					"lightness": 0.1,
-					"saturation": 0.4,
+					"lightness": 0.2,
+					"saturation": -0.95,
 					"scale": 1
 				},
 				"zooms": "18-22"
@@ -397,15 +379,25 @@ export const dayStyle =[
 	{
 		"featureType": "country_label",
 		"stylers": {
-			"color": "#a4a096",
+			"color": "#939aa5",
 			"outline-color": "rgba(0, 0, 0, 0)",
-			"scale": 0.85}
+			"scale": 0.85
+		}
+	},
+	{
+		"featureType": "region_label",
+		"stylers": {
+			"color": "#BCBEC4",
+			"outline-color": "rgba(0, 0, 0, 0)",
+			"scale": 0.85
+		}
 	},
  	{
 		"featureType": "place_label",
 		"stylers": {
-			"color": "#5e5845",
-			"scale": 0.9}
+			"color": "#45505E",
+			"scale": 0.9
+		}
  	},
  	{
 		"featureType": "place_label.district_0",
@@ -413,7 +405,7 @@ export const dayStyle =[
 			{
 				"zooms": "8-14",
 				"stylers": {
-					"color": "#a6a0a0",
+					"color": "#A1AAB3",
 					"scale": 0.9
 				}
 			},
@@ -430,7 +422,7 @@ export const dayStyle =[
 		"zooms": "13-15",
 		"stylers": {
 			"visibility": "off",
-			"color": "#F2F0E1"
+			"color": "#EDF0F2"
 		}
  	},
  	{
@@ -438,14 +430,14 @@ export const dayStyle =[
 		"zooms": "15-16",
 		"stylers": {
 			"opacity": 0.3,
-			"color": "#F4F1E7"}
+			"color": "#EDF0F2"}
  	},
  	{
 		"featureType": "building",
 		"zooms": "16-17",
 		"stylers": {
 			"opacity": 0.8,
-			"color": "#F4F1E7"
+			"color": "#EDF0F2"
 		}
  	},
  	{
@@ -453,21 +445,21 @@ export const dayStyle =[
 		"zooms": "17-18",
 		"stylers": {
 			"opacity": 0.9,
-			"color": "#F4F1E7"
+			"color": "#EDF0F2"
 		}
  	},
  	{
 		"featureType": "building",
 		"zooms": "18-22",
 		"stylers": {
-			"color": "#F5F2E8"
+			"color": "#EDF0F2"
 		}
  	},
  	{
 		"featureType": "building_number",
 		"zooms": "15-22",
 		"stylers": {
-			"color": "#CECABB"
+			"color": "#BEC2C8"
 		}
  	},
  	{
@@ -482,10 +474,11 @@ export const dayStyle =[
 			{
 				"zooms": "17-22",
 				"stylers": {
-					"lightness": 0.4,
-					"saturation": -1,
-					"color": "#4D4D4D",
-					"outline-color": "rgba(255,255,255,0.4)"
+					"color": "#011D70",
+            "hue": -0.1,
+            "lightness": 0.4,
+            "outline-color": "rgba(255,255,255,0.4)",
+            "saturation": -1
 			}
 			}
 		]
@@ -501,49 +494,54 @@ export const dayStyle =[
 	"featureType": "poi.veget_label_0",
 	"zoomSlices": [
 		{
-			"zooms": "8-17",
 			"stylers": {
+				"color": "#a9aeb7",
+				"hue": 0,
+				"lightness": 0.4,
+				"outline-color": "rgba(255,255,255,0.4)",
+				"saturation": -0.7,
+				"scale": 1,
 				"visibility": "off"
-			}
+			},
+			"zooms": "8-17"
 		},
 		{
-			"zooms": "17-22",
 			"stylers": {
-				"hue": 0.3,
+				"color": "#a9aeb7",
+				"hue": 0,
 				"lightness": 0.4,
+				"outline-color": "rgba(255,255,255,0.4)",
 				"saturation": -0.7,
-				"color": "#333",
-				"outline-color": "rgba(255,255,255,0.4)"
-		}
+				"scale": 1,
+				"visibility": "off"
+			},
+			"zooms": "17-22"
 		}
 	]
  },
  {
 	"featureType": "roadnet_p.gate_car_0",
 	"stylers": {
-		"scale": 0.9,
-		"hue": 0,
-		"lightness": 0.45,
-		"saturation": -1
+    	"lightness": 0.45,
+      "saturation": -1,
+      "scale": 0.9
     }
  },
  {
 	"featureType": "roadnet_p.gate-pedestrian_0",
 	"stylers": {
-		"scale": 0.9,
-		"hue": 0,
 		"lightness": 0.45,
-		"saturation": -1
-    }
+		"saturation": -1,
+		"scale": 0.9
+  }
  },
  {
 	"featureType": "roadnet_p.roadnet_block_0",
 	"stylers": {
-		"scale": 0.9,
-		"hue": 0,
 		"lightness": 0.45,
-		"saturation": -1
-    }
+    "saturation": -1,
+    "scale": 0.9
+  }
  },
 
  {
@@ -555,49 +553,49 @@ export const dayStyle =[
 	"featureType": "hydro_a_label",
 	"stylers": {
 		"scale": 0.9,
-		"color": "#a1b2c4"
+		"color": "#B8C7D9"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_0",
 	"stylers": {
 		"scale": 0.9,
-		"color": "#a1b2c4"
+		"color": "#B8C7D9"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_1",
 	"stylers": {
 		"scale": 0.9,
-		"color": "#a1b2c4"
+		"color": "#B8C7D9"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_2",
 	"stylers": {
 		"scale": 0.9,
-		"color": "#a1b2c4"
+		"color": "#B8C7D9"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_3",
 	"stylers": {
 		"scale": 0.9,
-		"color": "#a1b2c4"
+		"color": "#B8C7D9"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_4",
 	"stylers": {
 		"scale": 0.9,
-		"color": "#a1b2c4"
+		"color": "#B8C7D9"
 	}
  },
  {
 	"featureType": "hydro.hydro_l.hydro_l_label_5",
 	"stylers": {
 		"scale": 0.9,
-		"color": "#a1b2c4"
+		"color": "#B8C7D9"
 	}
  },
  {
@@ -615,9 +613,10 @@ export const dayStyle =[
  {
 	"featureType": "nonauto.road.tram_0",
 	"stylers": {
-		"lightness": 0.5,
-		"visibility": "on",
-		"scale": 0.95
+		"lightness": 0.6,
+		"saturation": -0.8,
+		"scale": 0.65,
+		"visibility": "on"
 	}
  },
  {
@@ -700,7 +699,7 @@ export const dayStyle =[
 		{
 			"zooms": "0-16",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"opacity": 0
 				}
@@ -708,7 +707,7 @@ export const dayStyle =[
 		{
 			"zooms": "16-22",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -721,7 +720,7 @@ export const dayStyle =[
 		{
 			"zooms": "0-16",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"opacity": 0
 				}
@@ -729,7 +728,7 @@ export const dayStyle =[
 		{
 			"zooms": "16-22",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -742,7 +741,7 @@ export const dayStyle =[
 		{
 			"zooms": "0-16",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"opacity": 0
 				}
@@ -750,7 +749,7 @@ export const dayStyle =[
 		{
 			"zooms": "16-22",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -763,7 +762,7 @@ export const dayStyle =[
 		{
 			"zooms": "0-16",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"opacity": 0
 				}
@@ -771,7 +770,7 @@ export const dayStyle =[
 		{
 			"zooms": "16-22",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -784,7 +783,7 @@ export const dayStyle =[
 		{
 			"zooms": "0-16",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"opacity": 0
 				}
@@ -792,7 +791,7 @@ export const dayStyle =[
 		{
 			"zooms": "16-22",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -805,7 +804,7 @@ export const dayStyle =[
 		{
 			"zooms": "0-16",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"opacity": 0
 				}
@@ -813,7 +812,7 @@ export const dayStyle =[
 		{
 			"zooms": "16-22",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -833,7 +832,7 @@ export const dayStyle =[
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"color": "#C4BFA7",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -853,7 +852,7 @@ export const dayStyle =[
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"color": "#C4BFA7",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -873,7 +872,7 @@ export const dayStyle =[
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"color": "#C4BFA7",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -893,7 +892,7 @@ export const dayStyle =[
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"color": "#C4BFA7",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -913,7 +912,7 @@ export const dayStyle =[
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"color": "#C4BFA7",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -933,7 +932,7 @@ export const dayStyle =[
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"color": "#C4BFA7",
+				"color": "#CDD0D2",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -963,24 +962,25 @@ export const dayStyle =[
  {
 	"featureType": "label.road.marker.road_symbol",
 	"stylers": {
-		"scale": 0.82
+		"scale": 0.82,
+		"saturation": -1
 	}
  },
  	{
 		"featureType": "label.road",
 		"stylers": {
-			"scale": 0.88,
+			"scale": 0.9,
 			"outline-width": 0,
-			"color": "#75705E",
+			"color": "#84878A",
 			"outline-color": "#fff"
 		}
  	},
 	{
 		"featureType": "label.road.road_label.hw_label_0",
 		"stylers": {
-			"scale": 0.8,
+			"scale": 0.9,
 			"outline-width": 0,
-			"color": "#75705E"
+			"color": "#84878A"
 		}
 	},
 	{
@@ -988,7 +988,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -997,7 +997,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1006,7 +1006,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1015,7 +1015,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1024,7 +1024,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1033,7 +1033,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1042,7 +1042,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1051,7 +1051,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1060,7 +1060,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1069,7 +1069,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1078,7 +1078,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1087,7 +1087,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1096,7 +1096,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1105,7 +1105,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1114,7 +1114,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1123,7 +1123,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1132,7 +1132,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1141,7 +1141,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1150,7 +1150,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1159,7 +1159,7 @@ export const dayStyle =[
 		"zooms": "12-14",
 		"stylers": {
 			"outline-width": 0,
-			"color": "#E6E0D1",
+			"color": "#CDD0D2",
 			"scale": 1
 		}
 	},
@@ -1170,7 +1170,7 @@ export const dayStyle =[
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#E6E0D1",
+					"color": "#CDD0D2",
 					"scale": 1
 				}
 			},
@@ -1178,7 +1178,7 @@ export const dayStyle =[
 				"zooms": "16-17",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.7
 				}
 			},
@@ -1186,7 +1186,7 @@ export const dayStyle =[
 				"zooms": "17-30",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.75
 				}
 			}
@@ -1199,7 +1199,7 @@ export const dayStyle =[
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#C7C1A5",
+					"color": "#CDD0D2",
 					"scale": 1
 				}
 			},
@@ -1207,7 +1207,7 @@ export const dayStyle =[
 				"zooms": "16-17",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.7
 				}
 			},
@@ -1215,7 +1215,7 @@ export const dayStyle =[
 				"zooms": "17-30",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.75
 				}
 			}
@@ -1228,7 +1228,7 @@ export const dayStyle =[
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#E6E0D1",
+					"color": "#CDD0D2",
 					"scale": 1
 				}
 			},
@@ -1236,7 +1236,7 @@ export const dayStyle =[
 				"zooms": "16-17",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.7
 				}
 			},
@@ -1244,7 +1244,7 @@ export const dayStyle =[
 				"zooms": "17-30",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.75
 				}
 			}
@@ -1257,7 +1257,7 @@ export const dayStyle =[
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#E6E0D1",
+					"color": "#CDD0D2",
 					"scale": 1
 				}
 			},
@@ -1265,7 +1265,7 @@ export const dayStyle =[
 				"zooms": "16-17",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.7
 				}
 			},
@@ -1273,7 +1273,7 @@ export const dayStyle =[
 				"zooms": "17-30",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.75
 				}
 			}
@@ -1286,7 +1286,7 @@ export const dayStyle =[
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#E6E0D1",
+					"color": "#CDD0D2",
 					"scale": 1
 				}
 			},
@@ -1294,7 +1294,7 @@ export const dayStyle =[
 				"zooms": "16-17",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.7
 				}
 			},
@@ -1302,7 +1302,7 @@ export const dayStyle =[
 				"zooms": "17-30",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.75
 				}
 			}
@@ -1315,7 +1315,7 @@ export const dayStyle =[
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#E6E0D1",
+					"color": "#CDD0D2",
 					"scale": 1
 				}
 			},
@@ -1323,7 +1323,7 @@ export const dayStyle =[
 				"zooms": "16-17",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.7
 				}
 			},
@@ -1331,7 +1331,7 @@ export const dayStyle =[
 				"zooms": "17-30",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.75
 				}
 			}
@@ -1344,7 +1344,7 @@ export const dayStyle =[
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#E6E0D1",
+					"color": "#CDD0D2",
 					"scale": 1
 				}
 			},
@@ -1352,7 +1352,7 @@ export const dayStyle =[
 				"zooms": "16-17",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.7
 				}
 			},
@@ -1360,7 +1360,7 @@ export const dayStyle =[
 				"zooms": "17-30",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.75
 				}
 			}
@@ -1373,7 +1373,7 @@ export const dayStyle =[
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#E6E0D1",
+					"color": "#CDD0D2",
 					"scale": 1
 				}
 			},
@@ -1381,7 +1381,7 @@ export const dayStyle =[
 				"zooms": "16-17",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.7
 				}
 			},
@@ -1389,7 +1389,7 @@ export const dayStyle =[
 				"zooms": "17-30",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.75
 				}
 			}
@@ -1402,7 +1402,7 @@ export const dayStyle =[
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#E6E0D1",
+					"color": "#CDD0D2",
 					"scale": 1
 				}
 			},
@@ -1410,7 +1410,7 @@ export const dayStyle =[
 				"zooms": "16-17",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.7
 				}
 			},
@@ -1418,7 +1418,7 @@ export const dayStyle =[
 				"zooms": "17-30",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.75
 				}
 			}
@@ -1431,7 +1431,7 @@ export const dayStyle =[
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#E6E0D1",
+					"color": "#CDD0D2",
 					"scale": 1
 				}
 			},
@@ -1439,7 +1439,7 @@ export const dayStyle =[
 				"zooms": "16-17",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.7
 				}
 			},
@@ -1447,7 +1447,7 @@ export const dayStyle =[
 				"zooms": "17-30",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.75
 				}
 			}
@@ -1460,7 +1460,7 @@ export const dayStyle =[
 				"zooms": "0-16",
 				"stylers": {
 					"outline-width": 0,
-					"color": "#E6E0D1",
+					"color": "#CDD0D2",
 					"scale": 1
 				}
 			},
@@ -1468,7 +1468,7 @@ export const dayStyle =[
 				"zooms": "16-17",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.7
 				}
 			},
@@ -1476,7 +1476,7 @@ export const dayStyle =[
 				"zooms": "17-30",
 				"stylers": {
 					"color": "#ffffff",
-					"outline-color": "#D1CDB6",
+					"outline-color": "#CDD0D2",
 					"scale": 0.75
 				}
 			}
@@ -1490,7 +1490,7 @@ export const dayStyle =[
 			"stylers": {
 				"line-width": 0.1,
 				"color": "#ffffff",
-				"outline-color": "#9E9983",
+				"outline-color": "#CDD0D2",
 				"outline-width": 0.2
 			}
 		},
@@ -1499,25 +1499,16 @@ export const dayStyle =[
 			"stylers": {
 				"line-width": 0.1,
 				"color": "#ffffff",
-				"outline-color": "#9E9983",
+				"outline-color": "#CDD0D2",
 				"outline-width": 0.3
 			}
 		},
 		{
-			"zooms": "8-9",
+			"zooms": "8-10",
 			"stylers": {
 				"line-width": 0.2,
 				"color": "#ffffff",
-				"outline-color": "#9E9983",
-				"outline-width": 0.4
-			}
-		},
-		{
-			"zooms": "9-10",
-			"stylers": {
-				"line-width": 0.2,
-				"color": "#E4E0D2",
-				"outline-color": "#C4BFA7",
+				"outline-color": "#CDD0D2",
 				"outline-width": 0.4
 			}
 		},
@@ -1525,25 +1516,25 @@ export const dayStyle =[
 			"zooms": "10-11",
 			"stylers": {
 				"line-width": 0.3,
-				"color": "#E4E0D2",
-				"outline-color": "#D2CDB6",
-				"outline-width": 0.6
+				"color": "#EDF0F1",
+				"outline-color": "#CDD0D2",
+				"outline-width": 0.5
 			}
 		},
 		{
 			"zooms": "11-12",
 			"stylers": {
 				"line-width": 0.5,
-				"color": "#E4E0D2",
-				"outline-color": "#D2CDB6",
+				"color": "#EDF0F1",
+				"outline-color": "#CDD0D2",
 				"outline-width": 0.8
 			}
 		},
 		{
 			"zooms": "12-13",
 			"stylers": {
-				"color": "#F7F5EB",
-				"outline-color": "#B0AC86",
+				"color": "#EDF0F1",
+				"outline-color": "#CDD0D2",
 				"scale": 0.35
 			}
 		},
@@ -1551,7 +1542,7 @@ export const dayStyle =[
 			"zooms": "13-14",
 			"stylers": {
 				"color": "#fff",
-				"outline-color": "#9E9872",
+				"outline-color": "#CDD0D2",
 				"scale": 0.45
 			}
 		},
@@ -1559,7 +1550,7 @@ export const dayStyle =[
 			"zooms": "14-15",
 			"stylers": {
 				"color": "#ffffff",
-				"outline-color": "#C3BC95",
+				"outline-color": "#CDD0D2",
 				"scale": 0.52
 			}
 		},
@@ -1567,7 +1558,7 @@ export const dayStyle =[
 			"zooms": "15-16",
 			"stylers": {
 				"color": "#ffffff",
-				"outline-color": "#C3BC95",
+				"outline-color": "#CDD0D2",
 				"scale": 0.58
 			}
 		},
@@ -1575,7 +1566,7 @@ export const dayStyle =[
 			"zooms": "16-17",
 			"stylers": {
 				"color": "#ffffff",
-				"outline-color": "#C3BC95",
+				"outline-color": "#CDD0D2",
 				"scale": 0.62
 			}
 		},
@@ -1583,7 +1574,7 @@ export const dayStyle =[
 			"zooms": "17-30",
 			"stylers": {
 				"color": "#fff",
-				"outline-color": "#D1CBAB",
+				"outline-color": "#CDD0D2",
 				"scale": 0.65
 			}
 		}
@@ -1608,7 +1599,7 @@ export const dayStyle =[
 			{	
 				"zooms": "16-30",
 				"stylers": {
-					"color": "#D1CDB6",
+					"color": "#CDD0D2",
 					"scale":0.5
 				}		
 			}
@@ -1627,7 +1618,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1646,7 +1637,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1665,7 +1656,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1684,7 +1675,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1703,7 +1694,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1722,7 +1713,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1741,7 +1732,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1760,7 +1751,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1779,7 +1770,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1798,7 +1789,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1817,7 +1808,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1836,7 +1827,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1855,7 +1846,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1874,7 +1865,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1893,7 +1884,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1912,7 +1903,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1931,7 +1922,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1950,7 +1941,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1969,7 +1960,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -1988,7 +1979,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2197,7 +2188,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2216,7 +2207,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2235,7 +2226,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2254,7 +2245,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2273,7 +2264,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2292,7 +2283,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2311,7 +2302,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2330,7 +2321,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2349,7 +2340,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2368,7 +2359,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2387,7 +2378,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2406,7 +2397,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2425,7 +2416,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2444,7 +2435,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2463,7 +2454,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2482,7 +2473,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2501,7 +2492,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2520,7 +2511,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2539,7 +2530,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2558,7 +2549,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2577,7 +2568,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2596,7 +2587,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2615,7 +2606,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2634,7 +2625,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2653,7 +2644,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2672,7 +2663,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2691,7 +2682,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2710,7 +2701,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2729,7 +2720,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2748,7 +2739,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2767,7 +2758,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2786,7 +2777,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2805,7 +2796,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2824,7 +2815,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2843,7 +2834,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2862,7 +2853,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2881,7 +2872,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2900,7 +2891,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2919,7 +2910,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2938,7 +2929,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2957,7 +2948,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2976,7 +2967,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -2995,7 +2986,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -3014,7 +3005,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -3033,7 +3024,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -3052,7 +3043,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -3071,7 +3062,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -3090,7 +3081,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -3109,7 +3100,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -3128,7 +3119,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -3147,7 +3138,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -3166,7 +3157,7 @@ export const dayStyle =[
 		{	
 			"zooms": "16-30",
 			"stylers": {
-				"color": "#D1CDB6",
+				"color": "#CDD0D2",
 				"scale":0.5
 			}		
 		}
@@ -3175,56 +3166,56 @@ export const dayStyle =[
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_0",
 	"stylers":{
-		"color": "#D1CDB6",
+		"color": "#CDD0D2",
 		"scale":0.5
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_1",
 	"stylers":{
-		"color": "#D1CDB6",
+		"color": "#CDD0D2",
 		"scale":0.5
 	}			
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_2",
 	"stylers":{
-		"color": "#D1CDB6",
+		"color": "#CDD0D2",
 		"scale":0.5
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_3",
 	"stylers":{
-		"color": "#D1CDB6",
+		"color": "#CDD0D2",
 		"scale":0.5
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_4",
 	"stylers":{
-		"color": "#D1CDB6",
+		"color": "#CDD0D2",
 		"scale":0.5
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_dash_0",
 	"stylers":{
-		"color": "#D1CDB6",
+		"color": "#CDD0D2",
 		"scale":0.5
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_dash_1",
 	"stylers":{
-		"color": "#D1CDB6",
+		"color": "#CDD0D2",
 		"scale":0.5
 	}		
 },
 {
 	"featureType":"road.local.pedestrian.road.class7_dense_dash_2",
 	"stylers":{
-		"color": "#D1CDB6",
+		"color": "#CDD0D2",
 		"scale":0.5
 	}		
 },
@@ -3253,7 +3244,7 @@ export const dayStyle =[
 			"zooms": "0-14",
 			"stylers": {
 				"outline-width": 0,
-				"color": "#E6E0D1",
+				"color": "#DCDEE0",
 				"scale": 1
 			}
 		},
@@ -3261,7 +3252,7 @@ export const dayStyle =[
 			"zooms": "14-15",
 			"stylers": {
 				"color": "#ffffff",
-				"outline-color": "#C7C1A5",
+				"outline-color": "#CDD0D2",
 				"scale": 0.48
 			}
 		},
@@ -3269,7 +3260,7 @@ export const dayStyle =[
 			"zooms": "15-16",
 			"stylers": {
 				"color": "#ffffff",
-				"outline-color": "#D1CDBA",
+				"outline-color": "#CDD0D2",
 				"scale": 0.58
 			}
 		},
@@ -3277,7 +3268,7 @@ export const dayStyle =[
 			"zooms": "16-17",
 			"stylers": {
 				"color": "#ffffff",
-				"outline-color": "#D1CDB6",
+				"outline-color": "#CDD0D2",
 				"scale": 0.7
 			}
 		},
@@ -3285,7 +3276,7 @@ export const dayStyle =[
 			"zooms": "17-30",
 			"stylers": {
 				"color": "#ffffff",
-				"outline-color": "#D1CDB6",
+				"outline-color": "#CDD0D2",
 				"scale": 0.75
 			}
 		}
