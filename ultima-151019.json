@@ -196,8 +196,8 @@
 	{
 		"featureType": "label.transport.station.bus",
 		"stylers": {
-			"lightness": 0.2,
-			"saturation": -0.95,
+			"lightness": 0.15,
+			"saturation": -1,
 			"scale": 1.05
 		}
 	},
@@ -207,7 +207,7 @@
 			{
 				"zooms": "8-15",
 				"stylers": {
-					"lightness": 0.3,
+					"lightness": 0.1,
 					"saturation": -1,
 					"scale": 0.9
 				}
@@ -215,7 +215,7 @@
 			{
 				"zooms": "15-18",
 				"stylers": {
-					"lightness": 0.3,
+					"lightness": 0.15,
 					"saturation": -1,
 					"scale": 1
 				}
@@ -223,8 +223,8 @@
 			{
 				"zooms": "18-22",
 				"stylers": {
-					"lightness": 0.2,
-					"saturation": -0.95,
+					"lightness": 0.15,
+					"saturation": -1,
 					"scale": 1.05
 				}
 			}
