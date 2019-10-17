@@ -667,8 +667,7 @@
 		{
 			"zooms": "0-17",
 			"stylers": {
-				"visibility": "off",
-				"opacity": 0
+				"visibility": "off"
 				}
 		},
 		{
@@ -687,8 +686,7 @@
 		{
 			"zooms": "0-17",
 			"stylers": {
-				"visibility": "off",
-				"opacity": 0
+				"visibility": "off"
 				}
 		},
 		{
@@ -707,8 +705,7 @@
 		{
 			"zooms": "0-17",
 			"stylers": {
-				"visibility": "off",
-				"opacity": 0
+				"visibility": "off"
 				}
 		},
 		{
@@ -727,8 +724,7 @@
 		{
 			"zooms": "0-17",
 			"stylers": {
-				"visibility": "off",
-				"opacity": 0
+				"visibility": "off"
 				}
 		},
 		{
@@ -747,8 +743,7 @@
 		{
 			"zooms": "0-17",
 			"stylers": {
-				"visibility": "off",
-				"opacity": 0
+				"visibility": "off"
 				}
 		},
 		{
@@ -767,8 +762,7 @@
 		{
 			"zooms": "0-17",
 			"stylers": {
-				"visibility": "off",
-				"opacity": 0
+				"visibility": "off"
 				}
 		},
 		{
@@ -1872,6 +1866,24 @@
 },
 {
 	"featureType":"road.local.pedestrian.road.class10_pedestrian_8",
+	"zoomSlices": [
+		{
+			"zooms": "0-16",
+			"stylers": {
+				"visibility": "off"
+			}
+		},
+		{	
+			"zooms": "16-30",
+			"stylers": {
+				"color": "#CDD0D2",
+				"scale":0.5
+			}		
+		}
+	]		
+},
+{
+	"featureType":"road.local.pedestrian.road.class10_pedestrian_9",
 	"zoomSlices": [
 		{
 			"zooms": "0-16",
