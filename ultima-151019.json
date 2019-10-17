@@ -1,4 +1,328 @@
-[
+[{
+	"COMMENT": "green jams",
+	"featureType": "all",
+	"selector": {
+		"attribute": "severity",
+		"operator": "equal",
+		"value": 3
+	},
+	"zoomSlices": [
+		{
+			"stylers": {
+				"color": "#3de155",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.7
+			},
+			"zooms": "0-7"
+		},
+		{
+			"stylers": {
+				"color": "#3de155",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.7
+			},
+			"zooms": "7-9"
+		},
+		{
+			"stylers": {
+				"color": "#3de155",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.55
+			},
+			"zooms": "9-12"
+		},
+		{
+			"stylers": {
+				"color": "#3de155",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.5
+			},
+			"zooms": "12-13"
+		},
+		{
+			"stylers": {
+				"color": "#3de155",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.3
+			},
+			"zooms": "13-15"
+		},
+		{
+			"stylers": {
+				"color": "#3de155",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.4
+			},
+			"zooms": "15-132"
+		}
+	]
+},
+{
+	"COMMENT": "yellow jams",
+	"featureType": "all",
+	"selector": {
+		"attribute": "severity",
+		"operator": "equal",
+		"value": 2
+	},
+	"zoomSlices": [
+		{
+			"stylers": {
+				"color": "#fae436",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.7
+			},
+			"zooms": "0-7"
+		},
+		{
+			"stylers": {
+				"color": "#fae436",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.7
+			},
+			"zooms": "7-9"
+		},
+		{
+			"stylers": {
+				"color": "#fae436",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.55
+			},
+			"zooms": "9-12"
+		},
+		{
+			"stylers": {
+				"color": "#fae436",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.5
+			},
+			"zooms": "12-13"
+		},
+		{
+			"stylers": {
+				"color": "#fae436",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.3
+			},
+			"zooms": "13-15"
+		},
+		{
+			"stylers": {
+				"color": "#fae436",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.4
+			},
+			"zooms": "15-132"
+		}
+	]
+},
+{
+	"COMMENT": "red jams",
+	"featureType": "all",
+	"selector": {
+		"attribute": "severity",
+		"operator": "equal",
+		"value": 1
+	},
+	"zoomSlices": [
+		{
+			"stylers": {
+				"color": "#fa6a3c",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.7
+			},
+			"zooms": "0-7"
+		},
+		{
+			"stylers": {
+				"color": "#fa6a3c",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.7
+			},
+			"zooms": "7-9"
+		},
+		{
+			"stylers": {
+				"color": "#fa6a3c",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.55
+			},
+			"zooms": "9-12"
+		},
+		{
+			"stylers": {
+				"color": "#fa6a3c",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.5
+			},
+			"zooms": "12-13"
+		},
+		{
+			"stylers": {
+				"color": "#fa6a3c",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.3
+			},
+			"zooms": "13-15"
+		},
+		{
+			"stylers": {
+				"color": "#fa6a3c",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.4
+			},
+			"zooms": "15-132"
+		}
+	]
+},
+{
+	"COMMENT": "ultra red jams",
+	"featureType": "all",
+	"selector": {
+		"attribute": "severity",
+		"operator": "equal",
+		"value": 4
+	},
+	"zoomSlices": [
+		{
+			"stylers": {
+				"color": "#c23827",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.7
+			},
+			"zooms": "0-7"
+		},
+		{
+			"stylers": {
+				"color": "#c23827",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.7
+			},
+			"zooms": "7-9"
+		},
+		{
+			"stylers": {
+				"color": "#c23827",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.55
+			},
+			"zooms": "9-12"
+		},
+		{
+			"stylers": {
+				"color": "#c23827",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.5
+			},
+			"zooms": "12-13"
+		},
+		{
+			"stylers": {
+				"color": "#c23827",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.3
+			},
+			"zooms": "13-15"
+		},
+		{
+			"stylers": {
+				"color": "#c23827",
+				"image-url": "",
+				"outline-color": "#fff",
+				"scale": 0.4
+			},
+			"zooms": "15-132"
+		}
+	]
+},
+{
+	"COMMENT": "blocked roads",
+	"featureType": "all",
+	"selector": {
+		"attribute": "severity",
+		"operator": "equal",
+		"value": 0
+	},
+	"zoomSlices": [
+		{
+			"stylers": {
+				"color": "#fff",
+				"image-url": "",
+				"outline-color": "#3b2d2b",
+				"scale": 0.7
+			},
+			"zooms": "0-7"
+		},
+		{
+			"stylers": {
+				"color": "#fff",
+				"image-url": "",
+				"outline-color": "#3b2d2b",
+				"scale": 0.7
+			},
+			"zooms": "7-9"
+		},
+		{
+			"stylers": {
+				"color": "#fff",
+				"image-url": "",
+				"outline-color": "#3b2d2b",
+				"scale": 0.55
+			},
+			"zooms": "9-12"
+		},
+		{
+			"stylers": {
+				"color": "#fff",
+				"image-url": "",
+				"outline-color": "#3b2d2b",
+				"scale": 0.5
+			},
+			"zooms": "12-13"
+		},
+		{
+			"stylers": {
+				"color": "#fff",
+				"image-url": "",
+				"outline-color": "#3b2d2b",
+				"scale": 0.3
+			},
+			"zooms": "13-15"
+		},
+		{
+			"stylers": {
+				"color": "#fff",
+				"image-url": "",
+				"outline-color": "#3b2d2b",
+				"scale": 0.4
+			},
+			"zooms": "15-132"
+		}
+	]
+},
 	{
 	  "featureType": "admin",
 	  "stylers": {
