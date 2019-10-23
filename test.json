@@ -372,9 +372,10 @@
  {
 	"featureType":"entrance.entrance_0",
 	"stylers":{
-		"scale": 0.9,
+		
 		"lightness": 0.45,
-		"saturation": -1
+		"saturation": -1,
+		"scale": 1.2
 	}
 },
  {
