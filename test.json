@@ -372,6 +372,8 @@
  {
 	"featureType":"entrance.entrance_0",
 	"stylers":{
+		"lightness": 0.3,
+		"saturation": -1,
 		"scale": 1.05
 	}
 },
