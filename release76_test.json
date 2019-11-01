@@ -1,0 +1,18 @@
+[{
+    "featureType": "admin.background",
+    "stylers": {
+        "color": "#E5E9EC"
+      }
+   },
+   {
+    "featureType": "admin.locality_a",
+    "stylers": {
+        "color": "#E5E9EC"
+      }
+   },
+   {
+    "featureType": "admin.locality_a.locality_0",
+    "stylers": {
+        "color": "#E5E9EC"
+      }
+   }]
