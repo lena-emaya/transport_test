@@ -1292,6 +1292,48 @@
 },
 {
 	"featureType": "road.class7_0",
+	"zooms":"13",
+	"stylers": {
+		"color": "#CCC8A9"
+	}
+},
+{
+	"featureType": "road.class7_1",
+	"zooms":"13",
+	"stylers": {
+		"color": "#CCC8A9"
+	}
+},
+{
+	"featureType": "road.class7_2",
+	"zooms":"13",
+	"stylers": {
+		"color": "#CCC8A9"
+	}
+},
+{
+	"featureType": "road.class7_3",
+	"zooms":"13",
+	"stylers": {
+		"сolor": "#CCC8A9"
+	}
+},
+{
+	"featureType": "road.class7_4",
+	"zooms":"13",
+	"stylers": {
+		"color": "#CCC8A9"
+	}
+},
+{
+	"featureType": "road.class7_5",
+	"zooms":"13",
+	"stylers": {
+		"color": "#CCC8A9"
+	}
+},
+{
+	"featureType": "road.class7_0",
 	"zooms":"14",
 	"stylers": {
 		"outline-color": "#CCC8A9"
@@ -1332,18 +1374,7 @@
 		"outline-color": "#CCC8A9"
 	}
 },
-{
-	"featureType": "road.class8_0",
-	"stylers": {
-		"outline-color": "#00CA50"
-	}
-},
-{
-	"featureType": "road.class9_0",
-	"stylers": {
-		"outline-color": "#3B2D2B"
-	}
-},
+
 {
 	"featureType":"road.local.bike",
 	"stylers":{
