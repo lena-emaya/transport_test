@@ -5,7 +5,12 @@
 	  	"color": "#F9F7F2"
 		}
  	},
-	 
+	 {
+	  "featureType": "road.local.pedestrian",
+	  "stylers": {
+      "visibility": "off"
+		}
+	 },
   	{
  	  "featureType": "urban-area.landuse_a",
  	  "stylers": {
@@ -900,6 +905,12 @@
 	]			
 },
 {
+	"featureType": "road.local.pedestrian.road",
+	"stylers": {
+		"visibility": "on"
+	}
+ },
+{
 	"featureType": "road.class7_dash_0",
 	"stylers": {
 		"color": "#D1CDB6",
@@ -1282,7 +1293,7 @@
 {
 	"featureType": "road.class6_0",
 	"stylers": {
-		"color": "#F5523A"
+		"outline-color": "#fff"
 	}
 },
 {
