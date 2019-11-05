@@ -653,7 +653,7 @@
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"color": "#C4BFA7",
+				"color": "#D1CDB6",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -672,7 +672,7 @@
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"color": "#C4BFA7",
+				"color": "#D1CDB6",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -691,7 +691,7 @@
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"color": "#C4BFA7",
+				"color": "#D1CDB6",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -710,7 +710,7 @@
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"color": "#C4BFA7",
+				"color": "#D1CDB6",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -729,7 +729,7 @@
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"color": "#C4BFA7",
+				"color": "#D1CDB6",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -748,7 +748,7 @@
 		{
 			"zooms": "17-22",
 			"stylers": {
-				"color": "#C4BFA7",
+				"color": "#D1CDB6",
 				"visibility": "on",
 				"scale": 0.75
 				}
@@ -832,7 +832,7 @@
 			"stylers": {
 				"line-width": 0.2,
 				"color": "#E4E0D2",
-				"outline-color": "#C4BFA7",
+				"outline-color": "#D1CDB6",
 				"outline-width": 0.4
 			}
 		},
@@ -907,154 +907,154 @@
 {
 	"featureType": "road.class7_dash_0",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_1",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_2",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_3",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_4",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_5",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_6",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_7",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_8",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_9",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_10",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_11",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_12",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_13",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_14",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_15",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_16",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_17",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_18",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_19",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_20",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_21",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
@@ -1097,7 +1097,7 @@
  {
 	"featureType": "road.class10_dash_0",
 	"stylers": {
-		"color": "#C4BFA7",
+		"color": "#D1CDB6",
 		"scale":0.5
 	}
 },
