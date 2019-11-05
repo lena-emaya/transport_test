@@ -917,9 +917,125 @@
 	}
 },
 {
+	"featureType": "road.class7_dash_0",
+	"stylers": {
+		"color": "#f00"
+	}
+},
+{
 	"featureType": "road.class10_bg_0",
 	"stylers": {
 		"color": "#f00"
 	}
-}
+},
+{
+	"featureType":"road.local.bike",
+	"stylers":{
+		"visibility":"off"
+	}
+},
+{
+	"featureType": "transport.line",
+	"stylers": {
+		"visibility":"off"
+	}
+ },
+ {
+	"featureType": "ferry",
+	"stylers": {
+	"visibility": "off"}
+ },
+ {
+	"featureType": "nonauto.road.ferry_0",
+	"stylers": {
+		"visibility": "off"
+	}
+ },
+ {
+	"featureType": "roadnet_a",
+	"stylers": {
+	"visibility": "off"}
+ },
+ {
+	"featureType": "place_label.block_0",
+	"zooms": "0-22",
+	"stylers": {
+		"visibility": "off"
+	}
+},
+ {
+	"featureType": "nonauto.road.arrows",
+	"stylers": {
+	"visibility": "off"}
+ },
+ {
+	"featureType": "nonauto.road.arrows_0",
+	"stylers": {
+	"visibility": "off"}
+ },
+ {
+	"featureType": "nonauto.road.arrows_1",
+	"stylers": {
+	"visibility": "off"}
+ },
+ {
+	"featureType": "nonauto.road.arrows_2",
+	"stylers": {
+	"visibility": "off"}
+ },
+ {
+	"featureType": "nonauto.road.arrows_3",
+	"stylers": {
+	"visibility": "off"}
+ },
+ {
+	"featureType": "nonauto.road.arrows_4",
+	"stylers": {
+	"visibility": "off"}
+ },
+ {
+	"featureType": "nonauto.road.arrows_5",
+	"stylers": {
+	"visibility": "off"}
+ },
+ {
+	"featureType": "nonauto.road.arrows_6",
+	"stylers": {
+	"visibility": "off"}
+ },
+ {
+	"featureType": "nonauto.road.arrows_7",
+	"stylers": {
+	"visibility": "off"}
+ },
+ {
+	"featureType": "nonauto.road.arrows_8",
+	"stylers": {
+	"visibility": "off"}
+ },
+ {
+	"featureType": "nonauto.road.arrows_9",
+	"stylers": {
+	"visibility": "off"}
+ },
+ {
+	"featureType": "nonauto.road.arrows_10",
+	"stylers": {
+	"visibility": "off"}
+ },
+ {
+	"featureType": "nonauto.road.arrows_11",
+	"stylers": {
+	"visibility": "off"}
+ },
+ {
+	"featureType": "nonauto.road.arrows_12",
+	"stylers": {
+	"visibility": "off"}
+ },
+ {
+	"featureType": "nonauto.road.arrows_13",
+	"stylers": {
+	"visibility": "off"}
+ }
 ]
