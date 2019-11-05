@@ -1292,6 +1292,7 @@
 },
 {
 	"featureType": "road.class7_0",
+	"zooms":"14",
 	"stylers": {
 		"outline-color": "#fff"
 	}
