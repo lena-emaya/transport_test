@@ -1333,6 +1333,18 @@
 	}
 },
 {
+	"featureType": "road.class8_0",
+	"stylers": {
+		"outline-color": "#00CA50"
+	}
+},
+{
+	"featureType": "road.class9_0",
+	"stylers": {
+		"outline-color": "#3B2D2B"
+	}
+},
+{
 	"featureType":"road.local.bike",
 	"stylers":{
 		"visibility":"off"
