@@ -916,19 +916,25 @@
  {
 	"featureType": "road.class10_dash_0",
 	"stylers": {
-		"color": "#f00"
+		"hue": -0.75,
+		"saturation": 1,
+		"lightness": 0.2,
+		"scale": 0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_0",
 	"stylers": {
-		"color": "#f00"
+		"hue": -0.75,
+		"saturation": 1,
+		"lightness": 0.2,
+		"scale": 0.5
 	}
 },
 {
 	"featureType": "road.class10_bg_0",
 	"stylers": {
-		"color": "#f00"
+		"color": "#000"
 	}
 },
 {
