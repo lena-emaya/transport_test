@@ -1103,6 +1103,42 @@
 	}
 },
 {
+	"featureType": "road.class10_dash_16",
+	"stylers": {
+	"color": "#A3A1D1"
+	}
+},
+{
+	"featureType": "road.class10_dash_17",
+	"stylers": {
+	"color": "#A3A1D1"
+	}
+},
+{
+	"featureType": "road.class10_dash_18",
+	"stylers": {
+	"color": "#A3A1D1"
+	}
+},
+{
+	"featureType": "road.class10_dash_19",
+	"stylers": {
+	"color": "#A3A1D1"
+	}
+},
+{
+	"featureType": "road.class10_dash_20",
+	"stylers": {
+	"color": "#A3A1D1"
+	}
+},
+{
+	"featureType": "road.class10_dash_21",
+	"stylers": {
+	"color": "#A3A1D1"
+	}
+},
+{
 	"featureType": "road.class10_bg_0",
 	"stylers": {
 		"color": "#F9F7F2"
