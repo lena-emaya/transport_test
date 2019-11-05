@@ -909,5 +909,17 @@
 	"stylers": {
     "color": "#f00"
 	}
- }
+ },
+ {
+	"featureType": "road.class10_dash_0",
+	"stylers": {
+		"color": "#f00"
+	}
+},
+{
+	"featureType": "road.class10_bg_0",
+	"stylers": {
+		"color": "#f00"
+	}
+}
 ]
