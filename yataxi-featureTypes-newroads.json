@@ -907,10 +907,7 @@
 {
 	"featureType": "road.local.pedestrian.road",
 	"stylers": {
-		"hue": -0.75,
-		"saturation": 1,
-		"lightness": 0.2,
-		"scale": 0.5
+		"color": "#f00"
 	}
  },
  {
@@ -934,7 +931,13 @@
 {
 	"featureType": "road.class10_bg_0",
 	"stylers": {
-		"color": "#000"
+		"color": "#F9F7F2"
+	}
+},
+{
+	"featureType": "road.class7_bg_0",
+	"stylers": {
+		"color": "#F9F7F2"
 	}
 },
 {
