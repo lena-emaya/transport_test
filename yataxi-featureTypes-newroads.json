@@ -907,109 +907,198 @@
 {
 	"featureType": "road.class7_dash_0",
 	"stylers": {
-		"color": "#f00"
+		"color": "#C4BFA7",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_1",
 	"stylers": {
-		"color": "#f00"
+		"color": "#C4BFA7",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_2",
 	"stylers": {
-		"color": "#f00"
+		"color": "#C4BFA7",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_3",
 	"stylers": {
-		"color": "#f00"
+		"color": "#C4BFA7",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_4",
 	"stylers": {
-		"color": "#f00"
+		"color": "#C4BFA7",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_5",
 	"stylers": {
-		"color": "#f00"
+		"color": "#C4BFA7",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_6",
 	"stylers": {
-		"color": "#f00"
+		"color": "#C4BFA7",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_7",
 	"stylers": {
-		"color": "#f00"
+		"color": "#C4BFA7",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_8",
 	"stylers": {
-		"color": "#f00"
+		"color": "#C4BFA7",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_9",
 	"stylers": {
-		"color": "#f00"
+		"color": "#C4BFA7",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_10",
 	"stylers": {
-		"color": "#f00"
+		"color": "#C4BFA7",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_11",
 	"stylers": {
-		"color": "#f00"
+		"color": "#C4BFA7",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_12",
 	"stylers": {
-		"color": "#f00"
+		"color": "#C4BFA7",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_13",
 	"stylers": {
-		"color": "#f00"
+		"color": "#C4BFA7",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_14",
 	"stylers": {
-		"color": "#f00"
+		"color": "#C4BFA7",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_dash_15",
 	"stylers": {
-		"color": "#f00"
+		"color": "#C4BFA7",
+		"scale":0.5
+	}
+},
+{
+	"featureType": "road.class7_dash_16",
+	"stylers": {
+		"color": "#C4BFA7",
+		"scale":0.5
+	}
+},
+{
+	"featureType": "road.class7_dash_17",
+	"stylers": {
+		"color": "#C4BFA7",
+		"scale":0.5
+	}
+},
+{
+	"featureType": "road.class7_dash_18",
+	"stylers": {
+		"color": "#C4BFA7",
+		"scale":0.5
+	}
+},
+{
+	"featureType": "road.class7_dash_19",
+	"stylers": {
+		"color": "#C4BFA7",
+		"scale":0.5
+	}
+},
+{
+	"featureType": "road.class7_dash_20",
+	"stylers": {
+		"color": "#C4BFA7",
+		"scale":0.5
+	}
+},
+{
+	"featureType": "road.class7_dash_21",
+	"stylers": {
+		"color": "#C4BFA7",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class7_bg_0",
 	"stylers": {
-		"color": "#F9F7F2"
+		"color": "#fff"
+	}
+},
+{
+	"featureType": "road.class7_bg_1",
+	"stylers": {
+		"color": "#fff"
+	}
+},
+{
+	"featureType": "road.class7_bg_2",
+	"stylers": {
+		"color": "#fff"
+	}
+},
+{
+	"featureType": "road.class7_bg_3",
+	"stylers": {
+		"color": "#fff"
+	}
+},
+{
+	"featureType": "road.class7_bg_4",
+	"stylers": {
+		"color": "#fff"
+	}
+},
+{
+	"featureType": "road.class7_bg_5",
+	"stylers": {
+		"color": "#fff"
 	}
 },
  {
 	"featureType": "road.class10_dash_0",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#C4BFA7",
+		"scale":0.5
 	}
 },
 {
