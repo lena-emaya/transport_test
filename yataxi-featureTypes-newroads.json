@@ -1230,7 +1230,37 @@
 {
 	"featureType": "road.class10_bg_0",
 	"stylers": {
-		"color": "#F9F7F2"
+		"color": "#fff"
+	}
+},
+{
+	"featureType": "road.class10_bg_1",
+	"stylers": {
+		"color": "#fff"
+	}
+},
+{
+	"featureType": "road.class10_bg_2",
+	"stylers": {
+		"color": "#fff"
+	}
+},
+{
+	"featureType": "road.class10_bg_3",
+	"stylers": {
+		"color": "#fff"
+	}
+},
+{
+	"featureType": "road.class10_bg_4",
+	"stylers": {
+		"color": "#fff"
+	}
+},
+{
+	"featureType": "road.class10_bg_5",
+	"stylers": {
+		"color": "#fff"
 	}
 },
 
