@@ -904,28 +904,16 @@
 		}
 	]			
 },
-{
-	"featureType": "road.local.pedestrian.road",
-	"stylers": {
-		"color": "#f00"
-	}
- },
  {
 	"featureType": "road.class10_dash_0",
 	"stylers": {
-		"hue": -0.75,
-		"saturation": 1,
-		"lightness": 0.2,
-		"scale": 0.5
+	"color": "#A3A1D1"
 	}
 },
 {
 	"featureType": "road.class7_dash_0",
 	"stylers": {
-		"hue": -0.75,
-		"saturation": 1,
-		"lightness": 0.2,
-		"scale": 0.5
+		"color": "#f00"
 	}
 },
 {
