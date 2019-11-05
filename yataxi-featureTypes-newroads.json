@@ -858,7 +858,7 @@
 			"zooms": "12-13",
 			"stylers": {
 				"color": "#F7F5EB",
-				"outline-color": "#9E9872",
+				"outline-color": "#C3BC95",
 				"scale": 0.6
 			}
 		},
@@ -866,7 +866,7 @@
 			"zooms": "13-14",
 			"stylers": {
 				"color": "#fff",
-				"outline-color": "#9E9872",
+				"outline-color": "#C3BC95",
 				"scale": 0.65
 			}
 		},
