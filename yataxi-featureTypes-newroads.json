@@ -1104,37 +1104,43 @@
 {
 	"featureType": "road.class10_dash_1",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_2",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_3",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_4",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_5",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_6",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
@@ -1146,85 +1152,99 @@
 {
 	"featureType": "road.class10_dash_8",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_9",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_10",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_11",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_12",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_13",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_14",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_15",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_16",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_17",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_18",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_19",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_20",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
 	"featureType": "road.class10_dash_21",
 	"stylers": {
-	"color": "#A3A1D1"
+		"color": "#D1CDB6",
+		"scale":0.5
 	}
 },
 {
