@@ -904,12 +904,6 @@
 		}
 	]			
 },
- {
-	"featureType": "road.class10_dash_0",
-	"stylers": {
-	"color": "#A3A1D1"
-	}
-},
 {
 	"featureType": "road.class7_dash_0",
 	"stylers": {
@@ -917,9 +911,63 @@
 	}
 },
 {
-	"featureType": "road.class10_bg_0",
+	"featureType": "road.class7_dash_1",
 	"stylers": {
-		"color": "#F9F7F2"
+		"color": "#f00"
+	}
+},
+{
+	"featureType": "road.class7_dash_2",
+	"stylers": {
+		"color": "#f00"
+	}
+},
+{
+	"featureType": "road.class7_dash_3",
+	"stylers": {
+		"color": "#f00"
+	}
+},
+{
+	"featureType": "road.class7_dash_4",
+	"stylers": {
+		"color": "#f00"
+	}
+},
+{
+	"featureType": "road.class7_dash_5",
+	"stylers": {
+		"color": "#f00"
+	}
+},
+{
+	"featureType": "road.class7_dash_6",
+	"stylers": {
+		"color": "#f00"
+	}
+},
+{
+	"featureType": "road.class7_dash_7",
+	"stylers": {
+		"color": "#f00"
+	}
+},
+{
+	"featureType": "road.class7_dash_8",
+	"stylers": {
+		"color": "#f00"
+	}
+},
+{
+	"featureType": "road.class7_dash_9",
+	"stylers": {
+		"color": "#f00"
+	}
+},
+{
+	"featureType": "road.class7_dash_10",
+	"stylers": {
+		"color": "#f00"
 	}
 },
 {
@@ -928,6 +976,79 @@
 		"color": "#F9F7F2"
 	}
 },
+ {
+	"featureType": "road.class10_dash_0",
+	"stylers": {
+	"color": "#A3A1D1"
+	}
+},
+{
+	"featureType": "road.class10_dash_1",
+	"stylers": {
+	"color": "#A3A1D1"
+	}
+},
+{
+	"featureType": "road.class10_dash_2",
+	"stylers": {
+	"color": "#A3A1D1"
+	}
+},
+{
+	"featureType": "road.class10_dash_3",
+	"stylers": {
+	"color": "#A3A1D1"
+	}
+},
+{
+	"featureType": "road.class10_dash_4",
+	"stylers": {
+	"color": "#A3A1D1"
+	}
+},
+{
+	"featureType": "road.class10_dash_5",
+	"stylers": {
+	"color": "#A3A1D1"
+	}
+},
+{
+	"featureType": "road.class10_dash_6",
+	"stylers": {
+	"color": "#A3A1D1"
+	}
+},
+{
+	"featureType": "road.class10_dash_7",
+	"stylers": {
+	"color": "#A3A1D1"
+	}
+},
+{
+	"featureType": "road.class10_dash_8",
+	"stylers": {
+	"color": "#A3A1D1"
+	}
+},
+{
+	"featureType": "road.class10_dash_9",
+	"stylers": {
+	"color": "#A3A1D1"
+	}
+},
+{
+	"featureType": "road.class10_dash_10",
+	"stylers": {
+	"color": "#A3A1D1"
+	}
+},
+{
+	"featureType": "road.class10_bg_0",
+	"stylers": {
+		"color": "#F9F7F2"
+	}
+},
+
 {
 	"featureType":"road.local.bike",
 	"stylers":{
