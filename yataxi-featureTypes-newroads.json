@@ -1283,7 +1283,12 @@
 		"color": "#fff"
 	}
 },
-
+{
+	"featureType": "road.class6_0",
+	"stylers": {
+		"color": "#F5523A"
+	}
+},
 {
 	"featureType":"road.local.bike",
 	"stylers":{
