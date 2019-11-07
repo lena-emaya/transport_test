@@ -1333,6 +1333,41 @@
 	}
 },
 {
+	"featureType": "road.class7_6",
+	"zooms":"13",
+	"stylers": {
+		"color": "#CCC8A9"
+	}
+},
+{
+	"featureType": "road.class7_7",
+	"zooms":"13",
+	"stylers": {
+		"color": "#CCC8A9"
+	}
+},
+{
+	"featureType": "road.class7_8",
+	"zooms":"13",
+	"stylers": {
+		"color": "#CCC8A9"
+	}
+},
+{
+	"featureType": "road.class7_9",
+	"zooms":"13",
+	"stylers": {
+		"color": "#CCC8A9"
+	}
+},
+{
+	"featureType": "road.class7_10",
+	"zooms":"13",
+	"stylers": {
+		"color": "#CCC8A9"
+	}
+},
+{
 	"featureType": "road.class7_0",
 	"zooms":"14",
 	"stylers": {
