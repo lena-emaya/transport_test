@@ -1292,124 +1292,259 @@
 },
 {
 	"featureType": "road.class7_0",
-	"zooms":"13",
-	"stylers": {
-		"color": "#CCC8A9"
+	"zoomSlices": [
+	{
+		"zooms":"13",
+		"stylers": {
+			"color": "#CCC8A9"
+		}
+	},
+	{
+		"zooms":"14",
+		"stylers": {
+			"outline-color": "#CCC8A9"
+		}
 	}
+	]
 },
 {
 	"featureType": "road.class7_1",
-	"zooms":"13",
-	"stylers": {
-		"color": "#CCC8A9"
+	"zoomSlices": [
+	{
+		"zooms":"13",
+		"stylers": {
+			"color": "#CCC8A9"
+		}
+	},
+	{
+		"zooms":"14",
+		"stylers": {
+			"outline-color": "#CCC8A9"
+		}
 	}
+	]
 },
 {
 	"featureType": "road.class7_2",
-	"zooms":"13",
-	"stylers": {
-		"color": "#CCC8A9"
+	"zoomSlices": [
+	{
+		"zooms":"13",
+		"stylers": {
+			"color": "#CCC8A9"
+		}
+	},
+	{
+		"zooms":"14",
+		"stylers": {
+			"outline-color": "#CCC8A9"
+		}
 	}
+	]
 },
 {
 	"featureType": "road.class7_3",
-	"zooms":"13",
-	"stylers": {
-		"сolor": "#CCC8A9"
+	"zoomSlices": [
+	{
+		"zooms":"13",
+		"stylers": {
+			"color": "#CCC8A9"
+		}
+	},
+	{
+		"zooms":"14",
+		"stylers": {
+			"outline-color": "#CCC8A9"
+		}
 	}
+	]
 },
 {
 	"featureType": "road.class7_4",
-	"zooms":"13",
-	"stylers": {
-		"color": "#CCC8A9"
+	"zoomSlices": [
+	{
+		"zooms":"13",
+		"stylers": {
+			"color": "#CCC8A9"
+		}
+	},
+	{
+		"zooms":"14",
+		"stylers": {
+			"outline-color": "#CCC8A9"
+		}
 	}
+	]
 },
 {
 	"featureType": "road.class7_5",
-	"zooms":"13",
-	"stylers": {
-		"color": "#CCC8A9"
+	"zoomSlices": [
+	{
+		"zooms":"13",
+		"stylers": {
+			"color": "#CCC8A9"
+		}
+	},
+	{
+		"zooms":"14",
+		"stylers": {
+			"outline-color": "#CCC8A9"
+		}
 	}
+	]
 },
 {
 	"featureType": "road.class7_6",
-	"zooms":"13",
-	"stylers": {
-		"color": "#CCC8A9"
+	"zoomSlices": [
+	{
+		"zooms":"13",
+		"stylers": {
+			"color": "#CCC8A9"
+		}
+	},
+	{
+		"zooms":"14",
+		"stylers": {
+			"outline-color": "#CCC8A9"
+		}
 	}
+	]
 },
 {
 	"featureType": "road.class7_7",
-	"zooms":"13",
-	"stylers": {
-		"color": "#CCC8A9"
+	"zoomSlices": [
+	{
+		"zooms":"13",
+		"stylers": {
+			"color": "#CCC8A9"
+		}
+	},
+	{
+		"zooms":"14",
+		"stylers": {
+			"outline-color": "#CCC8A9"
+		}
 	}
+	]
 },
 {
 	"featureType": "road.class7_8",
-	"zooms":"13",
-	"stylers": {
-		"color": "#CCC8A9"
+	"zoomSlices": [
+	{
+		"zooms":"13",
+		"stylers": {
+			"color": "#CCC8A9"
+		}
+	},
+	{
+		"zooms":"14",
+		"stylers": {
+			"outline-color": "#CCC8A9"
+		}
 	}
+	]
 },
 {
 	"featureType": "road.class7_9",
-	"zooms":"13",
-	"stylers": {
-		"color": "#CCC8A9"
+	"zoomSlices": [
+	{
+		"zooms":"13",
+		"stylers": {
+			"color": "#CCC8A9"
+		}
+	},
+	{
+		"zooms":"14",
+		"stylers": {
+			"outline-color": "#CCC8A9"
+		}
 	}
+	]
 },
 {
 	"featureType": "road.class7_10",
-	"zooms":"13",
-	"stylers": {
-		"color": "#CCC8A9"
+	"zoomSlices": [
+	{
+		"zooms":"13",
+		"stylers": {
+			"color": "#CCC8A9"
+		}
+	},
+	{
+		"zooms":"14",
+		"stylers": {
+			"outline-color": "#CCC8A9"
+		}
 	}
+	]
 },
 {
-	"featureType": "road.class7_0",
-	"zooms":"14",
-	"stylers": {
-		"outline-color": "#CCC8A9"
+	"featureType": "road.class7_11",
+	"zoomSlices": [
+	{
+		"zooms":"13",
+		"stylers": {
+			"color": "#CCC8A9"
+		}
+	},
+	{
+		"zooms":"14",
+		"stylers": {
+			"outline-color": "#CCC8A9"
+		}
 	}
+	]
 },
 {
-	"featureType": "road.class7_1",
-	"zooms":"14",
-	"stylers": {
-		"outline-color": "#CCC8A9"
+	"featureType": "road.class7_12",
+	"zoomSlices": [
+	{
+		"zooms":"13",
+		"stylers": {
+			"color": "#CCC8A9"
+		}
+	},
+	{
+		"zooms":"14",
+		"stylers": {
+			"outline-color": "#CCC8A9"
+		}
 	}
+	]
 },
 {
-	"featureType": "road.class7_2",
-	"zooms":"14",
-	"stylers": {
-		"outline-color": "#CCC8A9"
+	"featureType": "road.class7_13",
+	"zoomSlices": [
+	{
+		"zooms":"13",
+		"stylers": {
+			"color": "#CCC8A9"
+		}
+	},
+	{
+		"zooms":"14",
+		"stylers": {
+			"outline-color": "#CCC8A9"
+		}
 	}
+	]
 },
 {
-	"featureType": "road.class7_3",
-	"zooms":"14",
-	"stylers": {
-		"outline-color": "#CCC8A9"
+	"featureType": "road.class7_14",
+	"zoomSlices": [
+	{
+		"zooms":"13",
+		"stylers": {
+			"color": "#CCC8A9"
+		}
+	},
+	{
+		"zooms":"14",
+		"stylers": {
+			"outline-color": "#CCC8A9"
+		}
 	}
+	]
 },
-{
-	"featureType": "road.class7_4",
-	"zooms":"14",
-	"stylers": {
-		"outline-color": "#CCC8A9"
-	}
-},
-{
-	"featureType": "road.class7_5",
-	"zooms":"14",
-	"stylers": {
-		"outline-color": "#CCC8A9"
-	}
-},
-
 {
 	"featureType":"road.local.bike",
 	"stylers":{
